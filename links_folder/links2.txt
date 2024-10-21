@@ -3109,3 +3109,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.44:443?security=tls&sni
 vless://d0f9437f-3c49-45c6-976b-ebea24158b39@45.81.58.222:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#[🇺🇸]t.me/V2razy
 vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@104.21.83.62:2096?security=tls&sni=1223-9ux.pages.dev&type=ws&host=1223-9ux.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#[🇺🇸]t.me/V2razy
 vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.167:8443?security=tls&sni=bPb005.paGes.DEV&type=ws&path=%2Ffxhhv799mihz1xxp%2Fmtuyljy3ljiznc40oq%3D%3D%3Fed%3D2560#[🇺🇸]t.me/V2razy
+trojan://telegram-id-privatevpns@13.37.47.4:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @V2razy📡🇫🇷France
