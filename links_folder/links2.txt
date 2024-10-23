@@ -85,3 +85,6 @@ trojan://telegram-id-directvpn@15.222.175.22:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@35.176.39.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/V2razy
 trojan://telegram-id-directvpn@18.199.133.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-privatevpns@99.81.243.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/V2razy
+trojan://telegram-id-privatevpns@15.236.11.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇫🇷France
+vless://f85872e3-16eb-5625-a45d-de35abee97f5@104.16.201.94:2087?security=tls&sni=contactusfromwebvahid.saSSANiDEMPiRe.Com&type=ws&host=contactusfromwebvahid.saSSANiDEMPiRe.Com&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3,h2#👉🆔 @V2razy📡🇺🇸United States
+vless://ec3caa8b-df48-497a-889e-d5958e9d3f39@151.101.66.133:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Okhala.com&type=ws#👉🆔 @V2razy📡🇺🇸United States
