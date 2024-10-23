@@ -88,3 +88,5 @@ trojan://telegram-id-privatevpns@99.81.243.187:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@15.236.11.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇫🇷France
 vless://f85872e3-16eb-5625-a45d-de35abee97f5@104.16.201.94:2087?security=tls&sni=contactusfromwebvahid.saSSANiDEMPiRe.Com&type=ws&host=contactusfromwebvahid.saSSANiDEMPiRe.Com&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3,h2#👉🆔 @V2razy📡🇺🇸United States
 vless://ec3caa8b-df48-497a-889e-d5958e9d3f39@151.101.66.133:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Okhala.com&type=ws#👉🆔 @V2razy📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.95.203:2375#👉🆔 @V2razy📡🇺🇸United States
+vless://690f16d0-6425-462b-86e0-a70a8169c5d9@172.66.44.211:443?path=%2FTelegram%40mobilesignal%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg97.pages.dev&fp=randomized&type=ws&sni=pardazeshvpn-tg97.pages.dev#👉🆔 @V2razy📡🇨🇦Canada
