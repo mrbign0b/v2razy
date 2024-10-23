@@ -3651,3 +3651,4 @@ vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=%2Fhttp&security
 trojan://telegram-id-privatevpns@13.51.188.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/V2razy
 trojan://telegram-id-directvpn@13.60.142.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 vless://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=ARCane-ROYAL.Pages.DEV&type=ws&sni=ARCane-ROYAL.Pages.DEV#[🇺🇸]t.me/V2razy
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@27.50.49.13:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=juzibaipiao.5112233.xyz&type=ws&sni=juzibaipiao.5112233.xyz#[🏁]t.me/V2razy
