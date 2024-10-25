@@ -77,3 +77,8 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.57.104.238:22222?path=/telegram-
 trojan://telegram-id-privatevpns@63.32.152.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/V2razy
 trojan://telegram-id-directvpn@34.226.4.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@13.50.220.253:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
+trojan://bpb-trojan@104.18.34.21:2053?path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=randomized&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#[🏁]t.me/V2razy
+vless://70848c97-a6eb-4045-8144-3e65beb2b750@94.141.96.125:47784?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/V2razy
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#👉🆔 @V2razy📡🇺🇸United States
+vless://70848c97-a6eb-4045-8144-3e65beb2b750@94.141.96.125:47784?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @V2razy📡🇳🇱The Netherlands
+trojan://bpb-trojan@104.18.34.21:2053?path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=randomized&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#👉🆔 @V2razy📡🇺🇸United States
