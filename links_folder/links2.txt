@@ -152,3 +152,11 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.41.140.90:22222?path=/telegram-c
 trojan://telegram-id-directvpn@34.255.211.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.69:7307#[🏁]t.me/V2razy
 trojan://telegram-id-directvpn@18.135.127.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@198.41.220.12:443?security=tls&type=ws&sni=jobscareerforlawyers.com&path=/6b777a91&host=jobscareerforlawyers.com#[🏁]t.me/V2razy
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=JOiNMAHdiSERVer-BG3.Pages.dEv&fp=randomized&type=ws&sni=JOiNmahDIsErVER-Bg3.PAGes.deV#👉🆔 @V2razy📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@15.204.87.225:8118#[🏁]t.me/V2razy
+ss://YWVzLTI1Ni1nY206M2I5a3RaR3p0Qw==@162.19.25.207:34232#[🏁]t.me/V2razy
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @V2razy📡🇺🇸United States
+vmess://eyJhZGQiOiJmcmVlaXJhbndlYjE0LmlwLWR5bmFtaWMub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjliYzVhNDI4LWEwYWMtNDEwMC04NGY2LWMzYmQzYjIxNGViZSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiQEZyZWVJcmFuV2ViIiwicG9ydCI6IjM3MzgyIiwicHMiOiJb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
+vmess://eyJhZGQiOiAiZnJlZWlyYW53ZWIxNC5pcC1keW5hbWljLm9yZyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiOWJjNWE0MjgtYTBhYy00MTAwLTg0ZjYtYzNiZDNiMjE0ZWJlIiwgIm5ldCI6ICJncnBjIiwgInBhdGgiOiAiQEZyZWVJcmFuV2ViIiwgInBvcnQiOiAiMzczODIiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiZ3VuIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmNVx1ZDgzY1x1ZGRmMVBvbGFuZCJ9
+vless://---V2RAXX--@funnelytics.io:8443?path=%2FTelegram%2CV2RAXX%3Fed%3D2480&security=tls&encryption=none&alpn=h3#👉🆔 @V2razy📡🇨🇦Canada
