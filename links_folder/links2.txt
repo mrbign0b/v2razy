@@ -108,3 +108,9 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@69.50.95.103:8008#👉🆔 @V2razy📡�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#👉🆔 @V2razy📡🇬🇧United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWaE9jWXZGOHJFZC1lMGpxVUIxWWlR@147.45.143.16:1080#👉🆔 @V2razy📡🇷🇺Russia
 ss://YWVzLTI1Ni1nY206ZVlJQW9HcUlpUnhvS0Y1enNucG1hZGUzVW5VRUpjaE5naE5ZbGlEVmxZaz0=@91.107.160.111:36298#👉🆔 @V2razy📡🇩🇪Germany
+trojan://auto@www.wto.org:443?path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanfree-76s.pages.dev&fp=randomized&type=ws&sni=trojanfree-76s.pages.dev#👉🆔 @V2razy📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#👉🆔 @V2razy📡🇱🇹Lithuania
+vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@cfpage-39t.pages.dev:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=cfpage-39t.pages.dev&fp=random&type=ws&sni=cfpage-39t.pages.dev#👉🆔 @V2razy📡🇨🇦Canada
+vless://a367d8c9-6ebb-4a36-aa1b-0555c8d5a817@Live.skornorth.com:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=fvgetngu45h4gnrtuinrt.com&type=ws&sni=Live.skornorth.com#👉🆔 @V2razy📡🇺🇸United States
+vless://bf7e1009-1574-44f7-86df-6cbecd338477@pardazeshvpn-tg18.pages.dev:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=pardazeshvpn-tg18.pages.dev&fp=randomized&type=ws&sni=pardazeshvpn-tg18.pages.dev#👉🆔 @V2razy📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @V2razy📡🇬🇧United Kingdom
