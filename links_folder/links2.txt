@@ -98,3 +98,10 @@ vless://110c7d15-23d1-48f0-a882-7ae63e63eb3a@zmaoz.faculty.ucdavis.edu:443?encry
 vless://e6aacb88-39e7-4c11-969a-111d343c3e71@mtn.mtabag.ir:8080?path=%2F%3Fed%3D8080&security=none&encryption=none&host=vwvwvwvwvwvwvwvwv.it.irvwvwvwvwwwvwvwvwvwvwvwvwvwv.vvwvw.ataribaran.ir&type=ws#[🏁]t.me/V2razy
 vless://e6aacb88-39e7-4c11-969a-111d343c3e71@104.18.1.125:8080?path=%2F%3Fed%3D8080&security=none&encryption=none&host=vwvwvwvwvwvwvwvwv.it.irvwvwvwvwwwvwvwvwvwvwvwvwvwv.vvwvw.ataribaran.ir&type=ws#[🏁]t.me/V2razy
 vless://b416d154-195e-4436-c2ef-56114c14b007@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#[🏁]t.me/V2razy
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.195.133:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇫🇷
+trojan://telegram-id-directvpn@18.118.127.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
+trojan://telegram-id-directvpn@18.118.127.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/V2razy
+trojan://telegram-id-privatevpns@13.39.38.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/V2razy
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.195.133:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🏁]t.me/V2razy
+trojan://telegram-id-privatevpns@13.39.38.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/V2razy
+vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?encryption=none&security=tls&sni=aksnmaioas.pages.dev&type=ws&host=aksnmaioas.pages.dev&path=%2F%3Fed%3D2048#[🏁]t.me/V2razy
