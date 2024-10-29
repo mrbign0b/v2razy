@@ -127,3 +127,10 @@ vless://ec3caa8b-df48-497a-889e-d5958e9d3f39@151.101.66.133:80?path=%2Ftelegram-
 vless://1873b7c8-8341-4759-be82-139037d5c198@m1.jadidistorefandogh.ir:2053?path=%2Fdigikala.com%2Flogin%2F%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=my.jadidistorefandogh.ir&fp=chrome&type=ws&sni=my.jadidistorefandogh.ir#👉🆔 @V2razy📡🇮🇷Iran
 vless://1873b7c8-8341-4759-be82-139037d5c198@m1.jadidistorefandogh.ir:2053?path=%2Fdigikala.com%2Flogin%2F%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=my.jadidistorefandogh.ir&fp=chrome&type=ws&sni=my.jadidistorefandogh.ir#[🏁]t.me/V2razy
 vless://ab6ac91e-2e86-4f6b-99ac-dd1124a023c4@uigukjlgbkljguyfkjbk.pages.dev:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=uigukjlgbkljguyfkjbk.pages.dev&fp=randomized&sni=uigukjlgbkljguyfkjbk.pages.dev#👉🆔 @V2razy📡🤷‍♀️🤷‍♂️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#[🏁]t.me/V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#[🏁]t.me/V2razy
+vless://1dfb1ecb-e610-4ab0-8133-4a384850c1a3@172.67.37.213:8443?path=Pages.Dev%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ev2raydev.pages.dev&fp=chrome&type=ws&sni=paGES.dEV#👉🆔 @V2razy📡🇨🇦Canada
+vless://1dfb1ecb-e610-4ab0-8133-4a384850c1a3@172.67.37.213:8443?path=Pages.Dev%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ev2raydev.pages.dev&fp=chrome&type=ws&sni=paGES.dEV#[🏁]t.me/V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @V2razy📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @V2razy📡🇧🇭Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @V2razy📡🇦🇪United Arab Emirates
