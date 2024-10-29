@@ -152,3 +152,7 @@ vless://ea93598b-a8d8-449a-a925-520c6e1626ee@162.251.82.187:443?path=%2FTelegram
 vless://telegram-id-%41rV2ray@151.101.2.216:80?path=%2Ftelegram-%41rV2ry%2Ctelegram-%41rV2ry%2Ctelegram-%41rV2ry%2Ctelegram-%41rV2ry%2Ctelegram-%41rV2ry%2Ctelegram-%41rV2ry%2Ctelegram-%41rV2ry%2Ctelegram-%41rV2ry%2Ctelegram-%41rV2ry%2Ctelegram-%41rV2ry%2Ctelegram-%41rV2ry%3Fed%3D80&security=none&encryption=none=/@mehrosaboran,@mehrosaboran,@mehrosaboran,@mehrosaboran,@mehrosaboran,@mehrosaboran,@mehrosaboran&host=Cdiuw25.net&type=ws#👉🆔 @V2razy📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#👉🆔 @V2razy📡🇳🇱The Netherlands
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.166.88.198:5003#[🏁]t.me/V2razy
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.58:2096?path=%2FmOD571okkDg4TqCz%3Fed%3D2560&security=tls&encryption=none&host=jOINV2ngfast-7nr.PAges.Dev&type=ws&sni=joinV2NGFasT-7Nr.pAgeS.DeV#👉🆔 @V2razy📡🇨🇦Canada
+vless://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none=/@mehrosaboran#👉🆔 @V2razy📡🇺🇸United States
+vless://690f16d0-6425-462b-86e0-a70a8169c5d9@172.66.44.211:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none=/@mehrosaboran#👉🆔 @V2razy📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.58:2096?path=%2FmOD571okkDg4TqCz%3Fed%3D2560&security=tls&encryption=none&host=jOINV2ngfast-7nr.PAges.Dev&type=ws&sni=joinV2NGFasT-7Nr.pAgeS.DeV#[🏁]t.me/V2razy
