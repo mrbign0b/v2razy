@@ -80,3 +80,5 @@ vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.26.14.85:2096?type=ws&host=hagh
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.222.125.21:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇨🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#[🏁]t.me/V2razy
 trojan://auto@104.20.17.109:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @V2razy📡🇺🇸United States
+vless://48690bf6-7e7a-4618-a6b1-882196e91b42@Ser-1.hajalii.com:48362?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🏁]t.me/V2razy
+vless://78d61a12-89d8-4e69-9096-36a651c0c5dd@104.17.147.22:2087?security=tls&sni=apkdownload.miracleheartbit.icu&type=httpupgrade&host=apkdownload.miracleheartbit.icu&path=%2F%40v2rayyngvpn%3Fed%3D2048&fp=chrome#[🏁]t.me/V2razy
