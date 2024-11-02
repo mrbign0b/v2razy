@@ -82,3 +82,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#[�
 trojan://auto@104.20.17.109:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @V2razy📡🇺🇸United States
 vless://48690bf6-7e7a-4618-a6b1-882196e91b42@Ser-1.hajalii.com:48362?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🏁]t.me/V2razy
 vless://78d61a12-89d8-4e69-9096-36a651c0c5dd@104.17.147.22:2087?security=tls&sni=apkdownload.miracleheartbit.icu&type=httpupgrade&host=apkdownload.miracleheartbit.icu&path=%2F%40v2rayyngvpn%3Fed%3D2048&fp=chrome#[🏁]t.me/V2razy
+vless://e424094c-d2bf-450c-8037-13814aa1d7f5@78.157.59.173:2082?security=none&encryption=none&host=Zulla.ir&headerType=http&type=tcp#[🏁]t.me/V2razy
+vless://bb78706c-c189-4259-bf5d-e4ac22fab298@79.127.70.76:443?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#[🏁]t.me/V2razy
