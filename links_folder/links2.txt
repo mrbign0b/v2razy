@@ -87,3 +87,6 @@ vmess://eyJhZGQiOiAiODkuMTY5LjU1LjE1MiIsICJhaWQiOiAiMCIsICJob3N0IjogInNvY2tzNXRv
 vless://2f762cc1-3021-4bdc-8553-8931b2871ea0@185.212.50.4:6625?security=reality&sni=ubisoft.com&type=h2&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=ea1058117be12087#[🏁]t.me/V2razy
 vless://98f0c223-cb75-4faa-859e-47110b1f052b@zula.ir:2096?path=%2FTelegram-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=internet4everieone7.pages.dev&fp=randomized&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV#👉🆔 @V2razy📡🇨🇦Canada
 vless://1a148082-3383-4394-d480-fbeeb5d884d6@www.speedtest.net:80?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=ac.www.speedtest.net.zula.ir.iranfastfod.iR.&type=httpupgrade#👉🆔 @V2razy📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#👉🆔 @V2razy📡🇬🇧United Kingdom
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.166.190:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @V2razy📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyVU9EdUtKTWRWTVR4bHEzUTVpU0RY@150.241.102.95:59644#👉🆔 @V2razy📡🇺🇸United States
