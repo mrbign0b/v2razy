@@ -126,3 +126,17 @@ vless://76c1cf10-8cef-47ce-ba03-076ada44d4c4@funnelytics.io:8443?path=%2FTelegra
 trojan://telegram-id-privatevpns@13.49.190.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/V2razy
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23spt.pages.dev:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=23spt.pages.dev&fp=randomized&type=ws&sni=23sPT.pAGEs.dEV#👉🆔 @V2razy📡🇨🇦Canada
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.166.88.198:3306#👉🆔 @V2razy📡🇨🇭Switzerland
+trojan://NISHIKUITAN222@173.245.59.107:443?allowInsecure=1&ws=1&wspath=%2F#[🏁]t.me/V2razy
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@89.168.17.228:443?encryption=none&security=tls&sni=cw.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @V2razy📡🇮🇹Italy
+trojan://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?security=reality&sni=dash.cloudflare.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&sid=f77e5398&type=grpc#👉🆔 @V2razy📡🇮🇹Italy
+trojan://NISHIKUITAN222@162.159.1.27:443?allowInsecure=1&ws=1&wspath=%2F#[🏁]t.me/V2razy
+vless://e4527384-4f20-4378-95dc-403996f12588@85.159.229.88:2087?type=grpc#[🏁]t.me/V2razy
+vless://e0d959b2-a0d9-4695-9baf-50f4da5e4468@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeee.ir&encryption=none#[🏁]t.me/V2razy
+trojan://NISHIKUITAN222@162.159.1.27:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔 @V2razy📡🇨🇦Canada
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE0Ny40NS41MS4xNiIsICJwb3J0IjogIjIwOTgiLCAiaWQiOiAiODM4NzYyMjItNjRhNC00OTEyLWFhMTgtYjdkOWQzNDk1OWRlIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJodHRwIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5SXRhbHkifQ==
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@98.82.48.237:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🏁]t.me/V2razy
+vless://f18440ae-180d-47cb-ad09-623897298c9f@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeee.ir&encryption=none#[🏁]t.me/V2razy
+trojan://NISHIKUITAN222@173.245.49.133:443?allowInsecure=1&ws=1&wspath=%2F#[🏁]t.me/V2razy
+vless://a70e1ca7-0cfa-5d07-b068-ca7657f9aba8@104.17.148.22:2095?path=join-%40mosiv2-%40mosiv2-%3Fed%3D2048&security=none&encryption=none&host=www.digikala.com.joinTelegram.mosiv2.fi3.vless.Sitespeedtest.net.&type=ws#👉🆔 @V2razy📡🇺🇸United States
+trojan://NISHIKUITAN222@172.67.60.216:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔 @V2razy📡🇨🇦Canada
+trojan://NISHIKUITAN222@188.114.98.221:443?allowInsecure=1&ws=1&wspath=%2F#[🏁]t.me/V2razy
