@@ -86,3 +86,8 @@ trojan://telegram-id-privatevpns@51.44.112.96:22222?security=tls&alpn=http/1.1&h
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.175.231:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇫🇷
 trojan://auto@172.67.49.134:443?path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanfree-76s.pages.dev&fp=randomized&type=ws&sni=trojanfree-76s.pages.dev#[🏁]t.me/V2razy
 trojan://telegram-id-privatevpns@18.130.17.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/V2razy
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.99.160:443?security=tls&sni=lj.ylks01.eu.org&type=ws&host=lj.ylks01.eu.org&path=%2Fblue#[🏁]t.me/V2razy
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.59.138:443?security=tls&sni=aj.ylks.xyz&type=ws&host=aj.ylks.xyz&path=%2F%3Fed%3D2048#[🏁]t.me/V2razy
+vless://f095b8f5-433f-486a-bc2f-41c974b1af6c@live.skornorth.com:443?type=ws&host=Join_Evay_vpn.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=live.skornorth.com&alpn=h2,http/1.1#[🏁]t.me/V2razy
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.97.189:443?security=tls&sni=lj.ylks01.eu.org&type=ws&host=lj.ylks01.eu.org&path=%2Fblue#[🏁]t.me/V2razy
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.215.255:443?security=tls&sni=lj.ylks01.eu.org&type=ws&host=lj.ylks01.eu.org&path=%2Fblue#[🏁]t.me/V2razy
