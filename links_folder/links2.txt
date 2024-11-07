@@ -72,3 +72,4 @@ trojan://telegram-id-privatevpns@15.188.241.33:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@52.213.129.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/V2razy
 trojan://telegram-id-privatevpns@18.130.177.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/V2razy
 vless://4045e84e-5e3c-4f70-8ff5-c1097882a55a@172.66.47.100:443?encryption=none&security=tls&sni=BPb-WOrKeR-paneL1-e4P.PAGES.DEV&alpn=http%2F1.1&fp=randomized&type=ws&host=bpb-worker-panel1-e4p.pages.dev&path=%2FYE8wFQQnzARDsNUP%2FZGUucmFkaWNhbGx5LnBybw%3D%3D#👉🆔 @V2razy📡🇨🇦Canada
+vless://a446ef35-6c74-40d9-910c-f63d60197d9b@de-08.pezesh-kian.com:2095?path=%2Fenglish.tgju.org%2Fde-08.pezesh-kian.com%3Fed%3D2095&security=none&encryption=none&type=httpupgrade#[🏁]t.me/V2razy
