@@ -95,3 +95,12 @@ vless://050450d4-7c7d-435f-b812-155e30fd8c7c@172.67.187.245:443?path=%2F&securit
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@162.159.44.202:443?path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=freedom-1rj.pages.dev&fp=randomized&type=ws&sni=freedom-1rj.pages.dev#[🏁]t.me/V2razy
 vless://b356376a-e403-5cb1-8e4f-c99bef97a468@199.232.8.39:443?path=%2F&security=tls&encryption=none&host=eli-join-eliv2ray.com&fp=edge&type=ws&sni=eLi-jOiN-ELiv2RAy.cOm#[🏁]t.me/V2razy
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.180:443#[🏁]t.me/V2razy
+vless://84712b8f-1902-4fce-8ac0-3389758a412f@www.speedtest.net:8443?type=ws&host=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&path=/Telegram,VPNCUSTOMIZE?ed%3D2480&security=tls&fp=chrome&sni=Join.VPNCUSTOMIZE.www.speedtest.net.Naziitness.com&alpn=h3,h2,http/1.1#[🏁]t.me/V2razy
+vless://84712b8f-1902-4fce-8ac0-3389758a412f@104.18.165.38:8443?type=ws&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&path=/Telegram,VPNCUSTOMIZE?ed%3D8080&security=tls&fp=chrome&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&alpn=h3,h2,http/1.1#[🏁]t.me/V2razy
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@218.152.195.182:28006?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560&fp=chrome#[🏁]t.me/V2razy
+vless://a0754407-2c37-479d-9f79-6c09e8923879@79.127.70.87:2087?security=none&type=tcp&host=doostihaa.com&headerType=http#[🏁]t.me/V2razy
+trojan://WOeXShhJpL@104.18.69.204:443?security=tls&sni=01jzus.zdzdzd.xyz&type=ws&host=01jzus.zdzdzd.xyz&path=%2Fjuzigongyi#[🏁]t.me/V2razy
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.204:8090#[🏁]t.me/V2razy
+vless://a21c5051-0bcc-49e0-81a7-9471a5d02ee6@79.127.70.122:2223?security=none&type=tcp&host=doostihaa.com&headerType=http#[🏁]t.me/V2razy
+vless://84712b8f-1902-4fce-8ac0-3389758a412f@104.17.234.128:443?type=ws&host=join.bede.vpncustomize.www.speedtest.net.Abrha.co.za&path=/Telegram,VPNCUSTOMIZE?ed%3D8080&security=tls&fp=randomized&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Abrha.co.za&alpn=h2,http/1.1#[🏁]t.me/V2razy
+vless://08aebf01-9960-4679-a6b2-cd2f1f90caab@live.skornorth.com:443?type=ws&host=Join_Evay_vpn.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed%3D2560&security=tls&fp=firefox&sni=live.skornorth.com&alpn=h2,http/1.1#[🏁]t.me/V2razy
