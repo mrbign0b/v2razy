@@ -75,3 +75,6 @@ trojan://telegram-id-directvpn@18.196.76.74:22222?security=tls&alpn=http/1.1&hea
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.57.7.118:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇩🇪
 trojan://telegram-id-directvpn@15.157.44.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇨🇦Canada
 trojan://telegram-id-directvpn@13.50.124.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
+trojan://telegram-id-directvpn@18.171.132.240:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🏁]t.me/V2razy
+vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=mtn13kws.net&path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048#[🏁]t.me/V2razy
+vless://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg48.pages.dev&type=ws&sni=pardazeshvpn-tg48.pages.dev#[🏁]t.me/V2razy
