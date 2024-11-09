@@ -98,3 +98,5 @@ trojan://telegram-id-directvpn@15.188.153.85:22222?security=tls&alpn=http/1.1&he
 vless://tel3gram-_v2rayvpn_official@bo33.bia2bax.shop:2096?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/V2razy
 vless://d486ef30-983b-4915-bfcd-db443cdedf91@Arv2ry.fastly80.hosting-ip.com:80?security=none&type=ws&headerType=&path=/@SpringHQ-telegram,@SpringHQ-telegram,@SpringHQ-telegram,@SpringHQ-telegram,@SpringHQ-telegram,@SpringHQ-telegram,@SpringHQ-telegram,@SpringHQ-telegram,@SpringHQ-telegram,@SpringHQ-telegram,@SpringHQ?ed=80&host=springhq.com#[🏁]t.me/V2razy
 vless://tel3gram-_v2rayvpn_official@bo2bo2.bia2bax.shop:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=bo2bo2.bia2bax.shop#[🏁]t.me/V2razy
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?encryption=none&security=tls&sni=DAiLy-coNfiGS.paGEs.deV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=daily-configs.pages.dev&path=%2FTELEGRAM-Daily_Configs%3Fed%3D2560#[🏁]t.me/V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#[🏁]t.me/V2razy
