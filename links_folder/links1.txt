@@ -65,3 +65,9 @@ trojan://telegram-id-privatevpns@16.16.51.136:22222?security=tls&alpn=http/1.1&h
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.220.169.243:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇨🇮
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.24.31.187:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇬🇧
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@14.57.129.244:28006?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560#[🏁]t.me/V2razy
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.204.56:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#[🏁]t.me/V2razy
+vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.162:443?security=tls&sni=BPb005.pAgeS.Dev&type=ws&host=BPb005.pAgeS.Dev&path=%2F81eqvt6gwdd8gwo8%2Fmtuyljy3ljiznc40oq#[🏁]t.me/V2razy
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.245.49.149:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#[🏁]t.me/V2razy
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.245.59.84:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#[🏁]t.me/V2razy
+vless://f57a348c-36cd-4d80-a375-d915b5d85e4d@176.57.213.220:443?security=none&type=tcp#[🏁]t.me/V2razy
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@109.61.95.21:8080?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560#[🏁]t.me/V2razy
