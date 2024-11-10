@@ -77,3 +77,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.227.105.27:22222?path=/telegram-c
 trojan://telegram-id-directvpn@18.157.65.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-privatevpns@34.248.205.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/V2razy
 trojan://telegram-id-directvpn@35.182.206.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#[🏁]t.me/V2razy
+vless://725bac5a-48ef-4054-b7fe-c5ddb5138853@79.127.70.76:2052?security=none&encryption=none&host=doostihaa.com+%40Client_Proo&headerType=http&type=tcp#[🏁]t.me/V2razy
