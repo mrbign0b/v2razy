@@ -70,10 +70,16 @@ trojan://telegram-id-directvpn@15.157.33.231:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@3.97.76.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@18.190.83.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@3.148.119.14:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
-trojan://user@s23.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s23.mynameismahsa.info#👉🆔@V2razy
-trojan://user@s24.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s24.mynameismahsa.info#👉🆔@V2razy
-trojan://user@s25.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s25.mynameismahsa.info#👉🆔@V2razy
-trojan://user@s26.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s26.mynameismahsa.info#👉🆔@V2razy
+vless://b9b6f31c-a30a-493e-8976-3c5f41463d6b@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔@V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#👉🆔@V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@54.248.54.190:1234#👉🆔@V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#👉🆔@V2razy
+vless://TELEGRAM-ServerNett@[2a01:4f8:c010:1d97::1]:51047?security=none&encryption=none&headerType=none&type=tcp#👉🆔@V2razy
+vless://TELEGRAM-ServerNett@[2a01:4f8:1c17:ee5c::1]:30562?security=none&encryption=none&headerType=none&type=tcp#👉🆔@V2razy
+vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:25797?security=none&encryption=none&headerType=none&type=tcp#👉🆔@V2razy
+vless://TELEGRAM-ServerNett@[2a01:4f8:c010:5aa8::1]:13776?security=none&encryption=none&headerType=none&type=tcp#👉🆔@V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#👉🆔@V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM%3D@95.164.249.61:54075#👉🆔@V2razy
 vless://9d1687fd-f01d-4f7e-99ee-922c614e52b4@www.speedmeter.life:80/?type=ws&encryption=none&host=Www.speedtest.net.sPeedtest2.sbs.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#[🏁]t.me/V2razy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVFZsTXpjeQ@fr1.opensocks.site:8388#[🇫🇷]t.me/V2razy
 vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_5072762@bazar.ir:443/?type=ws&encryption=none&host=ca1.vless.site&path=%2Fvless&security=tls&sni=ca1.vless.site#[🇨🇦]t.me/V2razy
