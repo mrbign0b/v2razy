@@ -67,18 +67,16 @@ trojan://telegram-id-directvpn@13.53.246.101:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@16.170.90.246:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@18.197.128.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@63.176.213.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
-trojan://user@s12.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s12.mynameismahsa.info#👉🆔@V2razy
-trojan://user@s13.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s13.mynameismahsa.info#👉🆔@V2razy
-trojan://user@s14.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s14.mynameismahsa.info#👉🆔@V2razy
-trojan://user@s15.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s15.mynameismahsa.info#👉🆔@V2razy
-trojan://user@s16.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s16.mynameismahsa.info#👉🆔@V2razy
-trojan://user@s17.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s17.mynameismahsa.info#👉🆔@V2razy
-trojan://user@s18.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s18.mynameismahsa.info#👉🆔@V2razy
-trojan://user@s19.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s19.mynameismahsa.info#👉🆔@V2razy
-trojan://user@s20.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s20.mynameismahsa.info#👉🆔@V2razy
-trojan://user@s21.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s21.mynameismahsa.info#👉🆔@V2razy
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.180:443#[🇬🇧]t.me/V2razy
-vless://f31df5c6-8052-4a7d-c750-c968d933524f@zmaoz.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=zmaoz.faculty.ucdavis.edu&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=vistapcit.com&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist#[🇳🇱]t.me/V2razy
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.119.99:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔@V2razy
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.255.247.226:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔@V2razy
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@176.34.167.83:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔@V2razy
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.94.47.208:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔@V2razy
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.213.153.31:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔@V2razy
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.96.87.76:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔@V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@54.248.54.190:1234#👉🆔@V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#👉🆔@V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM%3D@95.164.249.61:54075#👉🆔@V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#👉🆔@V2razy
 vless://b52e1af0-c401-49f5-9221-899b384cef96@www.speedmeter.life:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=Www.speedtest.net.sPeedtest2.sbs.&type=ws#[🏁]t.me/V2razy
 vless://f31df5c6-8052-4a7d-c750-c968d933524f@151.101.3.8:80?encryption=none&security=none&sni=live.989bull.com&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=vistapcit.com&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist#[🇺🇸]t.me/V2razy
 vless://f31df5c6-8052-4a7d-c750-c968d933524f@live.989bull.com:443?encryption=none&security=tls&sni=live.989bull.com&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=vistapcit.com&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist#[🇳🇱]t.me/V2razy
@@ -217,3 +215,5 @@ vless://tel:v2rayng__76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encrypt
 vless://tel:v2rayng__76@baby.bia2bax.shop:26909?security=none&encryption=none&headerType=none&type=tcp#[🇫🇮]t.me/V2razy
 trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@103.173.66.192:443?security=tls&headerType=none&type=tcp&sni=cmc1.5gsieuvip.vn#[🏁]t.me/V2razy
 vless://19d3596a-a6c6-44be-9f18-26f349da4972@eliv2-ray.fastly80-3.hosting-ip.com:80?path=/telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY--telegram,@ELiV2RAY%3Fed%3D2560&host=JoinBede--ELiV2-RAY.ir&type=ws#[🇺🇸]t.me/V2razy
+trojan://3767107462583558144@5.189.203.50:443?security=tls&headerType=none&type=tcp&sni=modest-bulldog.goat627.mom#⚜️Telegram:@IP_CF
+trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@103.173.66.192:443?security=tls&headerType=none&type=tcp&sni=cmc1.5gsieuvip.vn#⚜️Telegram:@IP_CF
