@@ -67,16 +67,16 @@ trojan://telegram-id-directvpn@13.53.246.101:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@16.170.90.246:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@18.197.128.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@63.176.213.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
-trojan://telegram-id-privatevpns@108.128.73.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@V2razy
-trojan://telegram-id-privatevpns@52.215.225.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@V2razy
+trojan://telegram-id-privatevpns@13.37.68.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@V2razy
+trojan://telegram-id-privatevpns@13.39.226.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@V2razy
+trojan://telegram-id-privatevpns@35.178.21.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@V2razy
+trojan://telegram-id-privatevpns@52.56.39.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@V2razy
+trojan://telegram-id-privatevpns@54.72.170.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@V2razy
+trojan://telegram-id-privatevpns@18.202.168.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@V2razy
+trojan://telegram-id-privatevpns@13.50.154.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@V2razy
+trojan://telegram-id-privatevpns@13.50.147.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@V2razy
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.213.178:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔@V2razy
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.127.50:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔@V2razy
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.148.30:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔@V2razy
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.132.121.28:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔@V2razy
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.119.99:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔@V2razy
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.255.247.226:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔@V2razy
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@176.34.167.83:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔@V2razy
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.94.47.208:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔@V2razy
 trojan://C9zSyneYN7Rl3K38qxu5y3axI82CaEXZ0SwjZFplDpYaTcOABDDOC6SeF4R3Ag@deliver.missionsec.io:28331?security=tls&sni=deliver.missionsec.io&type=tcp&headerType=none#[🇺🇸]t.me/V2razy
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@46.17.42.248:23456#[🇷🇺]t.me/V2razy
 vless://f411a17d-5cad-4fd0-ad6b-e0ab9f85a012@s26.radnikmax.ir:8452?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/V2razy
