@@ -77,7 +77,6 @@ vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni
 vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=www.speedtest.net.C.127.speedtest2.livE.&type=ws#👉🆔@V2razy
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.30.125:443?path=%2F%3Fed%3DMARAMBASHI\_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#👉🆔@V2razy
 vless://900466aa-aa08-49ed-bf40-d740e5c7d5e7@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=FN.CafeBazarZzZ.IP-DDNS.COM&type=httpupgrade#👉🆔@V2razy
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.252.79:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#[🇫🇮]t.me/V2razy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#[🇺🇸]t.me/V2razy
 vless://7e8c63a2-71a9-4f46-bb42-cedc17cd99b6@85.9.122.191:32073?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/V2razy
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.169.180.212:22222?path=%2Ftelegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇺🇸]t.me/V2razy
