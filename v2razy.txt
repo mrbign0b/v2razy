@@ -67,9 +67,6 @@ trojan://telegram-id-directvpn@13.51.143.163:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@51.21.0.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@18.157.204.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@18.199.244.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
-vless://051f2caf-63c2-42a5-dfdb-46dd62b3f2b2@138.199.194.142:32975?type=kcp&headerType=wireguard&seed=OKFiG1VzaP&security=none#⚜️Telegram:@IP_CF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@157.175.18.30:443#[🇧🇭]t.me/V2razy
-vless://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:443?security=none&encryption=none&host=playstation.com&headerType=http&type=tcp#[🇳🇱]t.me/V2razy
 trojan://telegram-id-directvpn@52.86.99.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-privatevpns@13.38.179.123:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/V2razy
 vless://5eaf0943-2ba0-49ae-a3dc-2957429a85d5@87.121.79.113:2053?security=reality&encryption=none&pbk=mCCigQPrTHY9CMHgDgfWo00ij_dgYt0sAc_uHeRFklI&headerType=none&fp=random&spx=%2Fmaniwrld&type=tcp&sni=github.io&sid=a4c4d9258f0685a4#[🇳🇱]t.me/V2razy
@@ -138,6 +135,8 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.100.205.48:989#[🇬🇧]t.me/V2r
 trojan://bbcacaa-abca-abca-adcb-cbcbaacacbba@127.0.0.1:1080?security=tls&type=tcp#⚜️Telegram:@IP_CF
 vless://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?type=ws&path=%2F%3Fed%3D2048&host=mmd6.ir&security=none#⚜️Telegram:@IP_CF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMlZoTkRRMg%3D%3D@45.140.167.94:8388#[🇬🇧]t.me/V2razy
+vless://TELEGRAM-NUFiLTER-b2f2cd3b1e7b@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Indota-ip.com&type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws
+vless://0096b273-66da-4e05-b309-db0d40cbec41@safe.sanjesh.fun:7642?security=none&encryption=none&headerType=none&type=tcp#⚜️Telegram:@IP_CF
 vless://2442f1da-d1e8-456c-a08f-5510b4d99cdf@live.989bull.com:443?path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=vistapcit.com&fp=chrome&type=ws&sni=live.989bull.com#[🇳🇱]t.me/V2razy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638734201752826467.athens-mpl-dr.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/V2razy
 vless://19d3596a-a6c6-44be-9f18-26f349da4972@zula.ir:8080?path=%2Ftelegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#[🇨🇦]t.me/V2razy
