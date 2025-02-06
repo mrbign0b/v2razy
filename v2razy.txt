@@ -67,10 +67,6 @@ trojan://telegram-id-directvpn@51.21.124.252:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@13.60.143.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@35.156.31.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@3.127.122.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
-vless://cefd5a6f-c391-48b2-bde6-8896fd7bd01c@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE%3Fed%3D2048&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&type=ws#[🇨🇦]t.me/V2razy
-vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=www.speedtest.net.C.132.speedtest2.livE.&type=ws#WS2-Irancell+%7C+%40ArV2ray
-trojan://telegram-id-directvpn@3.127.122.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
-trojan://telegram-id-privatevpns@34.250.123.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/V2razy
 vless://c7d7119d-d2c7-4c74-bf6b-c397659fc827@EXPRESSVPN_420.fastly80-3.hosting-ip.com:80?type=ws&path=%2Ftelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%3Fed%3D2048&host=irank9wgscajaigwio.net&security=none#[🇨🇦]t.me/V2razy
 vless://cefd5a6f-c391-48b2-bde6-8896fd7bd01c@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&type=ws#[🇨🇦]t.me/V2razy
 vless://c7d7119d-d2c7-4c74-bf6b-c397659fc827@ip.fast.hosting-ip.com:80?type=ws&path=%2Ftelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%2Ctelegram-%40EXPRESSVPN_420%3Fed%3D2048&host=irank9wgscajaigwio.net&security=none#[🇨🇦]t.me/V2razy
@@ -122,6 +118,12 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.15.110.99:3229?security=none&typ
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.221.142.188:3229?security=none&type=tcp#[🇺🇸]t.me/V2razy
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@34.211.52.226:3229?security=none&type=tcp#[🇺🇸]t.me/V2razy
 ss://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.28.34:8880?encryption=none&security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev&path=%2F%3Fed%3D2048#⚜️Telegram:@IP_CF
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.118.212.88:3229?security=none&type=tcp#[🇺🇸]t.me/V2razy
+vless://cefd5a6f-c391-48b2-bde6-8896fd7bd01c@151.101.0.155:80?type=ws&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE%3Fed%3D2048#[🇨🇦]t.me/V2razy
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.92.18.39:3229?security=none&type=tcp#[🇺🇸]t.me/V2razy
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.190.28.11:3229?security=none&type=tcp#[🇺🇸]t.me/V2razy
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.224.95.186:3229?security=none&type=tcp#[🇺🇸]t.me/V2razy
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.142.96.95:3229?security=none&type=tcp#[🇺🇸]t.me/V2razy
 vless://2442f1da-d1e8-456c-a08f-5510b4d99cdf@live.989bull.com:443?path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=vistapcit.com&fp=chrome&type=ws&sni=live.989bull.com#[🇳🇱]t.me/V2razy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638734201752826467.athens-mpl-dr.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/V2razy
 vless://19d3596a-a6c6-44be-9f18-26f349da4972@zula.ir:8080?path=%2Ftelegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE%3Fed%3D2048&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#[🇨🇦]t.me/V2razy
@@ -204,7 +206,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.28.39:22222?path=%2Ftelegram-
 vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@185.146.173.7:443?path=%2F%40ln2ray%3Fed%3D2560&security=tls&encryption=none&host=sinavm_sinavm.sinabigo.ir&fp=firefox&type=ws&sni=sinavm_sinavm.sinabigo.ir#[🇸🇪]t.me/V2razy
 vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@193.123.81.17:443?security=reality&encryption=none&pbk=0Vvc6EFXPQHWWqyhG4wek-MEh_q6a9CDMY7U-TSHGV4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#[🇦🇪]t.me/V2razy
 vless://8becb9ab-c3c8-4d2d-83ae-bc4b43545daf@ali1.karimi8.com:52388?mode=gun&security=reality&encryption=none&pbk=SagQOl6Bvu8BLW__XGWIFt5xlApbupjIz0WQQKk7Ijc&fp=chrome&spx=%2F&type=grpc&sni=zula.ir&sid=45a418ae#[🇬🇧]t.me/V2razy
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.190.28.11:3229?security=none&type=tcp#[🇺🇸]t.me/V2razy
 ss://5335d16e-7e42-4c9b-93a3-9e83bfd3073d@172.67.168.60:80?encryption=none&security=none&type=ws&host=workerr.johnstoner.workers.dev&path=%2F%3Fed%3D2048#⚜️Telegram:@IP_CF
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@18.223.182.12:3229?security=none&type=tcp#[🇺🇸]t.me/V2razy
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.142.96.95:3229?security=none&type=tcp#[🇺🇸]t.me/V2razy
