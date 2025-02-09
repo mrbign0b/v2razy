@@ -67,6 +67,7 @@ trojan://telegram-id-directvpn@16.171.185.11:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@51.21.5.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@18.195.181.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@63.177.133.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
+vless://d8ca77c4-668c-44b8-a621-763b4067490d@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v04.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#[🇺🇸]t.me/V2razy
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@54.202.157.101:1212?security=reality&encryption=none&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=a4844ba7#[🇺🇸]t.me/V2razy
 vless://d8ca77c4-668c-44b8-a621-763b4067490d@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.drlimit.net&sni=hajlab.ucdavis.edu&fp=chrome#[🇺🇸]t.me/V2razy
 trojan://Aimer@82.115.6.219:8443?sni=ngepz.ambercc.filegear-sg.me#[🇳🇱]t.me/V2razy
