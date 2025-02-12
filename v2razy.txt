@@ -67,10 +67,6 @@ trojan://telegram-id-directvpn@13.48.223.183:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@13.61.202.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@18.159.204.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@3.74.246.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
-vless://c62d1cba-4966-42e9-8aab-c76c90668c0b@165.1.66.2:985/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=icloud.com&fp=firefox&security=reality&pbk=xmqtBMz-4YkLgMf0b2B0U_vZX3IJElGgQQZuwmsEvy0&sid=354ad572&packetEncoding=xudp#[🇺🇸]t.me/V2razy
-vless://0792a045-c4e2-4816-bbb9-872b7aba601b@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBede--Unlimiteddev--Unlimiteddev.iR.&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480#[🇨🇦]t.me/V2razy
-vless://0792a045-c4e2-4816-bbb9-872b7aba601b@fishlab.ucdavis.edu:443?type=ws&host=JoinBede--Unlimiteddev--Unlimiteddev.iR.&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&security=tls&fp=randomized&sni=fishlab.ucdavis.edu#[🇺🇸]t.me/V2razy
-trojan://telegram-id-directvpn@108.129.27.66:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇮🇪]t.me/V2razy
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@217.182.198.219:9101#[🇩🇪]t.me/V2razy
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@54.36.174.181:5500#[🏁]t.me/V2razy
 trojan://telegram-id-directvpn@16.16.134.194:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇸🇪]t.me/V2razy
@@ -113,7 +109,6 @@ vless://7d33da6d-1f6c-4259-8632-fecbc3bd8215@hajlab.ucdavis.edu:443?path=%2F%40S
 vless://c926b3fd-70ba-43d4-b21c-3719bbd04534@141.11.21.117:4003?security=none&host=Telegram#[🇳🇱]t.me/V2razy
 trojan://Bw5Mz7QkVp@155.138.207.136:443?security=tls&sni=z-v2-077987.kailib.com&type=tcp&allowInsecure=1#[🇺🇸]t.me/V2razy
 trojan://Bw5Mz7QkVp@149.28.166.78:443?security=tls&sni=z-v2-076981.kailib.com&type=tcp&allowInsecure=1#[🏁]t.me/V2razy
-vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.20.129.2:80/?type=ws&encryption=none&host=pormang.webhost99.workers.dev&path=%2F%3Fed%3D2560#[🇨🇦]t.me/V2razy
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.10.197:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#[🇨🇦]t.me/V2razy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80/?type=ws&encryption=none&host=redw.pooriam.ir&path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560#[🇨🇦]t.me/V2razy
 vless://7e49bfac-0344-4e93-9b5c-f642e0b89e14@45.142.189.185:38936?security=none&encryption=none&headerType=http&type=tcp#[🇮🇷]t.me/V2razy
@@ -206,3 +201,8 @@ vless://f79a48da-1590-4cc0-bd3e-2a92f9ce36c7@kamyar.vact.ir:2083/?type=grpc&serv
 trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#[🇳🇱]t.me/V2razy
 trojan://Aimer@192.0.54.7:443?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#[🇺🇸]t.me/V2razy
 trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.173:27103?security=tls&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/V2razy
+vless://v2rayng____76@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#[🇫🇮]t.me/V2razy
+ss://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.108:3237?security=none&encryption=none&headerType=none&type=tcp#⚜️Telegram:@IP_CF
+vless://da8f38ae-cd05-472b-8820-661497ef3a46@safe.sanjesh.fun:7642?security=none&encryption=none&headerType=none&type=tcp#[🇫🇮]t.me/V2razy
+vless://TELEGRAM-NUFiLTER-0dfdec52e76f@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fsxss21320x.ir&type=ws#%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws4
+vless://b5bfd6cc-86f3-47cd-9a3e-258160f59a4b@104.16.61.8:8080?path=%2F%3Fed%3D8080&security=none&encryption=none&host=fastfoods.api.ahmadp206.sbs.&type=ws#[🇨🇦]t.me/V2razy
