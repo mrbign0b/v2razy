@@ -67,6 +67,7 @@ trojan://telegram-id-directvpn@13.48.223.183:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@13.61.202.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@18.159.204.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@3.74.246.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
+vless://0792a045-c4e2-4816-bbb9-872b7aba601b@fishlab.ucdavis.edu:443?type=ws&host=JoinBede--Unlimiteddev--Unlimiteddev.iR.&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&security=tls&fp=randomized&sni=fishlab.ucdavis.edu#[🇺🇸]t.me/V2razy
 trojan://telegram-id-directvpn@108.129.27.66:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#[🇮🇪]t.me/V2razy
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@217.182.198.219:9101#[🇩🇪]t.me/V2razy
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@54.36.174.181:5500#[🏁]t.me/V2razy
