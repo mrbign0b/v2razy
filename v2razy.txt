@@ -67,6 +67,7 @@ trojan://telegram-id-directvpn@51.21.78.54:22222?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@13.51.83.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@3.78.234.74:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@18.159.177.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.32.1:2053?security=tls&sni=HAsti.freEaIrlaIneS.com&fp=chrome&type=ws&path=/AX0GWjCvjQscU063?ed%3D2048&host=hasti.FrEEAiRlAINES.coM&encryption=none#[🇨🇦]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.41:8880?security=&type=grpc&encryption=none#[🇫🇮]t.me/V2razy
 vless://630c01ee-92db-4a15-9573-0955853ce362@104.21.61.43:443?security=tls&sni=w26io.deonta-yancy.workers.dev&alpn=http/1.1&fp=edge&type=ws&path=/?ed%3D2048@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi&host=w26io.deonta-yancy.workers.dev&encryption=none#[🇺🇸]t.me/MoftConfig
 vless://3fabce00-f9e9-4f8d-9966-9d9a96d992f9@h5.xn--gmq282ekfhyys3gs.com:2087?mode=multi&security=reality&encryption=none&pbk=StgXQYbkKSkAHHzakVldKHVmrBXhe_J87e7bydUIOGw&fp=firefox&spx=%2F&type=grpc&sni=dash.cloudflare.com&sid=83cdb009#[🏁]t.me/V2razy
