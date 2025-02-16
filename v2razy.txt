@@ -74,10 +74,6 @@ trojan://telegram-id-directvpn@54.228.224.98:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@15.156.144.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@99.79.19.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@13.58.103.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.133.24.195:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @MoftConfig 🇬🇧
-vless://a3fdef53-af0c-4777-b941-c52707d5afe9@www.ddwhm.com:80/?type=ws&encryption=none&host=0215.kiefcascz.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @MoftConfig📡🇨🇾Cyprus
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?type=tcp#[🇺🇸]t.me/V2razy
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.133.24.195:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇬🇧]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.37.139:990#👉🆔 @MoftConfig📡🇵🇭Philippines
 trojan://telegram-id-directvpn@34.249.202.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/MoftConfig
 trojan://c1f4cf20-494f-407e-8181-629ab03e2139@104.21.69.44:443?security=tls&type=ws&sni=se1.safecdn.site&path=/by-AB_841#👉🆔 @MoftConfig📡🇨🇦Canada
@@ -221,3 +217,6 @@ vless://644d3187-a18f-4345-b3ff-dffaea570311@104.21.90.252:443?path=%2F%3Fed%3D2
 vless://0c04dd79-71ad-475e-9a22-8fe625afccbb@www.visa.com:8080?path=%2Ftelegram%2CELiV2RAY-telegram%2CELiV2RAY-telegram%2CELiV2RAY-telegram%2CELiV2RAY-telegram%2CELiV2RAY-telegram%2CELiV2RAY%3Fed%3D2560&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws#[🇨🇦]t.me/V2razy
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.96.1:443?path=%2F%3Fed%3DMARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=HAStI.FreEAiRlaineS.CoM&fp=randomized&type=ws&sni=hastI.FrEeAIRLAInEs.CoM#[🇺🇸]t.me/MoftConfig
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FTelegram%40v2ray_alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@5.188.181.201:9003#[🏁]t.me/V2razy
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@112.213.102.228:4231#[🏁]t.me/V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNelpqTg==@ca1.ssocks.wiki:8388#[🇨🇦]t.me/V2razy
