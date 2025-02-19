@@ -52,7 +52,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.196.31:22222?path=/telegram-
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.42.185:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇫🇷
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.168.109.65:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.175.112.80:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇬🇧
-trojan://telegram-id-directvpn@51.21.86.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@16.16.246.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@52.58.8.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@63.177.6.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
@@ -70,6 +69,7 @@ trojan://telegram-id-directvpn@51.44.55.199:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@51.24.35.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@54.82.118.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@13.49.210.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
+trojan://telegram-id-directvpn@13.51.91.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-privatevpns@52.56.123.140:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇬🇧United Kingdom
 vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@199.232.210.133:443?path=%2F%3Fed&security=tls&encryption=none&host=aw039.ir&type=ws&sni=wear.net#👉🆔 @MoftConfig📡🇺🇸United States
 vless://e497da22-d020-40fb-a1fa-bc294066a2d2@104.16.38.178:80?security=none&type=ws&host=pormang.webhost99.workers.dev&path=%2F%40ShadowProxy66#👉🆔 @MoftConfig📡🇨🇦Canada
