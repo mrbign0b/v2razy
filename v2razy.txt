@@ -67,6 +67,7 @@ trojan://telegram-id-directvpn@51.21.86.126:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@16.16.246.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@52.58.8.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@63.177.6.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
+trojan://telegram-id-privatevpns@13.60.149.22:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @MoftConfig📡🇸🇪Sweden
 vless://9df978a3-df6c-4f82-9e8b-0d2f1e517efb@151.101.128.155:80?security=none&type=ws&host=jetservices55.ir&path=CANALTELEGRAM--%40jet_config--CANALTELEGRAM--%40jet_config#👉🆔 @MoftConfig📡🇨🇦Canada
 vless://9df978a3-df6c-4f82-9e8b-0d2f1e517efb@151.101.64.155:80?security=none&type=ws&host=jetservices55.ir&path=CANALTELEGRAM--%40jet_config--CANALTELEGRAM--%40jet_config#[🇺🇸]t.me/V2razy
 trojan://65f14831-5c67-483f-9e85-f3aa73f21187@naiu-us.05vr9nyqg5.download:13019?allowInsecure=1&sni=cloudflare.node-ssl.cdn-alibaba.com#👉🆔 @MoftConfig📡🇨🇳China
