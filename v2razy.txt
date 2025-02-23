@@ -70,10 +70,6 @@ trojan://telegram-id-directvpn@51.20.24.67:22222?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@16.170.187.251:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@13.39.211.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@52.47.189.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
-vless://5f301020-9b83-493f-94a9-75fb761ef0d3@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v04.drlimit.net#👉🆔 @MoftConfig📡🇺🇸United States
-vless://5f301020-9b83-493f-94a9-75fb761ef0d3@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v24.drlimit.net#👉🆔 @MoftConfig📡🇺🇸United States
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638743594865013754.amsterdam-lmn-dr.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#👉🆔 @MoftConfig📡🇫🇮Finland
-vless://dadbf1eb-93c5-4cd9-83f3-ed02fb539c6e@134.122.3.240:443?security=reality&encryption=none&pbk=U-Crw9zWynOztMJJd-fYzl-rDkb7i7pyxMhORpmFzgU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=5a2003125d#👉🆔 @MoftConfig📡🇺🇸United States
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.125.46:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇸🇪]t.me/V2razy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1k0T0RCbQ@at1.opensocks.site:8388#[🏁]t.me/V2razy
 vless://%74%65%6c%65%67%72%61%6d%2d%41%72%56%32%72%61%79@151.101.192.155:80?path=%2Ftelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%2Ctelegram-%41%72%56%32%72%79%3Fed%3D2048&security=&encryption=none&host=atbpbc.ir&type=ws#[🇺🇸]t.me/V2razy
@@ -219,3 +215,4 @@ vless://94d04e32-bc77-4eea-b57c-29ef4b7ef4b0@154.218.15.250:2083?security=tls&sn
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.45.144:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇸🇪]t.me/V2razy
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.154.98.231:5005?security=tls&sni=nc.dbbn2024.us.kg&type=ws&path=/?ed#[🇳🇱]t.me/V2razy
 trojan://Aimer@185.51.246.121:2053?security=tls&sni=agept.ambercc.filegear-sg.me&type=tcp#[🇳🇱]t.me/V2razy
+trojan://Aimer@108.165.152.93:2083?security=tls&sni=agept.ambercc.filegear-sg.me&type=tcp#⚜️Telegram:@IP_CF
