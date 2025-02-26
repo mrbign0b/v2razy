@@ -67,7 +67,6 @@ trojan://telegram-id-directvpn@13.51.57.254:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@13.60.124.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@3.67.245.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@18.193.44.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638758808769281219.brussels-mpl-eaj.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/MoftConfig
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#[🇨🇦]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@91.107.241.24:8880?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/MoftConfig
 vless://d6018eb8-39fa-4489-aba6-554ff622ae41@c1.vact.ir:443?security=reality&encryption=none&pbk=BDsBcQ0GzxU-pGwN0H6zRVIbOhdL5dJy7cUd44xnayI&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&sni=www.cdn77.com&sid=dfb4dc18a1#[🇩🇪]t.me/MoftConfig
