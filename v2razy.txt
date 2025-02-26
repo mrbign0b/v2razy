@@ -67,7 +67,6 @@ trojan://telegram-id-directvpn@16.171.105.21:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@13.49.247.59:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@3.77.226.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@3.126.44.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
-vless://5d904885-74c5-4c07-95cf-e0989d287c37@dir.mirza-film.ir:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=YDhxEb6Hi3ABjb_7S3HeYnRoQQI3NAEOEbCVRTtrCX0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=snapp.ir&sid=b429#[🇩🇪]t.me/V2razy
 vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@103.148.73.177:443?encryption=none&security=reality&sni=cdn77.api.userway.org&fp=chrome&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2&type=tcp&headerType=none#[🏁]t.me/V2razy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.75.198.232:8880?encryption=none&security=none&type=grpc#[🇩🇪]t.me/MoftConfig
 vless://f1d94c72-66c9-4eab-b66a-6ea7528a5837@ns.cloudflare.com:2052?security=none&type=httpupgrade&headerType=&path=%2FGoodLuck%3Fed%3D2560&host=5.dreshghi.ir.ferialmostofi.c-om.padaco.ir.arashnasiri.com.shafashiraz.ir.honartandis.com.shouba.ir.iran-dental.com.sardkhoone.com.mohammadsalehpour.ir.abadgan.com.arvijpub.com.chmctruck.com.gandom-yar.ir#[🇨🇦]t.me/MoftConfig
@@ -215,3 +214,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.178.102.150:22222?path=/telegram
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.93.253.116:1009?type=tcp&security=none#[🇺🇸]t.me/MoftConfig
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@35.86.15.135:1009?type=tcp&security=none#[🇺🇸]t.me/MoftConfig
 vless://d8b42cd5-a149-4356-9e61-30ad83662600@52.25.132.156:1009?type=tcp&security=none#[🇺🇸]t.me/MoftConfig
+vless://52723498-e94b-4e53-91c3-fc4fb203efea@uae2.server-dev7.site:443?security=none&encryption=none&host=namava.ir&headerType=http&type=tcp#[🇮🇷]t.me/V2razy
