@@ -67,7 +67,6 @@ trojan://telegram-id-directvpn@13.50.74.236:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@13.51.51.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@18.197.67.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@52.57.86.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.204.84:80?security=none&type=ws&host=a.xn--i-sx6a60i.us.kg.#[🇨🇦]t.me/V2razy
 trojan://telegram-id-privatevpns@15.237.65.103:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/V2razy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOWZkYTVhMC0xMmYyLTRmYWEtOTg1ZS01OTcyZTg2NTYxNDE@free.2apzhfa.xyz:31441#[🏁]t.me/V2razy
 vless://5b75d93d-1e40-43a4-af3d-d6cb11fbafe8@104.24.207.192:80?path=%2Ftelegram%40mtmvpn%3Fed%3D2560&security=none&encryption=none&host=gozargah2.validbv7996.ir&type=ws#[🇨🇦]t.me/V2razy
@@ -215,3 +214,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.174.138.197:8080?encryption=non
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?encryption=none&security=none&sni=a.xn--i-sx6a60i.us.kg.&type=ws&host=a.xn--i-sx6a60i.us.kg.&path=%2F#[🇨🇦]t.me/MoftConfig
 vless://6ebe927d-a0a1-4c2a-9051-4ae4a93d9006@91.107.130.202:2006?security=reality&sni=direct.afteam.ir&host=Telegram&pbk=RBZ8svckpp9tsX5QA8akGRx5fIKuCYk_diZhOHiHMGs&allowInsecure=1#[🇩🇪]t.me/V2razy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzI5OGVhNC03NzljLTQ3ZjUtYWIzNC0yNGU5OGY1Mzg1N2U@free.2apzhfa.xyz:31611#[🏁]t.me/V2razy
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=%2Ftelegram%40azadnet67%2F%3Fed%3D2048&security=none&encryption=none&host=redw.pooriam.ir&type=ws#[🇨🇦]t.me/V2razy
