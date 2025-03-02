@@ -67,12 +67,6 @@ trojan://telegram-id-directvpn@13.51.118.202:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@13.50.103.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@63.177.195.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@3.74.198.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.26.255:8880/?type=grpc&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none#[🇫🇮]t.me/MoftConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@103.219.193.17:40001#[🇺🇸]t.me/MoftConfig
-vless://28d746a3-a60e-451c-bf9f-92233d43a7d5@104.17.148.22:8880?path=%2FFreeConfig%3Fed%3D2048&security=none&encryption=none&host=Alfred.Dnss-Mobile.ir&type=httpupgrade#[🇨🇦]t.me/V2razy
-vless://v2rayvpn___official@upgrade.bia2bax.shop:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=upgrade.bia2bax.shop#[🇫🇮]t.me/V2razy
-trojan://Aimer@213.241.198.56:2083?security=tls&type=tcp&sni=ngepy.ambercc.filegear-sg.me#[🇷🇺]t.me/MoftConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHdjJyS3lhYllDTHVuVTkzZ01jd2dC@45.95.232.236:4248#[🏁]t.me/MoftConfig
 trojan://3747000103274291200@52.79.40.3:443?sni=epic-bunny.adder289.quest#[🏁]t.me/MoftConfig
 vless://v2rayvpn___official@upgrade.bia2bax.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=upgrade.bia2bax.shop&type=ws#[🇫🇮]t.me/V2razy
 trojan://telegram-id-privatevpns@3.11.24.100:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#[🇬🇧]t.me/MoftConfig
@@ -209,3 +203,9 @@ trojan://telegram-id-privatevpns@51.20.58.226:22222?security=tls&alpn=http/1.1&h
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@207.244.65.58:443?security=tls&sni=trus.moonfree.top&allowInsecure=1#[🇺🇸]t.me/V2razy
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@74.63.241.23:443?security=tls&sni=trus.moonfree.top&allowInsecure=1#[🇺🇸]t.me/V2razy
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.166.88.201:6697#[🏁]t.me/V2razy
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@3.14.178.215:80?type=tcp&security=none#[🇺🇸]t.me/V2razy
+vless://219f9445-0f67-4701-9ac5-1f88ecf06ffc@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=ws&host=JoinBedee--Unlimiteddev--Unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480#[🇺🇸]t.me/V2razy
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.0.155:80?path=%2Fchannel%2CELiV2RAY-channel%2CELiV2RAY-channel%2CELiV2RAY&security=&encryption=none&host=Join--E-L-i-V-2-R-A-Y.net&type=ws#[🇨🇦]t.me/V2razy
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@3.143.156.41:80?type=tcp&security=none#[🇺🇸]t.me/V2razy
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.228.29.73:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @MoftConfig 🇨🇮
+vless://4d5848af-3baf-4225-8f2b-fc25fc3370bb@3.131.34.216:80?type=tcp&security=none#[🇺🇸]t.me/V2razy
