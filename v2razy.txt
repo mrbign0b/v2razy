@@ -67,7 +67,6 @@ trojan://telegram-id-directvpn@16.171.186.211:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@13.60.102.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@3.67.48.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@3.79.130.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
-vless://2b8fe6c6-d6db-48e2-ad60-e34c2b48ae71@tify-binex-join.espikernajafi.ir:6666?type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&authority=&security=none#[🇩🇪]t.me/V2razy
 vless://8e47bbe9-5c80-4dd1-aba3-f5d966e9ab3d@tify-binex-join.espikernajafi.ir:2053?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY%3Fed%3D2560&host=&security=none#[🇩🇪]t.me/V2razy
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6679#[🇫🇷]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8090#[🇫🇷]t.me/MoftConfig
@@ -214,3 +213,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.84:2086?path=%2FTABRIZ.N
 vless://ad14a642-09d6-4fc2-8b76-7cd7e27b5bcd@135.181.155.147:40240?security=&encryption=none&host=canva.com&headerType=http&type=tcp#[🇫🇮]t.me/V2razy
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@nautica.foolvpn.me:443?path=%2F47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#[🇨🇦]t.me/MoftConfig
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.250.246.200:8080?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#[🏁]t.me/V2razy
+vless://d5498284-13b7-4d4a-9705-70e5319d993c@151.101.194.228:80?security=none&type=ws&host=joinshhproxybedeeeeeee.ir&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048#[🇺🇸]t.me/V2razy
