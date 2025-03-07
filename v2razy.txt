@@ -74,10 +74,6 @@ trojan://telegram-id-directvpn@54.194.172.215:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@51.21.226.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@13.48.207.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@15.237.69.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.163:2095?path=%2FTM-%40azaadnet%3Fed%3D2048&security=&encryption=none&host=redw.pooriam.ir&type=ws#[🏁]t.me/V2razy
-vless://bde33c35-9aea-41db-be04-a7b756b93fe1@s3.vact.ir:443?security=reality&encryption=none&pbk=32v2F8Ymo35CC3Q9D-T0uUMCoz-bvtvl5aMYQ-kvCV8&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&sni=www.cdn77.com&sid=33a68471e114bb72#[🇩🇪]t.me/V2razy
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@212.13.236.132:10001/?type=ws&encryption=none&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=a.mifeng.us.kg&fp=chrome#[🏁]t.me/MoftConfig
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@195.200.19.139:6060/?type=ws&encryption=none&host=a.xn--i-sx6a60i.us.kg&security=tls&sni=a.xn--i-sx6a60i.us.kg&fp=chrome#[🇳🇱]t.me/MoftConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.129:8880/?type=grpc&encryption=none#[🇫🇮]t.me/MoftConfig
 vless://ce763a58-d11f-4708-b83c-99d152ef011c@s4.vact.ir:443?security=reality&encryption=none&pbk=-Klt3151vv7nNAJFA1XI73cfw8DUnKjIetrSLxXGBEw&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&sni=www.cdn77.com&sid=83a3c1c336165ead#[🇩🇪]t.me/V2razy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2Fvpnowl-vpvpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#[🇨🇦]t.me/MoftConfig
@@ -220,3 +216,7 @@ vless://01d62e5f-826e-41f8-88da-646c5deff4c4@159.69.25.11:4040?security=reality&
 vless://7bea7985-3d28-4f94-8936-36e10c84b497@62.60.147.202:2053?security=none&type=tcp&host=myket.ir,tamin.ir,rubika.ir,varzesh3.com,cafebazaar.ir&path=%2F&headerType=http#[🇮🇷]t.me/MoftConfig
 trojan://d0d98f45-15ec-4a5a-9ccd-d4089e2204d9@54.250.172.223:20230?security=tls&sni=421421.xyz#[🏁]t.me/V2razy
 vless://73082f7f-a457-4610-a0c1-8bacade70704@spdnet.fastly80-3.hosting-ip.com:80?encryption=none&security=none&type=ws&host=rohammmmmvistav2.ir&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vist#[🇺🇸]t.me/V2razy
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.199.38.67:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇩🇪]t.me/V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTMVlyQ1ZZNjB2THZKcnNqZ1NmZDM0@89.185.84.185:443#[🇬🇧]t.me/V2razy
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.19.236:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇮]t.me/V2razy
+vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@185.146.173.7:443?path=%2F%40ln2ray%3Fed%3D2560&security=tls&encryption=none&host=sinavm_sinavm.sinabigo.ir&fp=firefox&type=ws&sni=sinavm_sinavm.sinabigo.ir#[🇸🇪]t.me/V2razy
