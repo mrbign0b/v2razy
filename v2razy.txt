@@ -67,11 +67,6 @@ trojan://telegram-id-directvpn@13.50.148.115:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@13.48.182.1:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@63.177.37.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@52.59.96.213:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
-vless://38d7ae3d-23b6-45c3-af5a-56ae4b46e6f4@hajlab.ucdavis.edu:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#[🇺🇸]t.me/V2razy
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.247.212.0:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇮🇪]t.me/V2razy
-vless://01d62e5f-826e-41f8-88da-646c5deff4c4@159.69.25.11:4040?security=reality&sni=refersion.com&type=tcp&fp=chrome&pbk=GqpLuqbGhZ3N1oIlSMfuLnpKCNZOoK8JWwHPmqSNxgk#[🇩🇪]t.me/V2razy
-trojan://telegram-id-privatevpns@13.53.160.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/V2razy
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.247.212.0:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @MoftConfig 🇨🇮
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.247.212.0:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇮🇪]t.me/MoftConfig
 trojan://telegram-id-directvpn@51.21.226.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/MoftConfig
 trojan://d0d98f45-15ec-4a5a-9ccd-d4089e2204d9@54.250.172.223:20230?security=tls&sni=421421.xyz#[🏁]t.me/MoftConfig
@@ -210,3 +205,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:
 trojan://telegram-id-directvpn@63.177.37.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/V2razy
 vless://b27b653c-ba1e-4d85-804e-4dc04a7e55e7@vpn.rayvortex.ir:6921?type=tcp&security=none#[🇳🇱]t.me/V2razy
 ss://5c08cd2d-21b6-43f6-af3f-bd4bb6eb0713@online.isgood.host:24157?type=tcp&security=reality&pbk=g_ru2QyflnVmUsXtfH6T_plVJrHToJq4YQpf6789fF4&fp=chrome&sni=yahoo.com&sid=3e37bc40&spx=%2F&flow=xtls-rprx-vision#⚜️Telegram:@IP_CF
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.2.49:80/?type=ws&encryption=none&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#[🇺🇸]t.me/V2razy
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.67.68:80/?type=ws&encryption=none&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#[🇨🇦]t.me/V2razy
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.194.165:80?type=ws&host=Join----VPNCUSTOMIZE----VPNCUSTOMIZE.IR&path=%2FTelegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048#[🇺🇸]t.me/MoftConfig
+vless://7d79834e-6b31-4da7-9e26-a916c3988623@fra5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇩🇪%20Germany
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.67.148:80/?type=ws&encryption=none&host=Join--E-L-i-V-2-R-A-Y.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#[🇨🇦]t.me/V2razy
