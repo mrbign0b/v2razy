@@ -15,24 +15,25 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.10.10.203:22222?path=/telegram-ch
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.9.187.9:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.81.132.38:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇨🇮
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.30.204.158:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇨🇮
-vless://a4f9334a-1db2-4abc-aa09-2b4697cec681@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#👉🆔 @V2razy📡🇭🇰Hong Kong
-trojan://telegram-id-directvpn@18.194.70.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇩🇪Germany
-trojan://telegram-id-directvpn@15.237.90.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇫🇷France
-trojan://telegram-id-directvpn@63.177.121.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇩🇪Germany
-trojan://telegram-id-directvpn@13.134.16.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇬🇧United Kingdom
-trojan://telegram-id-directvpn@13.61.187.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇸🇪Sweden
-trojan://telegram-id-directvpn@34.196.7.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇺🇸United States
-trojan://telegram-id-directvpn@13.51.111.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇸🇪Sweden
-trojan://telegram-id-directvpn@13.39.181.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇫🇷France
-trojan://telegram-id-directvpn@13.39.29.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇫🇷France
-trojan://telegram-id-directvpn@51.24.29.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇬🇧United Kingdom
-trojan://telegram-id-directvpn@52.56.145.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇬🇧United Kingdom
-trojan://telegram-id-directvpn@13.61.161.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇸🇪Sweden
-trojan://telegram-id-directvpn@16.170.54.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇸🇪Sweden
-trojan://telegram-id-directvpn@13.50.22.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇸🇪Sweden
-trojan://telegram-id-directvpn@16.171.120.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇸🇪Sweden
-trojan://telegram-id-directvpn@18.185.197.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇩🇪Germany
-trojan://telegram-id-directvpn@3.65.201.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇩🇪Germany
+trojan://baabcca-aabc-baca-adcb-acbabcabacbc@127.0.0.1:2080?security=tls&type=tcp#👉🆔 @V2razy📡🤷‍♀️🤷‍♂️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.141:8080#👉🆔 @V2razy📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.141:8080#👉🆔 @V2razy📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOWZmNDk4YjkwMzM0Y2Vh@89.223.88.145:43190#👉🆔 @V2razy📡🇲🇽Mexico
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#👉🆔 @V2razy📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#👉🆔 @V2razy📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @V2razy📡🇬🇧United Kingdom
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FMTMVPN%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#👉🆔 @V2razy📡🇨🇦Canada
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FMTMVPN%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#👉🆔 @V2razy📡🇨🇦Canada
+ss://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.132:3237?encryption=none&security=none&type=tcp&headerType=none#👉🆔 @V2razy📡🇫🇷France
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?path=%2Ftelegram%40mtmvpn%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#👉🆔 @V2razy📡🇨🇦Canada
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?path=%2Ftelegram%40mtmvpn%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#👉🆔 @V2razy📡🇨🇦Canada
+ss://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.132:3237?encryption=none&security=none&type=tcp&headerType=none#👉🆔 @V2razy📡🇫🇷France
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=none&encryption=none&host=redw.pooriam.ir&type=ws#👉🆔 @V2razy📡🇨🇦Canada
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.56.44:80?path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=none&encryption=none&host=redw.pooriam.ir&type=ws#👉🆔 @V2razy📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#👉🆔 @V2razy📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#👉🆔 @V2razy📡🇺🇸United States
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.129.2:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#👉🆔 @V2razy📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.107.6:443#👉🆔 @V2razy📡🇦🇪United Arab Emirates
 trojan://telegram-id-privatevpns@18.194.30.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/V2razy
 trojan://telegram-id-privatevpns@51.44.103.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/V2razy
 trojan://telegram-id-privatevpns@35.181.158.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/V2razy
