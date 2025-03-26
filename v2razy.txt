@@ -1,4 +1,3 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@79.125.63.29:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇨🇮
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.89.89:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇸🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.53.162.77:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇸🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.166.83:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇩🇪
@@ -15,6 +14,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.185.180.233:22222?path=/telegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.158.219.45:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.87.94:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇫🇷
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.150.114:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇫🇷
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.47.126:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇬🇧
 trojan://telegram-id-privatevpns@35.177.17.49:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/V2razy
 trojan://telegram-id-privatevpns@35.177.129.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/V2razy
 trojan://telegram-id-privatevpns@54.195.170.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/V2razy
@@ -31,7 +31,6 @@ trojan://telegram-id-privatevpns@35.177.47.156:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@18.203.123.97:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/V2razy
 trojan://telegram-id-privatevpns@54.228.206.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/V2razy
 trojan://telegram-id-privatevpns@54.228.206.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/V2razy
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@79.125.63.29:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇨🇮
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.21.89.89:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇸🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.53.162.77:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇸🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.166.83:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇩🇪
@@ -48,7 +47,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.185.180.233:22222?path=/telegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.158.219.45:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.87.94:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇫🇷
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.150.114:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇫🇷
-trojan://telegram-id-directvpn@54.217.71.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.47.126:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇬🇧
 trojan://telegram-id-directvpn@79.125.114.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@16.16.191.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@13.60.133.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
@@ -65,6 +64,7 @@ trojan://telegram-id-directvpn@51.44.90.60:22222?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@51.44.64.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@3.10.46.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@3.10.73.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
+trojan://telegram-id-directvpn@3.248.37.227:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 vless://19742539-401b-4732-9a37-a0354cc84e67@104.18.8.74:443?security=tls&sni=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&type=ws&host=free.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li&path=%2Fadmin&fp=random&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/V2razy
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.81.235.90:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🇮🇪]t.me/V2razy
 ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@45.89.52.66:9001#[🇹🇷]t.me/V2razy
