@@ -66,11 +66,6 @@ trojan://telegram-id-directvpn@16.170.70.137:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@13.51.184.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@3.64.212.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@3.73.145.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@www.speedtest.net:2096?path=%2F&security=tls&encryption=none&host=PhGhOlMi1.RoCkStOnEy.iNfO&type=ws&sni=PhGhOlMi1.RoCkStOnEy.iNfO#[🇨🇦]t.me/MoftConfig
-vless://dbf0ce44-e7b5-4cd7-ba14-25ad65a32474@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇨🇦]t.me/MoftConfig
-trojan://74260704627805900@adapting-halibut.shiner427.skin:443/?type=tcp&security=tls#[🏁]t.me/MoftConfig
-vless://a586caf7-4303-4a87-8aa7-8a4d61b850c1@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=Www.speedtest.net.speedtest2.cfd.&encryption=none#[🇨🇦]t.me/MoftConfig
-trojan://74260704627805900@smiling-sailfish.shiner427.skin:443/?type=tcp&security=tls#[🇮🇳]t.me/MoftConfig
 vless://telegram-ArV2ray@www.speedtest.net:80?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=Www.speedtest.net.af.sPeedtest3.sbs.&type=ws#[🇨🇦]t.me/MoftConfig
 vless://252456af-eeaf-41a4-f4f2-d18a2d234301@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#[🇨🇦]t.me/MoftConfig
 trojan://74260704627805900@right-monitor.shiner427.skin:443/?type=tcp&security=tls#[🇮🇳]t.me/MoftConfig
@@ -213,3 +208,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.133.208:22222?path=/telegram-
 vless://e81ea4a6-9348-45dc-9bdc-fa23f45b35b5@maznet-join-bede.mahdijamkaran.online:8880?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&authority=&security=none#[🇩🇪]t.me/V2razy
 vless://d3b6a0b3-af88-4a3d-8a88-ca4118de9c53@maznet-join-bede.mahdijamkaran.online:6669?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D2048&authority=&security=none#[🇩🇪]t.me/V2razy
 vless://9ded24fe-02db-47a2-9bb4-403b1e9a4ee4@www.speedtest.net:8080?encryption=none&security=none&type=httpupgrade&host=dbe661d5a761ff6c.s-5HU09JDF-97SHS.WWWrubika.irto.xn--ls8haaaaaaaaaaaaaaaaaa.la.which.xn--ls8haaaaaaaaaaaaaaaaaa.xn-ls8faaaaaaaaaa.speedtest.net.google.com.eu.ir.nl.aparat.com.komak.IR.Nb-De.argonet.onlinE.&path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048#[🇨🇦]t.me/V2razy
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.81:443#[🇬🇧]t.me/V2razy
+ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ@217.30.10.18:9020#[🏁]t.me/V2razy
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.102:989#[🏁]t.me/V2razy
