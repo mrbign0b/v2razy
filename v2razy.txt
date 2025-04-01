@@ -15,7 +15,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.132.55.124:22222?path=/telegram-
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.168.170.103:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.17.205.17:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇨🇮
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.155.206.62:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇨🇮
-trojan://%263*iMxGxdoLZ@104.21.64.1:2087?path=%2FQHUjDbc6&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&host=tabnak.twn24.ir&fp=chrome&type=httpupgrade&sni=tabnak.twn24.ir#👉🆔 @V2razy📡🇨🇦Canada
 vless://1c72fbd9-74d9-421c-8ebe-946bec14d237@91.107.177.102:2083?security=reality&encryption=none&pbk=lFSBLDW1PZMf27yZgJIu6U10H6b2SB_aYYhihVaroWY&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.whatsapp.com&sid=ab8e29#👉🆔 @V2razy📡🇩🇪Germany
 vless://1c72fbd9-74d9-421c-8ebe-946bec14d237@91.107.177.102:2083?security=reality&encryption=none&pbk=lFSBLDW1PZMf27yZgJIu6U10H6b2SB_aYYhihVaroWY&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.whatsapp.com&sid=ab8e29#👉🆔 @V2razy📡🇩🇪Germany
 vless://cbb4251b-9b20-4c42-b09d-df77666bda12@95.216.146.31:2087?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=MMVeX3GX6nZmdf6tmwDiNAXJUZk3s4iY7ztA6KA2MSY&fp=chrome&type=grpc&sni=www.target.com&sid=bc6f0833#👉🆔 @V2razy📡🇫🇮Finland
@@ -71,8 +70,6 @@ trojan://telegram-id-directvpn@13.60.128.60:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@16.170.22.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@18.158.89.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@52.28.5.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
-trojan://13c3cf97-5a4a-434f-880a-aecbd70c15bc@2.elk3b3nwfy.xyz:20012/?type=tcp&security=tls&sni=2.elk3b3nwfy.xyz&allowInsecure=1#👉🆔 @MoftConfig📡🇨🇳China
-trojan://13c3cf97-5a4a-434f-880a-aecbd70c15bc@3.2gyh5ybsic.xyz:20103/?type=tcp&security=tls&sni=3.2gyh5ybsic.xyz&allowInsecure=1#👉🆔 @MoftConfig📡🇨🇳China
 vless://2e258968-08ad-497a-83f5-7421ea07275c@maznet-join-bede.mahdijamkaran.online:8880?type=grpc&serviceName=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&authority=&security=none#[🇩🇪]t.me/MoftConfig
 trojan://13c3cf97-5a4a-434f-880a-aecbd70c15bc@10.2gyh5ybsic.xyz:20110/?type=tcp&security=tls&sni=10.2gyh5ybsic.xyz&allowInsecure=1#👉🆔 @MoftConfig📡🇨🇳China
 trojan://13c3cf97-5a4a-434f-880a-aecbd70c15bc@7.2gyh5ybsic.xyz:20107/?type=tcp&security=tls&sni=7.2gyh5ybsic.xyz&allowInsecure=1#👉🆔 @MoftConfig📡🇨🇳China
@@ -220,3 +217,5 @@ trojan://d67cfeaf-b277-44ac-ab99-9dd02a7c5299@104.21.49.59:443?security=tls&sni=
 vless://96f97d12-d89e-4ffc-9d33-77927f041570@46.249.35.171:50175?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=Hhu0s3MQbVt6XEggtDYUoy4DnzuIJw5VOhXC2QMQ_io&sid=ead5fbe08ecf49&type=tcp&headerType=none#👉🆔 @MoftConfig📡🇳🇱The Netherlands
 vless://f5202085-8402-4b17-9e35-58ccd1b7f79b@111.243.171.244:20413?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.visa.com&fp=chrome&pbk=BQk3bbYxbWAzoi8F0gl7oiM90YO7wFNuwTJRxaWtWFg&sid=bd2ca454&type=tcp&headerType=none#👉🆔 @MoftConfig📡🇹🇼Taiwan
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@172.67.20.136:443?encryption=none&security=tls&sni=nautica.foolvpn.me&type=ws&host=nautica.foolvpn.me&path=%2F47.89.39.186-39251#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://a180cc52-b030-4aea-93ef-f1c03d76aaba@135.181.155.147:40240?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#[🇫🇮]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEVERrUUpEWnJ0c3FHTnZwVGxqSEZm@89.185.84.185:443#🇬🇧 Великобритания
