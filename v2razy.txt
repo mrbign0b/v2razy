@@ -65,13 +65,6 @@ trojan://telegram-id-directvpn@18.170.124.232:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@3.11.136.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@63.33.124.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@99.81.77.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
-ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ@217.30.10.18:9020#[🏁]t.me/V2razy
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.102:989#[🏁]t.me/V2razy
-trojan://telegram-id-privatevpns@18.133.54.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧@MoftConfig
-trojan://telegram-id-privatevpns@34.247.153.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮@MoftConfig
-trojan://telegram-id-privatevpns@54.78.74.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮@MoftConfig
-trojan://telegram-id-privatevpns@35.180.236.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵@MoftConfig
-trojan://telegram-id-privatevpns@18.175.90.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧@MoftConfig
 vless://7b33f59f-aada-4b49-a4ac-1c335977f2af@brazil.com:2083/?type=ws&encryption=none&host=vless1-698.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=vless1-698.pages.dev&fp=random&packetEncoding=xudp#[🇨🇦]t.me/V2razy
 vless://7b33f59f-aada-4b49-a4ac-1c335977f2af@japan.com:2053/?type=ws&encryption=none&host=vless1-698.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=vless1-698.pages.dev&fp=random&packetEncoding=xudp#[🇨🇦]t.me/V2razy
 vless://7b33f59f-aada-4b49-a4ac-1c335977f2af@russia.com:2087/?type=ws&encryption=none&host=vless1-698.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=vless1-698.pages.dev&fp=random&packetEncoding=xudp#[🇨🇦]t.me/V2razy
@@ -210,7 +203,14 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.74.30:22222?path=/telegram-ch
 vless://e8a0c5de-3475-4c5f-830e-7629b0fb1ed4@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇺🇸]t.me/MoftConfig
 vless://5a24dc4b-4711-402a-ec6d-7c174b290c83@92.112.53.153:18217?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/V2razy
 vless://b5efc2f6-2c03-4d26-8cd4-046755fd9f74@188.34.201.88:16072?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/V2razy
-vless://0705c34c-059c-5455-98f5-45f2840fc77e@www.speedtest.net:2052?path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL&security=none&encryption=none&host=sPeedtest2.sbs.tr2.vless.sitespeedtest.net&type=ws#[🇨🇦]t.me/V2razy
 vless://b5efc2f6-2c03-4d26-8cd4-046755fd9f74@188.34.201.88:16072?mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/MoftConfig
 vless://0705c34c-059c-5455-98f5-45f2840fc77e@www.speedtest.net:2052?path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL&security=none&encryption=none&host=sPeedtest2.sbs.tr2.vless.sitespeedtest.net&type=ws#[🇨🇦]t.me/MoftConfig
 vless://f3aae6bc-708f-4873-bf0d-9bd4f153b51d@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=Www.speedtest.net.speedtest2.cfd.&encryption=none#[🇨🇦]t.me/MoftConfig
+vless://d9074e14-c4e4-4e58-8fff-3727e83af868@support.zoom.us:80/?type=ws&encryption=none&host=free.pranithsandaruwan.shop&path=%2F#[🇺🇸]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZmVmZDI4ZS1iMmU2LTQ0NjItYTM3OC1jYmM1OGE4NzQ4Zjk@45.67.203.233:21452#[🇹🇷]t.me/MoftConfig
+trojan://telegram-id-directvpn@99.81.77.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/V2razy
+vless://21b6795b-6a85-4c77-9de3-05e705953f4d@www.speedtest.net:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.lightning6.ip-ddns.com.&type=ws#[🇨🇦]t.me/V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTDFaVkZrazR1WURpczJURDJQSkxR@109.237.99.103:33742#[🇩🇪]t.me/MoftConfig
+vless://bf86d7a4-30fe-44fd-bb12-15ce3924ad40@192.9.130.194:2087/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yahoo.com&fp=chrome&security=reality&pbk=LukOig0eMe6VNy9rdyFt7ozZpS3r_1lsyIMun4qgJEo&sid=d27cd3b5#[🇺🇸]t.me/MoftConfig
+vless://f26ca9c4-e5eb-5e7c-bcda-f3b24e7f8bad@104.17.147.22:2052?path=%2Fvless&security=none&encryption=none&host=sPeedtest2.sbs.lv2.vless.sitespeedtest.net&type=ws#[🇨🇦]t.me/V2razy
+vless://96f97d12-d89e-4ffc-9d33-77927f041570@46.249.35.171:50175?security=reality&encryption=none&pbk=Hhu0s3MQbVt6XEggtDYUoy4DnzuIJw5VOhXC2QMQ_io&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=ead5fbe08ecf49#[🇳🇱]t.me/V2razy
