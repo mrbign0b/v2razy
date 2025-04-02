@@ -70,6 +70,7 @@ trojan://telegram-id-directvpn@13.60.128.60:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@16.170.22.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@18.158.89.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
 trojan://telegram-id-directvpn@52.28.5.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @V2razy
+vless://4d7d8bcd-3326-4947-904a-5deea0bd6b7b@V2rayNG.SPDNet.online:12685?type=grpc&serviceName=TEL%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet&authority=www.speedtest.net.A.164.speedtest2.livE&security=none#👉🆔 @MoftConfig📡🇩🇪Germany
 trojan://telegram-id-v2rayvpnchannel@3.69.65.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇩🇪Germany
 trojan://telegram-id-privatevpns@34.251.132.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @MoftConfig📡🇮🇪Ireland
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.159:443?security=tls&sni=dse.bgm2024.us.kg&type=ws&host=dse.bgm2024.us.kg#👉🆔 @MoftConfig📡🇿🇦South Africa
