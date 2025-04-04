@@ -15,23 +15,21 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.41.21.191:22222?path=/telegram-c
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.175.42.184:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.254.45.174:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇨🇮
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.228.223.33:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇨🇮
-ss://2b024e2f-f975-49d0-a57a-14d01eac8a5e@huffingtonpost.es:443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Hormozvppn.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=www.huffingtonpost.es#👉🆔 @V2razy📡🇬🇧United Kingdom ping:28.71ms
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.30:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#👉🆔 @V2razy📡🇱🇹Lithuania ping:22.23ms
-vless://6640f2d5-b8d7-4c90-8421-a1bdfdadc39e@173.245.59.132:8080?security=none&type=httpupgrade&headerType=&path=%2F@Evay\_vpn----@Evay\_vpn----@Evay\_vpn----@Evay\_vpn----@Evay\_vpn----@Evay\_vpn----@Evay\_vpn----@Evay\_vpn----@Evay\_vpn----@Evay\_vpn----@Evay\_vpn----@Evay\_vpn----@Evay\_vpn----@Evay\_vpn----@Evay\_vpn----@Evay\_vpn----@Evay\_vpn----@Evay\_vpn----@Evay\_vpn----@Evay\_vpn----@Evay\_vpn%3Fed%3D2048&host=evay-free.ysphs.top.#👉🆔 @V2razy📡🇨🇦Canada ping:46.45ms
-trojan://Aimer@218.144.55.101:21282?sni=agepj.ambercc.filegear-sg.me&allowInsecure=0#👉🆔 @V2razy📡🇰🇷South Korea ping:306.6ms
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8009#👉🆔 @V2razy📡🇺🇸United States ping:122.19ms
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.100.42:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @V2razy📡🇫🇷France ping:34.4ms
-trojan://telegram-id-directvpn@15.188.38.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇫🇷France ping:34.44ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Rmh5T2lCQnN2Tm43MkFScEhHdVp1@109.120.177.122:6774#👉🆔 @V2razy📡🇩🇪Germany ping:38.53ms
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.146:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1#👉🆔 @V2razy📡🇵🇷Puerto Rico ping:141.77ms
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.171:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#👉🆔 @V2razy📡🇫🇷France ping:37.68ms
-trojan://Aimer@220.117.126.46:12462?sni=ngepz.ambercc.filegear-sg.me#👉🆔 @V2razy📡🇰🇷South Korea ping:309.63ms
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.119:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#👉🆔 @V2razy📡🇧🇿Belize ping:45.08ms
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:8080?path=%2F&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#👉🆔 @V2razy📡🇮🇷Iran ping:45.29ms
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#👉🆔 @V2razy📡🇨🇦Canada ping:49.02ms
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.119:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#👉🆔 @V2razy📡🇧🇿Belize ping:49.08ms
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@172.64.152.226:80?path=%2FTelegram%40sinavm&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#👉🆔 @V2razy📡🇨🇦Canada ping:46.28ms
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.119:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#👉🆔 @V2razy📡🇧🇿Belize ping:46.22ms
+trojan://telegram-id-privatevpns@51.44.56.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇫🇷France ping:34.92ms
+trojan://NISHIKUITAN111@213.109.205.159:443?security=tls&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=/#👉🆔 @V2razy📡🇷🇺Russia ping:49.92ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#👉🆔 @V2razy📡🇰🇷South Korea ping:396.46ms
+vless://959dc846-1aa3-4aa7-bc58-7eb51114d1ce@172.67.132.41:2082?security=none&type=ws&host=nl36.vlessx.us#👉🆔 @V2razy📡🇨🇦Canada ping:50.49ms
+trojan://telegram-id-directvpn@13.43.194.31:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @V2razy📡🇬🇧United Kingdom ping:87.16ms
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@185.146.173.37:8443?path=%2F&security=tls&encryption=none&host=NkG27c9Gl1.MySpDmMeTi.CoM&type=ws&sni=NkG27c9Gl1.MySpDmMeTi.CoM#👉🆔 @V2razy📡🇸🇪Sweden ping:48.29ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M3@149.34.244.68:443#👉🆔 @V2razy📡🇳🇱The Netherlands ping:31.15ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.135.9.180:2086?security=none&type=ws&host=redw.pooriam.ir#👉🆔 @V2razy📡🇬🇧United Kingdom ping:51.84ms
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.12:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#👉🆔 @V2razy📡🇫🇷France ping:37.05ms
+vless://cbb4251b-9b20-4c42-b09d-df77666bda12@95.216.146.31:2087?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=MMVeX3GX6nZmdf6tmwDiNAXJUZk3s4iY7ztA6KA2MSY&fp=chrome&type=grpc&sni=www.target.com&sid=bc6f0833#👉🆔 @V2razy📡🇫🇮Finland ping:14.21ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.135.9.180:2086?security=none&type=ws&host=redw.pooriam.ir#👉🆔 @V2razy📡🇬🇧United Kingdom ping:46.65ms
 trojan://telegram-id-privatevpns@51.21.165.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/V2razy
 trojan://telegram-id-privatevpns@35.157.216.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/V2razy
 trojan://telegram-id-privatevpns@15.188.241.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇨🇵t.me/V2razy
