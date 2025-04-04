@@ -15,12 +15,24 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.170.255.176:22222?path=/telegram
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.60.220:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.248.237.200:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇨🇮
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@46.137.38.244:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇨🇮
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.233:80?security=none&type=ws&host=foffmelo.com#👉🆔 @V2razy📡🇫🇷France
-vless://fa659470-ca91-43c1-a966-2349531fb6a8@188.114.98.87:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#👉🆔 @V2razy📡🇨🇦Canada
-vless://753fa8e8-a3e8-442e-abf7-875ed776eacb@104.19.48.236:443?security=tls&sni=is.oldcloud.online&type=ws&host=is.oldcloud.online&path=%2F#👉🆔 @V2razy📡🇨🇦Canada
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@212.183.88.109:443?security=tls&sni=in.youlingkais.filegear-sg.me&type=ws&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560#👉🆔 @V2razy📡🇦🇹Austria
-ss://YWVzLTI1Ni1nY206M0pIVE5LMTNUNkJDRVZOSA==@156.231.104.24:18014#👉🆔 @V2razy📡🇯🇵Japan
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.131.1:80?security=none&type=ws&host=fraud.chase#👉🆔 @V2razy📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080#👉🆔 @V2razy📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UUlYV1VQWlQ5TzVFVUVXSw@206.245.211.24:19014#👉🆔 @V2razy📡🇬🇧United Kingdom
+ss://YWVzLTI1Ni1nY206MkVKMFBVVlhRNThLUjBWRw@156.245.190.21:15012#👉🆔 @V2razy📡🇭🇰Hong Kong
+ss://YWVzLTI1Ni1nY206NVUzQ09HR1JKUE8yRFFORg@206.245.211.11:19001#👉🆔 @V2razy📡🇬🇧United Kingdom
+ss://YWVzLTI1Ni1nY206QjRTTFQ3TEVRRjQ2WTZaNg@45.154.207.246:20030#👉🆔 @V2razy📡🇩🇪Germany
+vless://890c9650-809e-445b-a4b0-2cd883e0de62@104.18.2.69:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960011.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#👉🆔 @V2razy📡🇨🇦Canada
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#👉🆔 @V2razy📡🇬🇧United Kingdom
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@104.21.3.52:443?security=tls&sni=iyjil.cfonni.info&type=ws&host=iyjil.cfonni.info&path=/paradise#👉🆔 @V2razy📡🇨🇦Canada
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@104.18.35.30:80?path=%2FTelegram%40JOKERRVPNJoin\_Bade\_Channel%40JOKERRVPN&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#👉🆔 @V2razy📡🇨🇦Canada
+trojan://Aimer@63.141.128.66:2087?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#👉🆔 @V2razy📡🇺🇸United States
+trojan://2YDH6ktJOt@104.21.15.33:8443?security=tls&sni=support.sabapardaziran.ir&type=ws&host=support.sabapardaziran.ir&path=%2F%40M3HDIO1&fp=chrome#👉🆔 @V2razy📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#👉🆔 @V2razy📡🇷🇺Russia
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.161:443?security=tls&sni=cv.dong2025.cfd&type=ws&host=cv.dong2025.cfd&path=%2F%3Fed%3D2560#👉🆔 @V2razy📡🇺🇸United States
+vless://a5f3cdb6-cd7c-4289-9551-ec6f91a51e68@104.18.27.200:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#👉🆔 @V2razy📡🇨🇦Canada
+trojan://Uy1%2CSF%23%5Dszr%25y.%3Cs@172.66.45.36:2083?security=tls&sni=jOinMaHdIsErVer-6Qj.PAgES.DEv#👉🆔 @V2razy📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#👉🆔 @V2razy📡🇳🇱The Netherlands
+vless://db3a7ae3-17e4-4952-c3b9-138c9ecb787f@172.67.202.155:8080?security=none&type=ws&host=zoornazanfarsineveshtam.onetwothree123.ir&path=%2F%40MEHDIO1#👉🆔 @V2razy📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#👉🆔 @V2razy📡🇹🇷Turkey
 trojan://telegram-id-privatevpns@99.80.72.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/V2razy
 trojan://telegram-id-privatevpns@34.254.116.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/V2razy
 trojan://telegram-id-privatevpns@34.254.116.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/V2razy
