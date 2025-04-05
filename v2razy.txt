@@ -15,15 +15,10 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.196.4:22222?path=/telegram-ch
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.169.47:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.126.97.196:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.198.189:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @V2razy 🇫🇷
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.80:8090?prefix=%16%03%01%00%C2%A8%01%01#👉🆔@V2razy📡🇺🇸®️United States©️Ashburn🅿️ping:142.29ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:49264#👉🆔@V2razy📡🇭🇺®️Hungary©️Budapest🅿️ping:40.93ms
-trojan://vpn@91.108.241.73:2025?security=none&type=ws&host=vkvd127.mycdn.me&path=%2F#👉🆔@V2razy📡🇫🇮®️Finland©️Helsinki🅿️ping:13.89ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4d3lvNTh0ZkpOWkdHaE8yMkxWTTdB@sg.outlinekeys.net:52252#👉🆔@V2razy📡🇸🇬®️Singapore©️Singapore (Pioneer)🅿️ping:211.63ms
-ss://304216ab-4372-4575-8bcc-1fe95f66cdaa@hajlab.ucdavis.edu:443/?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Shh\_Proxy----@Shh\_Proxy----@Shh\_Proxy----@Shh\_Proxy----@Shh\_Proxy----@Shh\_Proxy----@Shh\_Proxy----@Shh\_Proxy----@Shh\_Proxy----@Shh\_Proxy----@Shh\_Proxy----@Shh\_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#👉🆔@V2razy📡🇺🇸®️United States©️San Francisco🅿️ping:8.66ms
-ss://YWVzLTI1Ni1nY206WjdDMDhKQjFIQk1XUUhWUA@23.185.248.17:17007#👉🆔@V2razy📡🇺🇸®️United States©️Pittsburgh (Shadyside)🅿️ping:163.25ms
-trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@t28.qifei.app:52492/?type=tcp&security=tls&sni=t28.qifei.app#👉🆔@V2razy📡🇺🇸®️United States©️Santa Clarita (Canyon Country)🅿️ping:172.87ms
-vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.152.2:80?path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560&security=none&encryption=none&host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.vpncustomize.V2ryng01.ru%3A0&type=ws#👉🆔@V2razy📡🇨🇦®️Canada©️Toronto🅿️ping:51.57ms
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.20:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@V2razy📡🇺🇸®️United States©️Secaucus🅿️ping:22.37ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.188:8080#👉🆔@V2razy📡🇺🇸®️United States©️New York🅿️ping:31.42ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.181:8080#👉🆔@V2razy📡🇺🇸®️United States©️New York🅿️ping:29.57ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#👉🆔@V2razy📡🇺🇸®️United States©️Seattle🅿️ping:177.23ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZHpYVnVieFpsdUlRZzQ2V2Q5bGxz@150.241.77.214:4443#👉🆔@V2razy📡🇸🇪®️Sweden©️Stockholm🅿️ping:13.9ms
 trojan://telegram-id-privatevpns@18.132.169.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/V2razy
 trojan://telegram-id-privatevpns@52.16.133.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇨🇮t.me/V2razy
 trojan://telegram-id-privatevpns@54.171.245.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/V2razy
