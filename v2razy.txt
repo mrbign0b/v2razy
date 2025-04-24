@@ -54,6 +54,11 @@ trojan://telegram-id-directvpn@18.133.17.93:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@52.56.214.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@34.243.149.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@63.34.99.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
+trojan://telegram-id-directvpn@18.153.216.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.111:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🏁]t.me/MoftConfig
+vless://72054eb2-0f1b-497d-9e61-4b0c1fd25bd5@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇺🇸]t.me/MoftConfig
+vless://439f8e20-3149-4e64-d933-59adb8f597ef@95.217.234.75:80?security=tls&sni=refersion.com&fp=chrome&allowInsecure=1#[🇫🇮]t.me/MoftConfig
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=Telegram-%40#[🇨🇦]t.me/MoftConfig
 vless://12b6fb4e-91a5-4b9c-b23f-aaf7917488fd@104.18.14.19:8880?type=ws&host=0108.9ro3grfw.workers.dev&path=/#[🇨🇦]t.me/MoftConfig
 trojan://telegram-id-privatevpns@18.153.216.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/V2razy
 vless://e8c5e684-019f-4b79-f741-401008b3a56d@151.101.194.219:80?type=ws&host=foffmelo.com#[🇺🇸]t.me/MoftConfig
@@ -291,12 +296,8 @@ vless://e5c2e234-333e-48b4-8199-2793a64527bc@104.21.112.1:443?path=%2FmcjLCMIRih
 vless://072f4db4-d89d-420d-9d9e-045ed8d5c9cc@172.67.214.21:443?path=%2FuDLWPKXENxF2ulPWRIwOavJd&security=tls&alpn=http%2F1.1&encryption=none&host=10e.191268.xyz&fp=chrome&type=ws&sni=10e.191268.xyz#[🇨🇦]t.me/V2razy
 vless://2af94082-8380-4b1e-ae97-23b7dc8e53d5@hon5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇭🇰%20Hong Kong
 vless://62d8756d-6f8b-4ddb-96fc-a97e001642b8@194.182.79.108:50513?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed%3D2048&packetEncoding=xudp&encryption=none#[🏁]t.me/V2razy
-trojan://telegram-id-vlessconfig@63.34.99.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@V2razy 🇮🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#[🇺🇸]t.me/V2razy
 trojan://telegram-id-directvpn@63.34.99.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/V2razy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@131.145.82.156:443#⚜️Telegram:@IP_CF
 trojan://telegram-id-privatevpns@63.34.99.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/V2razy
-trojan://telegram-id-directvpn@63.34.99.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.62:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#⚜️Telegram:@IP_CF
 vless://8365c59b-b3e2-4f2a-8470-5ed382218a77@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇺🇸]t.me/V2razy
 vless://210df21a-f1bb-4d69-b56f-d9cefde7ad1b@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=Www.speedtest.net.developsp.ir.&encryption=none#[🇨🇦]t.me/V2razy
