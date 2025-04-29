@@ -78,14 +78,6 @@ trojan://telegram-id-directvpn@51.21.207.157:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@54.93.204.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@13.37.10.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@52.47.131.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
-vless://a72edeb2-b46c-4511-bc6c-9fbd0ecb2e61@172.67.161.104:443?security=tls&sni=qing-dbz.pages.dev&type=ws&host=qing-dbz.pages.dev&fp=chrome#[🇨🇦]t.me/V2razy
-vless://a72edeb2-b46c-4511-bc6c-9fbd0ecb2e61@104.26.13.140:8443?security=tls&sni=qing-dbz.pages.dev&type=ws&host=qing-dbz.pages.dev&path=%2F%3Fed%3D2560&fp=random#[🇨🇦]t.me/MoftConfig
-trojan://telegram-id-directvpn@63.178.38.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/MoftConfig
-vless://387ba682-5fb6-4d78-860d-a67ad2c9b5f4@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=Www.speedtest.net.developsp.ir.&encryption=none#[🇨🇦]t.me/MoftConfig
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@111.47.212.213:35853?security=tls&flow=xtls-rprx-vision-udp443&sni=www.nvidia.com&fp=chrome#[🏁]t.me/V2razy
-trojan://Aimer@199.34.228.50:2053?allowInsecure=0&sni=epccs.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
-trojan://telegram-id-privatevpns@52.47.123.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/MoftConfig
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@111.47.212.213:45883?security=tls&flow=xtls-rprx-vision-udp443&sni=www.nvidia.com&fp=chrome#[🏁]t.me/MoftConfig
 trojan://telegram-id-vlessconfig@63.178.38.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoftConfig 🇩🇪
 trojan://Aimer@159.54.173.8:443?allowInsecure=0&sni=epccs.ambercc.filegear-sg.me#[🇺🇸]t.me/MoftConfig
 trojan://telegram-id-directvpn@63.178.38.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/V2razy
@@ -324,3 +316,9 @@ vless://9279a169-0e59-44ad-8575-b869dc9cb14d@104.17.147.22:8880?security=none&ty
 vless://e4d0c041-facf-42e8-bd0b-5260161e07f0@104.17.148.22:8880?security=none&type=ws&host=vihypercloud.academigroup.ir.&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#[🇨🇦]t.me/V2razy
 vless://8e944e35-e17b-4ecb-8879-f62a2c4cf546@89.44.9.252:443?security=tls&sni=gift-4101664.FaraSorat.Net&type=ws&host=Paris1.FaraSorat.net&path=%2FpV67LRFs428xHke56mDQ#[🇫🇷]t.me/V2razy
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@206.189.67.254:59483?security=auto&type=grpc&fp=chrome#[🇺🇸]t.me/V2razy
+trojan://Aimer@108.165.152.163:2087/?type=ws&host=epcca.ambercc.filegear-sg.me&security=tls&sni=epcca.ambercc.filegear-sg.me#[🇮🇳]t.me/V2razy
+trojan://Aimer@167.68.4.131:8443/?type=ws&host=epcca.ambercc.filegear-sg.me&security=tls&sni=epcca.ambercc.filegear-sg.me#[🇺🇸]t.me/V2razy
+vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.16.1:80/?type=ws&encryption=none&host=masaleini.mahsaamini.dpdns.org&path=%2FTM%40AZAFBAYJAB1#[🇨🇦]t.me/V2razy
+trojan://Aimer@103.116.7.235:443/?type=ws&host=epcca.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epcca.ambercc.filegear-sg.me#[🇺🇸]t.me/V2razy
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095/?type=ws&encryption=none&host=5-55sfjslf.ifenxiang.cfd&path=%2F#[🇨🇦]t.me/V2razy
+trojan://Aimer@5.182.84.9:2087/?type=ws&host=epcca.ambercc.filegear-sg.me&path=%2F&security=tls&sni=epcca.ambercc.filegear-sg.me#[🇷🇺]t.me/V2razy
