@@ -78,7 +78,6 @@ trojan://telegram-id-directvpn@52.47.166.243:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@35.181.213.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@13.43.40.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@18.203.219.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNzUzYjMxNi03NzI0LTQwZTktYjgzNS03NDE3MjNmY2NlNTI@free.2weradf.xyz:36313#[🏁]t.me/V2razy
 vless://98e790ba-34cf-4d24-b8ce-1cb559e677a0@162.159.44.157:443?security=tls&sni=wpxb8jk5.twentyse.com&type=ws&host=wpxb8jk5.twentyse.com#[🇺🇸]t.me/V2razy
 vless://3058e698-61fd-4d12-95bc-f1fe4c071643@zula.ir:443?path=%2FxVzTiAjXOMalQIj4%3Fed%3D8080&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=HOZorI.iR#[🇨🇦]t.me/MoftConfig
 trojan://Aimer@154.211.8.227:2087?allowInsecure=1&sni=epcca.ambercc.filegear-sg.me&ws=1&wspath=%2F%3Fed%3D2560#[🇺🇸]t.me/V2razy
