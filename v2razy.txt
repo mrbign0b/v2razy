@@ -78,6 +78,7 @@ trojan://telegram-id-directvpn@51.21.59.141:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@56.228.72.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@18.193.90.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@18.184.137.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
+vless://0418e285-27d6-47e6-bf94-15dacb255064@huffingtonpost.es:80?encryption=none&security=none&type=tcp&headerType=none#[🇳🇱]t.me/MoftConfig
 vless://9df596dc-cfda-4ca1-8f29-cdb9e0b1f4b2@194.182.79.11:33900?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🏁]t.me/MoftConfig
 vless://76aef603-4f69-4632-a5ac-be046f9de50b@194.182.79.114:26392?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🏁]t.me/MoftConfig
 trojan://Aimer@108.165.152.55:2096/?type=ws&host=epcca.ambercc.filegear-sg.me&security=tls&sni=epcca.ambercc.filegear-sg.me#[🇮🇳]t.me/V2razy
