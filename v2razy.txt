@@ -78,6 +78,7 @@ trojan://telegram-id-directvpn@51.21.207.157:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@54.93.204.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@13.37.10.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@52.47.131.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNmM2YzI2ZC0zOTY4LTQ3Y2YtYTBkYS0xMWMyZjlhMDE0NjE@free.2weradf.xyz:36371#[🏁]t.me/V2razy
 vless://75bfb83a-95b6-44e0-944c-f9acc01d3ed9@85.133.206.14:33912?type=ws&path=telegram:@summertimeus&security=none#[🇮🇷]t.me/V2razy
 vless://a9c53545-11b9-4373-ba83-0047947a5180@84.234.28.144:10?mode=auto&path=%2F&security=reality&encryption=none&pbk=QBr0SftwGBpVvwMezn62mSo45Q2JEkjsKxonz7BxAFE&fp=chrome&spx=/DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---&type=xhttp&sni=yahoo.com&sid=fd7b#[🏁]t.me/V2razy
 vless://1e242626-4aab-433f-850c-128ab53fdf2b@188.34.201.88:16072?mode=gun&security=none&encryption=none&authority=/DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---DRAGON---&type=grpc#[🇩🇪]t.me/V2razy
@@ -138,7 +139,6 @@ vless://%50%61%72%73%61%73%68%6F%6E%61%6D-228@Zmaoz.Faculty.Ucdavis.Edu:80?path=
 vless://b3bb5f55-e7d6-4302-ab66-2bfd2f2e897f@45.136.5.42:56324?mode=gun&security=reality&encryption=none&pbk=gcNyysrKpad7uqzpwNO65IKppIqcudJS5WN6ZpfSjHw&fp=chrome&spx=/---DRAGON---DRAGON------DRAGON---DRAGON------DRAGON---DRAGON------DRAGON---DRAGON------DRAGON---DRAGON------DRAGON---DRAGON------DRAGON---DRAGON------DRAGON---DRAGON---&type=grpc&sni=tgju.org&sid=ba2806#[🇹🇷]t.me/V2razy
 vless://9f8bf7f0-60c1-48f1-e8e9-9841a20868fe@49.13.215.155:19111?security=none&type=ws&path=/@proprojec#[🇩🇪]t.me/MoftConfig
 vless://9f8bf7f0-60c1-48f1-e8e9-9841a20868fe@49.13.215.155:19111?security=none&type=ws&path=/@proprojec#[🇩🇪]t.me/V2razy
-vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#[🇺🇸]t.me/MoftConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZjM1YTRmYi0xYzIzLTQ0NmQtOTljMi1lMzZmYWVlNmViMDg@free.2apzhfa.xyz:31371#[🏁]t.me/V2razy
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@www.visaeurope.ch:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=ex.sue.x10.mx&fp=chrome&type=ws&sni=ex.sue.x10.mx#[🇨🇦]t.me/MoftConfig
 ss://YWVzLTI1Ni1nY206YW1hem9uZ3JlYXR2cG4%3D@44.204.173.8:443#[🇺🇸]t.me/MoftConfig
