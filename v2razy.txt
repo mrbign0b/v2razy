@@ -78,6 +78,7 @@ trojan://telegram-id-directvpn@51.21.59.141:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@56.228.72.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@18.193.90.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@18.184.137.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
+trojan://2fa1279f-a0c1-4bb0-b5c2-42c787e5cfad@125.94.45.119:27102?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/V2razy
 vless://Parsashonam-228@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🇸🇪]t.me/MoftConfig
 vless://1acbf0a1-57ee-4ef5-b414-12b0576c6c6d@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeeeeeee.ir&encryption=none#[🇺🇸]t.me/MoftConfig
 trojan://Aimer@47.245.105.192:443?allowInsecure=0&sni=epcca.ambercc.filegear-sg.me#[🏁]t.me/V2razy
