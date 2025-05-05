@@ -78,6 +78,7 @@ trojan://telegram-id-directvpn@13.37.143.137:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@3.127.213.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@18.194.237.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@15.237.241.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
+vless://4629295b-ca20-4c6a-8c70-87ffe3ca2272@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=Www.speedtest.net.developsp.ir.&encryption=none#[🇨🇦]t.me/MoftConfig
 vless://b550a101-63fe-4862-bfd3-8b87bb4168dd@104.16.1.47:80?type=ws&host=flat-bread-ddb6-ppal03.joriy39169.workers.dev#[🇨🇦]t.me/V2razy
 vless://65154f47-8596-46cd-8406-d18f4b406faf@194.182.79.119:17958?security=none&type=grpc#[🏁]t.me/V2razy
 vless://14e51f2d-be1d-43c6-a7bf-565d9f22d90f@huffingtonpost.es:80?mode=auto&path=%2F%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%40vistav2ray%3Fed%3D2048&security=none&encryption=none&host=biyatovistavdoray.com&type=xhttp#[🇳🇱]t.me/MoftConfig
