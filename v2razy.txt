@@ -78,6 +78,7 @@ trojan://telegram-id-directvpn@3.74.18.33:22223?security=tls&alpn=http/1.1&heade
 trojan://telegram-id-directvpn@13.37.27.97:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@3.74.122.89:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@15.236.97.249:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.121.12:80?type=ws&host=23-lsjfjwiposkfls.hc2021.cfd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20#[🇨🇦]t.me/V2razy
 vless://a8a424c8-0da6-44ee-ac8f-fa45e17ff2a1@37.27.191.27:1522?security=none&type=tcp&host=testspeed-foreign.tci.ir&headerType=http#[🇫🇮]t.me/V2razy
 vless://de537efd-4d7c-4f3c-aea5-19d3f36c7b1b@104.16.12.247:2053?path=%2F&security=tls&encryption=none&host=txmt.conetcdata.dpdns.org&fp=chrome&type=ws&sni=txmt.conetcdata.dpdns.org#[🇨🇦]t.me/V2razy
 vless://be21e25f-5919-4e6b-b443-bfa45273de5d@211.213.102.88:10014?security=tls&sni=mikuyo.bpd67081tsq.ddns-ip.net&type=ws&host=mikuyo.bpd67081tsq.ddns-ip.net#[🏁]t.me/V2razy
