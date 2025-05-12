@@ -78,7 +78,7 @@ trojan://telegram-id-directvpn@51.44.228.29:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@15.236.50.197:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@56.228.73.107:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@3.66.72.220:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
-trojan://telegram-id-privatevpns@15.236.121.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵@MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@46.8.224.211:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#[🇫🇷]t.me/MoftConfig
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@87.239.250.142:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#[🇸🇪]t.me/V2razy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@37.1.203.41:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#[🇳🇱]t.me/V2razy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@192.158.242.133:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#[🇬🇧]t.me/MoftConfig
