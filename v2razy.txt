@@ -78,6 +78,7 @@ trojan://telegram-id-directvpn@13.49.1.177:22223?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@52.58.144.133:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@3.77.67.70:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@35.181.226.71:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
+vless://588f094b-431b-422c-b80b-007945037072@150.241.101.16:443?security=tls&sni=de09.abvpn.ru&fp=chrome&type=ws&path=/websocket&packetEncoding=xudp&encryption=none#[🇩🇪]t.me/MoftConfig
 vless://17d7913a-da39-4e09-8634-8734679a19ae@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#👉🆔@MoftConfig📡🇨🇦®️Canada©️Montreal🅿️ping:12.97ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.24:8880?security=none&type=grpc#👉🆔@MoftConfig📡🇺🇸®️United States©️Secaucus🅿️ping:80.61ms
 vless://17d7913a-da39-4e09-8634-8734679a19ae@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#👉🆔@MoftConfig📡🇺🇸®️United States©️San Francisco🅿️ping:9.57ms
