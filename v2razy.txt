@@ -16,7 +16,11 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.249.149:22224?type=ws&securi
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.185.205.62:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@V2razy 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.160.154:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@V2razy 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.192.171:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@V2razy 🇨🇵
-vless://675537c4-5916-446f-b90d-15f64f3ccf67@185.143.233.120:443?path=%2Fwp-admin&security=tls&encryption=none&host=blog.artapendar.com&type=ws&sni=mydigipay.com#👉🆔@V2razy📡🇮🇷®️Iran©️Tehrān🅿️ping:96.96ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@V2razy📡🇱🇹®️Lithuania©️Vilnius🅿️ping:75.2ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU%3D@144.126.146.38:30100#👉🆔@V2razy📡🇺🇸®️United States©️Seattle🅿️ping:243.67ms
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s22.afaghnegwork.ir&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s22.afaghnegwork.ir#👉🆔@V2razy📡🇨🇦®️Canada©️Toronto🅿️ping:15.4ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@V2razy📡🇺🇸®️United States©️Secaucus🅿️ping:21.67ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#👉🆔@V2razy📡🇺🇸®️United States©️New York🅿️ping:30.25ms
 trojan://telegram-id-privatevpns@3.126.195.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/V2razy
 trojan://telegram-id-privatevpns@15.237.148.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/V2razy
 trojan://telegram-id-privatevpns@15.237.148.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/V2razy
