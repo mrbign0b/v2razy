@@ -78,6 +78,7 @@ trojan://telegram-id-directvpn@52.47.56.53:22223?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@52.47.56.53:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@63.176.71.61:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@52.59.87.241:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
+vless://98b88e61-5e53-4d0c-8b93-6d5f320bf2ce@45.150.174.82:8443?security=reality&encryption=none&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=f203719d3ff9a5f5#[🇩🇪]t.me/V2razy
 vless://b69db202-042d-4a2d-a15c-cfcdc2af0ea9@hajlab.ucdavis.edu:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=joinshhproxybedeedeeeeee.ir&encryption=none#[🇺🇸]t.me/V2razy
 vless://b664801f-e535-4196-b227-6151b45b0f5e@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed%3D2048&host=Www.speedtest.net.developsp.ir.vegaskala.com.&encryption=none#[🇨🇦]t.me/V2razy
 vless://98b88e61-5e53-4d0c-8b93-6d5f320bf2ce@45.150.174.83:8443?security=reality&encryption=none&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=f203719d3ff9a5f5#[🇩🇪]t.me/V2razy
@@ -323,4 +324,3 @@ trojan://telegram-id-directvpn@63.178.35.184:22223?allowInsecure=0&sni=trojan.bu
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.7.126:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#[🏁]t.me/V2razy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozODQ3MWRkNS0xYzVmLTQ0NDgtYmE5ZS0wYzRhMWExNzgyYjI@free.2apzhfa.xyz:31471#[🏁]t.me/V2razy
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@192.178.218.102:443?security=tls&sni=google.com&type=ws&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&fp=chrome&alpn=http/1.1#[🇺🇸]t.me/V2razy
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.250.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#[🏁]t.me/V2razy
