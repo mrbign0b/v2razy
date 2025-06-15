@@ -16,17 +16,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.198.113.57:22224?type=ws&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.126.46.20:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@V2razy 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.243.11:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@V2razy 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.177.141:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@V2razy 🇨🇵
-vless://690ab90e-3f21-422b-8cb1-bc9845c7af1e@104.26.15.85:8080?type=ws&host=IO.IhJtq0hklC.ZULAiR.OrG.&path=/&security=none#👉🆔@V2razy📡🇨🇦®️Canada©️Toronto🅿️ping:8.2ms
-vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?type=ws&host=hozori.ir&path=/RklUHeautH5uvnSB/NTQuMTY5LjIyOS4xODg&security=tls&fp=randomized&sni=hOZori.iR&alpn=http/1.1#👉🆔@V2razy📡🇨🇦®️Canada©️Toronto🅿️ping:9.04ms
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p141.panda001.net:4652#👉🆔@V2razy📡🇰🇷®️South Korea©️Seoul (Namdaemunno 5(o)-ga)🅿️ping:274.01ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowODI5M2IyMDQ3MDc@156.251.179.238:42084/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bmux%3D4%3Bhost%3Dhk6v1.pmxiaonan.xyz%3Bpath%3D%2Fsclbvcgkp%3Bmux%3Dmux%3D4%3B%3B#👉🆔@V2razy📡🇯🇵®️Japan©️Chiyoda🅿️ping:224.19ms
-trojan://ea17601d-8ebf-4431-b815-4d644821ca7e@kz.mjt000.com:443?allowInsecure=1#👉🆔@V2razy📡🇦🇺®️Australia©️Southport🅿️ping:273.57ms
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.19:38388#👉🆔@V2razy📡🇻🇳®️Vietnam©️Hải Dương🅿️ping:272.8ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.153.197.5:989#👉🆔@V2razy📡🇲🇩®️Moldova©️Chisinau🅿️ping:62.21ms
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.35.227:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#👉🆔@V2razy📡🇨🇦®️Canada©️Toronto🅿️ping:8.12ms
-vless://df5144c2-02e0-40ef-9992-1819225ca2ec@104.24.93.241:443?security=tls&sni=free.5niu.xyz&type=ws&host=free.5niu.xyz#👉🆔@V2razy📡🇨🇦®️Canada©️Toronto🅿️ping:7.93ms
-vless://cb796646-d528-4b96-9984-86dbceed95ad@104.21.16.1:443?encryption=none&security=tls&sni=DD3A34A9.bPB1-1TS.PaGeS.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=dd3a34a9.bpb1-1ts.pages.dev&path=%2FvpnAndroid2.vpnAndroid2.vpnAndroid2%3Fed%3D2560#👉🆔@V2razy📡🇨🇦®️Canada©️Toronto🅿️ping:8.44ms
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@162.159.44.82:443?sni=edccf.aimercc.filegear-sg.me&type=ws&allowInsecure=1#👉🆔@V2razy📡🇺🇸®️United States©️Los Angeles🅿️ping:30.98ms
 trojan://telegram-id-privatevpns@3.120.136.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/V2razy
 trojan://telegram-id-privatevpns@15.237.165.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/V2razy
 trojan://telegram-id-privatevpns@15.188.191.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/V2razy
