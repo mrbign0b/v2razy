@@ -77,23 +77,21 @@ trojan://telegram-id-directvpn@13.37.177.131:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@3.76.166.82:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@63.177.25.243:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@15.237.102.198:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
-vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.198.174:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/V2razy
-vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?encryption=none&security=none&type=ws&host=q6.19kalA.co&path=%2F#[🇨🇦]t.me/V2razy
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?security=tls&sni=connectwithemployers.online#[🏁]t.me/V2razy
-trojan://Aimer@173.245.59.202:2083?sni=ngepx.ambercc.filegear-sg.me#[🇨🇦]t.me/V2razy
-trojan://Aimer@172.64.33.144:443?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#[🇨🇦]t.me/V2razy
-trojan://bpb-trojan@104.21.75.193:443?security=tls&type=ws&sni=qq.vvii.us.kg&host=qq.vvii.us.kg#[🇨🇦]t.me/V2razy
-trojan://Bw5Mz7QkVp@45.76.228.142:443?security=tls&type=tcp&sni=z-v2-077985.kailib.com#[🇺🇸]t.me/V2razy
-trojan://3774827088566296576@13.213.142.42:443?security=tls&type=tcp&sni=exotic-bengal.treefrog761.one#[🏁]t.me/V2razy
-trojan://Aimer@14.56.139.220:11112?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#[🏁]t.me/V2razy
-trojan://Aimer@104.234.239.235:2087?security=tls&type=tcp&sni=ngepx.ambercc.filegear-sg.me#[🏁]t.me/V2razy
-vless://65951889-54af-453f-a7a1-55b91e5a5ad5@46.101.199.91:8080?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#[🇩🇪]t.me/V2razy
-vless://22facc17-dda1-4000-9b45-b56fee01ae6d@91.107.144.71:54250?security=reality&encryption=none&pbk=hqFjJmgoV9E8zs3YIpiOFOljQjYuskuJuWF3mzkBzh0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=refersion.com&sid=ce8a4a0afd73a293#[🇩🇪]t.me/V2razy
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40FREEV2RNG&headerType=http&type=tcp#[🇩🇪]t.me/V2razy
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.205.175:51615?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40FREEV2RNG&headerType=http&type=tcp#[🇩🇪]t.me/V2razy
-vless://c76e6274-30a0-445c-aaef-8e41ab910fbd@alman7.turbooserver.ir:55066?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#[🇮🇷]t.me/V2razy
-vless://142dd8b5-0b9e-4018-a961-2370d50cc435@185.215.228.90:20118?encryption=none&security=none&type=tcp&headerType=http&host=hub.docker.com#[🇮🇷]t.me/V2razy
-vless://aa4e1b2b-2ed5-41af-b306-ed43a9ff5dc3@45.159.148.180:2053?path=%2Fpath&security=none&encryption=none&host=google.com&type=ws#[🇮🇷]t.me/V2razy
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/V2razy
+vless://8887d7e2-1c73-49b1-9d60-ce7546053370@all49-vip.f-sub.com:1517?type=tcp&headerType=http&host=testspeed-foreign.tci.ir&security=none#[🇩🇪]t.me/V2razy
+vless://l7m8y2ca-41b9-8195-cb14-d2c2a5661d93@92.112.126.34:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=www.cloudflare.com#[🇳🇱]t.me/V2razy
+vless://d201839f-645a-4458-b193-115e1e9613c6@151.101.195.8:80?mode=packet-up&path=DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-&security=&encryption=none&host=varzesh3-namasha.global.ssl.fastly.net&type=xhttp#[🇨🇦]t.me/V2razy
+ss://YWVzLTEyOC1nY206UHJveHlGcmVlMjA0Nw==@50.114.206.142:8080#[🇺🇸]t.me/V2razy
+vless://d201839f-645a-4458-b193-115e1e9613c6@151.101.193.247:80?mode=packet-up&path=DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-&security=&encryption=none&host=varzesh3-namasha.global.ssl.fastly.net&type=xhttp#[🇨🇦]t.me/V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLZXZpblphMjA0OA==@50.114.206.150:443#[🇺🇸]t.me/V2razy
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/V2razy
+vless://d201839f-645a-4458-b193-115e1e9613c6@23.235.37.70:80?mode=packet-up&path=DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-DAILYCONFIGS-&security=&encryption=none&host=varzesh3-namasha.global.ssl.fastly.net&type=xhttp#[🇺🇸]t.me/V2razy
+ss://YWVzLTEyOC1nY206UHJveHlGcmVlMjA0OA==@50.114.206.151:8080#[🇺🇸]t.me/V2razy
+vless://MdVpnSec@91.99.199.145:443?security=reality&encryption=none&pbk=Nx4K6MTHh3ZDnRbOTc0ZORSZ-lh6IXuIc9K-sM5mrXA&headerType=none&fp=chrome&spx=%2F%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec&type=tcp&sni=www.latimes.com&sid=7399588d8eeb#[🇩🇪]t.me/V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbGF5R29vZ2xlMjA0Mw==@playgoogle.org:8080#[🇨🇦]t.me/V2razy
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.195.73:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/V2razy
+vless://a0b46bc1-4a48-4488-91fe-721653db75cc@allnetwork.qwertyuiopasdfghhjkkllzxcvbnm.joe.dj:8080?path=%2Fdownload&security=none&encryption=none&host=digikala.com&type=ws#[🇩🇪]t.me/V2razy
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.77.246.83:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#[🏁]t.me/V2razy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@fr.fastsoonlink.com:40034#[🇫🇷]t.me/V2razy
 vless://e6f7a8b9-c0d1-4e2f-9a3b-1c4d5e6f7a8b@185.146.176.18:443?encryption=none&security=tls&sni=javidnaman.iran&type=ws&host=javidnaman.iran&fp=chrome#[🏁]t.me/V2razy
 vless://f7a8b9c0-d1e2-4f3a-9b4c-2d5e6f7a8b9c@185.146.177.17:443?encryption=none&security=tls&sni=ws.javidnaman.iran&type=ws&host=ws.javidnaman.iran&fp=chrome#[🏁]t.me/V2razy
@@ -217,7 +215,6 @@ vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encr
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.76:7012?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#[🇦🇪]t.me/V2razy
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/V2razy
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.90:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/V2razy
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.151:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/V2razy
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/V2razy
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/V2razy
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.10:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/V2razy
