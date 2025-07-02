@@ -16,22 +16,22 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.197.182.128:22224?type=ws&securi
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.65.5.221:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@V2razy 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.233.60:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@V2razy 🇨🇵
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.229.66:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@V2razy 🇨🇵
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@147.185.161.229:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#👉🆔@V2razy📡🇺🇸®️United States©️Palo Alto (Downtown North)🅿️ping:7.95ms
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@147.185.161.229:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#👉🆔@V2razy📡🇺🇸®️United States©️Palo Alto (Downtown North)🅿️ping:7.95ms
-vless://61d4b8f7-2cb7-4abd-9494-5abcb2e54517@vi.jinxilco.site:15734?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=www.tarafdari.com#👉🆔@V2razy📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:33.23ms
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#👉🆔@V2razy📡🇮🇷®️Iran©️Khorramshahr🅿️ping:48.06ms
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#👉🆔@V2razy📡🇮🇷®️Iran©️Khorramshahr🅿️ping:48.06ms
-vless://b205bd96-d013-4d5b-87ff-1181f90de8d4@135.181.201.193:444?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#👉🆔@V2razy📡🇫🇮®️Finland©️Helsinki🅿️ping:13.8ms
-vless://61ecaa76-634a-470d-c54f-bb8cc6cbab2b@194.1.155.46:9501?security=none&encryption=none&headerType=none&type=tcp#👉🆔@V2razy📡🇮🇷®️Iran©️Tehrān (District 4)🅿️ping:100.98ms
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=none&encryption=none&host=zula.ir&headerType=http&fp=chrome&type=tcp#👉🆔@V2razy📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:41.79ms
-vless://85e5ff6e-ef41-480e-c43a-463bc7bd32c6@194.1.155.46:9501/?security=none&encryption=none&headerType=none&type=tcp#👉🆔@V2razy📡🇮🇷®️Iran©️Tehrān (District 4)🅿️ping:100.98ms
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615/?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#👉🆔@V2razy📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:42.31ms
-vless://4ccbd4d5-97f5-4cf7-a857-d2201baf809e@188.121.120.70:39497/?security=none&encryption=none&headerType=none&type=tcp#👉🆔@V2razy📡🇮🇷®️Iran©️Tehran🅿️ping:106.91ms
-vless://01b618c2-80e7-488e-8761-e1123e47f319@91.99.199.145:443/?security=reality&encryption=none&pbk=Nx4K6MTHh3ZDnRbOTc0ZORSZ-lh6IXuIc9K-sM5mrXA&headerType=none&fp=chrome&spx=%2F%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec&type=tcp&sni=www.latimes.com&sid=7399588d8eeb#👉🆔@V2razy📡🇮🇷®️Iran©️Khorramshahr🅿️ping:35.6ms
-vless://19466a14-94a2-40f9-b0d4-6e53e417c435@188.227.84.154:8443/?security=&encryption=none=/@Mcv2rayNG--@Mcv2raNG--@Mcv2rayNG--@Mcv2rayNG--@Mcv2rayNG--@Mcv2rayNG--@Mcv2rayNG--@Mcv2rayNG&host=zula.ir&headerType=http&type=tcp#👉🆔@V2razy📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:28.08ms
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443/?security=none&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#👉🆔@V2razy📡🇮🇷®️Iran©️Khorramshahr🅿️ping:48.06ms
-ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.38:636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Btls%3Bmux%3D4%3Bhost%3Djp7v1.lingjfjkm002.com%3Bpath%3D%2Fdchlbvrbbotc%3Bmux%3Dmux%3D4%3B%3B#👉🆔@V2razy📡🇯🇵®️Japan©️Chiyoda🅿️ping:269.74ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.163.218.2:989#👉🆔@V2razy📡🇻🇳®️Vietnam©️Quận Một🅿️ping:378.86ms
+trojan://ccaabba-aabc-aabc-cbda-acbcaacbbabc@127.0.0.1:8080?security=tls&type=tcp#👉🆔@V2razy📡🤷‍♀️®️🤷‍♀©️🤷‍♀🅿️ping:0.08ms
+vless://babcaca-caba-cbaa-acdb-abbcbcabccaa@127.0.0.1:8080?security=tls&type=tcp#👉🆔@V2razy📡🤷‍♀️®️🤷‍♀©️🤷‍♀🅿️ping:0.08ms
+trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=x1-czech-aruba-v2.devefun.org#👉🆔@V2razy📡🇨🇿®️Czechia©️Prague🅿️ping:39.53ms
+vless://822b2366-34ad-4bb2-bdc9-3fbde4d40454@www.speedtest.net:2086?path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#👉🆔@V2razy📡🇨🇦®️Canada©️Toronto🅿️ping:8.83ms
+vless://1704d4c1-6cb6-42c9-9b73-97a3bd179909@www.speedtest.net:2082?path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#👉🆔@V2razy📡🇨🇦®️Canada©️Toronto🅿️ping:8.89ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#👉🆔@V2razy📡🇺🇸®️United States©️New York🅿️ping:32.04ms
+trojan://Aimer@92.243.75.49:2087?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#👉🆔@V2razy📡🇰🇭®️Cambodia©️Phnom Penh🅿️ping:7.98ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGUGo2bk85RElCUGpqM2VYdnNHbTF5@ams.telegavpn.org:19057#👉🆔@V2razy📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:36.75ms
+vless://c3c19bdf-2eff-49e0-9746-4c98206a67b0@104.18.26.90:80?path=%2FTelegram---mtmvpn---Telegram---mtmvpn---Telegram---mtmvpn---Telegram---mtmvpn---Telegram---mtmvpn---Telegram---mtmvpn%3Fed%3D2560&security=none&encryption=none&host=s1.mitivpn.workers.dev&type=ws#👉🆔@V2razy📡🇨🇦®️Canada©️Toronto🅿️ping:8.25ms
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@147.185.161.229:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#👉🆔@V2razy📡🇺🇸®️United States©️Palo Alto (Downtown North)🅿️ping:8.16ms
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@147.185.161.229:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#👉🆔@V2razy📡🇺🇸®️United States©️Palo Alto (Downtown North)🅿️ping:8.16ms
+ss://YWVzLTI1Ni1nY206YW10YitDbTNEZWZKL3pkTHRhdnlCOTdIWEZEbGkvNmk4clFVa3RSWmRFcz0%3D@outoutline1.drinfoo.com:1443#👉🆔@V2razy📡🇬🇧®️United Kingdom©️London🅿️ping:32.77ms
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443/?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#👉🆔@V2razy📡🇩🇪®️Germany©️Nuremberg🅿️ping:35.94ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615/?security=none&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#👉🆔@V2razy📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:42.59ms
+vless://833a6c9e-7da7-4d38-9d22-ab435f301dac@dri261ekh.mongral.ir:80?mode=auto&path=%2FOfficial.Channel.%40ParsCDN&security=none&encryption=none&host=Fortinitebabajy.com&type=xhttp#👉🆔@V2razy📡🇺🇸®️United States©️San Francisco🅿️ping:7.68ms
+vless://dee419c5-be44-4033-9274-f6e88af4956e@1237273737goodfiru.mongral.ir:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp&path=/ParsCDN.Telegram.ParsCDN#👉🆔@V2razy📡🇬🇧®️United Kingdom©️Brighton🅿️ping:29.99ms
 trojan://telegram-id-privatevpns@18.198.80.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/V2razy
 trojan://telegram-id-privatevpns@51.44.59.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/V2razy
 trojan://telegram-id-privatevpns@15.188.124.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/V2razy
@@ -86,26 +86,24 @@ trojan://telegram-id-directvpn@18.197.182.128:22223?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@3.65.5.221:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@51.44.233.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
 trojan://telegram-id-directvpn@51.44.229.66:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @V2razy
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/V2razy
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.115:8888#[🇺🇸]t.me/V2razy
+vless://1c88c964-a039-4c9a-b1e5-5e93eef57fd8@91.107.154.77:8443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇩🇪]t.me/V2razy
+ss://YWVzLTI1Ni1nY206ZDk4OWZmM2Q0NmE2M2Y2Mw@185.22.152.92:1019#[🇷🇺]t.me/V2razy
+ss://YWVzLTI1Ni1nY206ZjQ2NWEyYzI4ODFiMDQyMg@107.149.212.220:1019#[🇺🇸]t.me/V2razy
+trojan://172d295b-abd4-4219-a83d-0585b498542c@84.247.144.24:443?sni=pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc#[🏁]t.me/V2razy
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.102:443/?type=tcp&encryption=none&flow=&security=tls&sni=147135001195.sec22org.com&alpn=h2%2Chttp%2F1.1#[🇺🇸]t.me/V2razy
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@147.185.161.229:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#[🇺🇸]t.me/V2razy
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615/?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/V2razy
-vless://61d4b8f7-2cb7-4abd-9494-5abcb2e54517@vi.jinxilco.site:15734?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=www.tarafdari.com#[🇳🇱]t.me/V2razy
-trojan://Aimer@107.175.37.135:443?allowInsecure=1&sni=ngepo.ambercc.filegear-sg.me#[🇺🇸]t.me/V2razy
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443/?security=none&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#[🇩🇪]t.me/V2razy
-vless://4f04aa7d-c20f-4781-8130-5c2bd15dbdb7@mr.reiisvezze2.ir:39387?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#[🇮🇷]t.me/V2razy
-vless://01b618c2-80e7-488e-8761-e1123e47f319@91.99.199.145:443/?security=reality&encryption=none&pbk=Nx4K6MTHh3ZDnRbOTc0ZORSZ-lh6IXuIc9K-sM5mrXA&headerType=none&fp=chrome&spx=%2F%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec&type=tcp&sni=www.latimes.com&sid=7399588d8eeb#[🇩🇪]t.me/V2razy
-vless://4ccbd4d5-97f5-4cf7-a857-d2201baf809e@188.121.120.70:39497/?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/V2razy
-vless://19466a14-94a2-40f9-b0d4-6e53e417c435@188.227.84.154:8443/?security=&encryption=none=/@Mcv2rayNG--@Mcv2raNG--@Mcv2rayNG--@Mcv2rayNG--@Mcv2rayNG--@Mcv2rayNG--@Mcv2rayNG--@Mcv2rayNG&host=zula.ir&headerType=http&type=tcp#[🇳🇱]t.me/V2razy
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.56:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/V2razy
-vless://61ecaa76-634a-470d-c54f-bb8cc6cbab2b@194.1.155.46:9501?security=none&encryption=none&headerType=none&type=tcp#[🇮🇷]t.me/V2razy
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=none&encryption=none&host=zula.ir&headerType=http&fp=chrome&type=tcp#[🇩🇪]t.me/V2razy
+ss://YWVzLTI1Ni1nY206YW10YitDbTNEZWZKL3pkTHRhdnlCOTdIWEZEbGkvNmk4clFVa3RSWmRFcz0%3D@outoutline1.drinfoo.com:1443#[🇬🇧]t.me/V2razy
+vless://c3c19bdf-2eff-49e0-9746-4c98206a67b0@104.18.26.90:80?path=%2FTelegram---mtmvpn---Telegram---mtmvpn---Telegram---mtmvpn---Telegram---mtmvpn---Telegram---mtmvpn---Telegram---mtmvpn%3Fed%3D2560&security=none&encryption=none&host=s1.mitivpn.workers.dev&type=ws#[🇨🇦]t.me/V2razy
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/V2razy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#[🇬🇧]t.me/V2razy
-trojan://Xa4%5El%28%3B.%3BB%23a@104.18.26.90:443?path=%2FtrUXByA1rnbs4YQ1Xw%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&host=s1.mitivpn.workers.dev&fp=randomized&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#[🇨🇦]t.me/V2razy
-vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080?security=&encryption=none&host=cloud.ir&headerType=http&type=tcp#[🇺🇸]t.me/V2razy
-vless://2fc97eb0-d9d2-4567-99bf-bb5f64b5d5e9@45.63.60.98:12188/?type=tcp&encryption=none&flow=#[🇺🇸]t.me/V2razy
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.151:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#[🇩🇪]t.me/V2razy
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.16:5004#[🇺🇸]t.me/V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#[🇺🇸]t.me/V2razy
+vless://b205bd96-d013-4d5b-87ff-1181f90de8d4@135.181.201.193:444?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#[🇫🇮]t.me/V2razy
+vless://dfe7bc4a-d2b2-4aa3-990c-3a4601cc3eee@nwarne.fast.hosting-ip.com:80?path=%2Fde%3Fed%3D1048&security=none&encryption=none&host=Yghbshup.com&type=ws#[🇨🇦]t.me/V2razy
+trojan://172d295b-abd4-4219-a83d-0585b498542c@84.247.144.24:443?sni=pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc#[🏁]t.me/V2razy
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#[🇬🇧]t.me/V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#[🇺🇸]t.me/V2razy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#[🇳🇱]t.me/V2razy
 vless://568dbffe-95a6-459c-84cd-a49b0cd2a5a3@230920393.f-sub.com:3799?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/V2razy
 vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.16.76.167:80?path=%2F%3Fed%3D2560&security=&encryption=none=Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann&host=aymng.bahareh.dpdns.org&fp=random&type=ws&sni=aymng.bahareh.dpdns.org#[🇨🇦]t.me/V2razy
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#[🇮🇷]t.me/V2razy
