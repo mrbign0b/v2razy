@@ -1,3 +1,7 @@
+vless://0b516cf6-cd76-470c-954d-9374d734f445@151.101.3.19:80?encryption=none&security=none&type=ws&host=yalandonya.global.ssl.fastly.net&path=%2Fsite#%40moftconfig%20%E2%9A%A1723ms
+trojan://bpb-trojan@94.140.0.1:443?security=tls&sni=singbox.lu567890.us.kg&insecure=0&allowInsecure=0&type=ws&host=singbox.lu567890.us.kg&path=%2Ftr%3Fed%3D2560#%40moftconfig%20%E2%9A%A1546ms
+trojan://bpb-trojan@94.140.0.1:443?security=tls&sni=singbox.lu567890.us.kg&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=singbox.lu567890.us.kg&path=%2Ftr%3Fed%3D2560#%5B%F0%9F%8F%81%5Dt.me%2FConfigsHub
+
 vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiJAVjJyYXlfQ29sbGVjdG9yIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#%40moftconfig%20%20UNKNOWN
 vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@104.18.15.19:80?encryption=none&security=none&type=ws&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev&path=%2F%3Fed%3D2560#%40moftconfig%20%20UNKNOWN
 vmess://eyJhZGQiOiAiMTYyLjE5LjI0OC4yMzgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImVkZTI3YTc5LWIwMzktNDkwYi05MzJjLTQ5NWRlNGI2ODg4MCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTUwIiwgInBzIjogIlx1ZDgzZFx1ZGZlM1x1ZDgzZFx1ZGQyNStDaGFubmVsK1NlcnZlcitGcmVlK0BGYXJhaF9WUE4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9#%40moftconfig%20%20UNKNOWN
