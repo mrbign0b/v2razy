@@ -333,3 +333,14 @@ vmess://eyJ2IjoiMiIsInBzIjoiQG1vZnRjb25maWcgXHUyNmExMzQzNG1zIiwiYWRkIjoidHVyazEu
 vless://af01651f-0058-492f-a614-7f9c316a0551@77.110.118.9:57463?type=tcp&path=%2F#%40moftconfig%20%E2%9A%A11371ms
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@dash.getasa.ir:443?type=ws&security=tls&sni=dash.getasa.ir&host=dash.getasa.ir&path=%2FTelegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY&fp=chrome#%40moftconfig%20%E2%9A%A12912ms
 vmess://eyJ2IjoiMiIsInBzIjoiQG1vZnRjb25maWcgXHUyNmExNTU4bXMiLCJhZGQiOiIxOTQuMjkuNzkuMTcxIiwicG9ydCI6IjQwNTUzIiwiaWQiOiI0OWNmNGMxZC0wODdkLTRiZTYtYWRiNy0yZjY5MzkyMTQyMDMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+vless://eea43b1a-4411-4ff7-f5b4-a860a81cad63@3.72.76.222:28706?type=tcp&path=%2F#%40moftconfig%20%E2%9A%A1419ms
+vless://d9917a89-14f6-4485-e8c5-1a2465a5996b@3.72.87.185:41676?type=tcp&path=%2F#%40moftconfig%20%E2%9A%A1443ms
+vmess://eyJ2IjoiMiIsInBzIjoiQG1vZnRjb25maWcgXHUyNmExMzY0MW1zIiwiYWRkIjoidHVyazEubmV0Lm5ldCIsInBvcnQiOiI4MCIsImlkIjoiNDNkY2RjZTEtM2NlYS00MTkzLWJjOGQtOTBiOTIwNzFkNzc5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InRyMS1zbWFydC5hZGVscGluZy5jb20uIiwicGF0aCI6Ii8iLCJ0bHMiOiJhdXRvIiwic25pIjoidHIxLXNtYXJ0LmFkZWxwaW5nLmNvbS4iLCJhbHBuIjoiIiwiZnAiOiIifQ==
+trojan://telegram-id-privatevpns@35.181.88.119:22222?type=tcp&security=tls&path=%2F#%40moftconfig%20%E2%9A%A1471ms
+trojan://telegram-id-privatevpns@3.77.68.129:22222?type=tcp&security=tls&path=%2F#%40moftconfig%20%E2%9A%A1477ms
+trojan://telegram-id-directvpn@35.180.72.19:22223?type=tcp&security=tls&path=%2F#%40moftconfig%20%E2%9A%A1495ms
+vless://68820b0d-b836-435c-e3d5-c4ce8b97f0ac@3.124.1.109:19285?type=tcp&path=%2F#%40moftconfig%20%E2%9A%A1522ms
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.72.19:22224?type=ws&security=tls&sni=trojan.burgerip.co.uk&path=%2Ftelegram-channel-vlessconfig#%40moftconfig%20%E2%9A%A1852ms
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@dash.getasa.ir:443?type=ws&security=tls&sni=dash.getasa.ir&host=dash.getasa.ir&path=%2FTelegram%40V2ynpv-Telegram%40V2ynpv-Telegram%40V2ynpv-Telegram%40V2ynpv-Telegram%40V2ynpv-Telegram%40V2ynpv-Telegram%40V2ynpv&fp=chrome#%40moftconfig%20%E2%9A%A1869ms
+vless://4c97ec3e-3527-48c5-80ff-b715463896ba@104.20.1.252:80?type=ws&sni=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&path=%2F%3Fed#%40moftconfig%20%E2%9A%A12353ms
+trojan://BxceQaOe@43.199.47.199:3292?type=tcp&security=tls&path=%2F#%40moftconfig%20%E2%9A%A12669ms
