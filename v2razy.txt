@@ -344,3 +344,9 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.72.19:22224?type=ws&security
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@dash.getasa.ir:443?type=ws&security=tls&sni=dash.getasa.ir&host=dash.getasa.ir&path=%2FTelegram%40V2ynpv-Telegram%40V2ynpv-Telegram%40V2ynpv-Telegram%40V2ynpv-Telegram%40V2ynpv-Telegram%40V2ynpv-Telegram%40V2ynpv&fp=chrome#%40moftconfig%20%E2%9A%A1869ms
 vless://4c97ec3e-3527-48c5-80ff-b715463896ba@104.20.1.252:80?type=ws&sni=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&path=%2F%3Fed#%40moftconfig%20%E2%9A%A12353ms
 trojan://BxceQaOe@43.199.47.199:3292?type=tcp&security=tls&path=%2F#%40moftconfig%20%E2%9A%A12669ms
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?type=ws&security=tls&sni=web.abcallcenter.com&host=web.abcallcenter.com&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&fp=chrome#%40moftconfig%20%E2%9A%A11305ms
+vless://cf1b548b-4ab0-43fe-b000-330d42ec2a95@62.60.159.133:13179?type=tcp&path=%2F#%40moftconfig%20%E2%9A%A1455ms
+vless://1ec37997-3045-47ef-90b4-24afc317bbad@82.25.145.95:38666?type=ws&path=%2F#%40moftconfig%20%E2%9A%A1951ms
+vless://c5fbb5dd-83bb-43ce-a799-e3e5c29e25da@104.18.32.47:80?type=ws&host=gLeEfuL-GrassMcKS7Sr4kw.wiNdleR.co.Uk.&path=%2F%3Fed#%40moftconfig%20%E2%9A%A12773ms
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.88.119:22224?type=ws&security=tls&sni=trojan.burgerip.co.uk&path=%2Ftelegram-channel-vlessconfig#%40moftconfig%20%E2%9A%A11000ms
+vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@37.16.74.19:2053?type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.ibm.com&path=%2F&fp=chrome&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&sid=4a5b6c7d#%40moftconfig%20%E2%9A%A11783ms
