@@ -26,7 +26,6 @@ vless://34617a19-b48d-4358-b051-c85a7fd26007@pp.streamfastcdn.shop:80?type=ws&pa
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:8443?type=ws&security=tls&sni=digikala.sorza.ir&host=digikala.sorza.ir&path=%2F%3Fed%3D2560&fp=chrome#%40moftconfig%20%E2%9A%A12841ms
 vless://944973b0-afee-4661-a765-155b8936282c@95.38.38.7:301?type=tcp&path=%2F#Ping%3A%20121%20%7C%20Delay%3A%20550%20%7C%20%40moftconfig%20%7C%20%F0%9F%8C%8D%20Unknown%20Paris%20%7C%20Org%3A%20YottaSrc
 vless://9b05e77f-e81f-4d5b-a2dc-7463a154b241@m6.fastspeeds.ir:2083?type=ws&security=tls&sni=arvan-sw2.ip-venzo.com&path=%2F#Ping%3A%20111%20%7C%20Delay%3A%201234%20%7C%20%40moftconfig
-vmess://eyJ2IjoiMiIsInBzIjoiQG1vZnRjb25maWcgXHUyNmExMjg3Mm1zIiwiYWRkIjoiMTcyLjY0LjE0OS4xODIiLCJwb3J0IjoiODA4MCIsImlkIjoibmFzbmV0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Im5hc25ldC01NzEyOTY0MTAyLnNoYXJnaGRhaWx5LmNvIiwicGF0aCI6Ii9uYXNuZXQvY2RuP2VkPTI1NjAiLCJ0bHMiOiJhdXRvIiwic25pIjoibmFzbmV0LTU3MTI5NjQxMDIuc2hhcmdoZGFpbHkuY28iLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@104.20.1.252:80?type=ws&host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&path=%2F%3Fed%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048#%40moftconfig%20%E2%9A%A1685ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43662#%40moftconfig%20%E2%9A%A12239ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#%40moftconfig%20%E2%9A%A12851ms
@@ -74,7 +73,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiQG1vZnRjb25maWcgXHUyNmExMzM1MW1zIiwiYWRkIjoiMTcyLjY0
 vless://5d455342-2929-45a0-951a-1b273ec39b7c@104.18.7.36:2086?type=ws&host=rayan11-0l5mxs7b-v1.rayan-11.workers.dev&path=%2F#%40moftconfig%20%E2%9A%A1642ms
 vless://cb213db5-803d-49dd-a7e2-46d938af0751@www.visaeurope.at:2082?type=ws&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=%2F%3Fed%3D2560#%40moftconfig%20%E2%9A%A1522ms
 vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@104.20.1.252:80?type=ws&host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&path=%2F%3Fed%23Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY%3Fed%3D2048#%40moftconfig%20%E2%9A%A1691ms
-vmess://eyJ2IjoiMiIsInBzIjoiQG1vZnRjb25maWcgXHUyNmExNTU4bXMiLCJhZGQiOiIxNzIuNjcuMjA0Ljg0IiwicG9ydCI6IjgwODAiLCJpZCI6Im5hc25ldCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsInBhdGgiOiIvbmFzbmV0L2NkbiIsInRscyI6ImF1dG8iLCJzbmkiOiJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsImFscG4iOiIiLCJmcCI6IiJ9
 vless://802738d5-11fe-458b-bba7-6e76a1be9830@193.151.137.196:443?type=tcp&path=%2F#%40moftconfig%20%E2%9A%A1241ms
 vless://3775d133-dc3a-4a02-8095-5c70c328ae9f@nodejs.org:80?type=ws&host=HUge-ActOR48bf36fHJV.ecOTouriSS.co.uK.&path=%2F&fp=chrome#%40moftconfig%20%E2%9A%A1962ms
 vless://d967f8c5-07b3-4fcb-a4e1-cbd9f76e1034@104.18.126.69:443?type=ws&security=tls&sni=usa7.xn--ghqu5fm27b67w.com&host=usa7.xn--ghqu5fm27b67w.com&path=%2Fpq%2Fus7&fp=chrome#%40moftconfig%20%E2%9A%A1966ms
