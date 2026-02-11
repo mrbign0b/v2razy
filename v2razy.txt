@@ -1,3 +1,9 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.55.39:22224?type=ws&security=tls&sni=trojan.burgerip.co.uk&path=%2Ftelegram-channel-vlessconfig#%40moftconfig%20%E2%9A%A1800ms
+vmess://eyJ2IjoiMiIsInBzIjoiQG1vZnRjb25maWcgXHUyNmExNTY2bXMiLCJhZGQiOiJ0Z2p1Lm9yZyIsInBvcnQiOiI4MDgwIiwiaWQiOiJuYXNuZXQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJuYXNuZXQtMTYyMTkxMDk5LnNoYXJnaGRhaWx5LmNvIiwicGF0aCI6Ii9uYXNuZXQvY2RuP2VkPTI1NjAiLCJ0bHMiOiJhdXRvIiwic25pIjoibmFzbmV0LTE2MjE5MTA5OS5zaGFyZ2hkYWlseS5jbyIsImFscG4iOiIiLCJmcCI6IiJ9
+trojan://telegram-id-privatevpns@35.157.55.39:22222?type=tcp&security=tls&sni=trojan.burgerip.co.uk&path=%2F#%40moftconfig%20%E2%9A%A1603ms
+trojan://telegram-id-privatevpns@13.38.208.62:22222?type=tcp&security=tls&path=%2F#%40moftconfig%20%E2%9A%A1625ms
+vmess://eyJ2IjoiMiIsInBzIjoiQG1vZnRjb25maWcgXHUyNmExNDQybXMiLCJhZGQiOiIxMDQuMjEuNjkuNDQiLCJwb3J0IjoiODA4MCIsImlkIjoibmFzbmV0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Im5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwicGF0aCI6Ii9uYXNuZXQvY2RuIiwidGxzIjoiYXV0byIsInNuaSI6Im5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwiYWxwbiI6IiIsImZwIjoiIn0=
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.208.62:22224?type=ws&security=tls&sni=trojan.burgerip.co.uk&path=%2Ftelegram-channel-vlessconfig#%40moftconfig%20%E2%9A%A11224ms
 trojan://telegram-id-directvpn@35.157.55.39:22223?type=tcp&security=tls&path=%2F#%40moftconfig%20%E2%9A%A1591ms
 vless://5ca6e49d-d15e-400e-9e9e-4fddcc4d8e41@ip3.kakeroo.ir:80?type=ws&host=kalamsi666.global.ssl.fastly.net&path=%2F#%40moftconfig%20%E2%9A%A1997ms
 vless://6bd7b446-acd2-4c69-a943-38fa67488b45@95.217.246.168:37128?type=tcp&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&path=%2F#%40moftconfig%20%E2%9A%A11041ms
@@ -39,7 +45,6 @@ vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?type=ws&path=%2FI
 vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@base.zdshop.ir:2086?type=ws&host=new-frns.certhost.ir&path=%2F%3Fed%3D2086#%40moftconfig%20%E2%9A%A1851ms
 vmess://eyJ2IjoiMiIsInBzIjoiQG1vZnRjb25maWcgXHUyNmExMTczMm1zIiwiYWRkIjoidGdqdS5vcmciLCJwb3J0IjoiODA4MCIsImlkIjoibmFzbmV0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Im5hc25ldC01NzEyOTY0OTcuaXJhbnByZXNzLmNvIiwicGF0aCI6Ii9uYXNuZXQvY2RuP2VkPTI1NjAiLCJ0bHMiOiJhdXRvIiwic25pIjoibmFzbmV0LTU3MTI5NjQ5Ny5pcmFucHJlc3MuY28iLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.24:8080?type=ws&path=%2FIVApi%2FUK%2F3#%40moftconfig%20%E2%9A%A13227ms
-vmess://eyJ2IjoiMiIsInBzIjoiQG1vZnRjb25maWcgXHUyNmExMzU3NW1zIiwiYWRkIjoiMjE3LjYwLjI0Ny4xMDgiLCJwb3J0IjoiODA4MCIsImlkIjoiNGFiMGU0OTYtM2VmNS00M2ZkLTk4ODYtMTI0MzQ1NDFmYTQyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 vless://4b811a3e-8a38-447f-9050-abd4cb81b382@129.212.239.177:42036?type=ws&host=m.zoom.us&path=%2FFREE+By+Tharuwa+%280767597317%29%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night#%40moftconfig%20%E2%9A%A1862ms
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.19:8080?type=ws&path=%2FIVApi%2FNL%2F3#%40moftconfig%20%E2%9A%A11043ms
 vless://715a6015-7a63-4e6d-98a8-47d948aa4c88@65.108.86.186:53717?type=tcp&path=%2F#%40moftconfig%20%E2%9A%A13656ms
@@ -49,7 +54,6 @@ vless://ef874d9b-a399-4b25-bdd9-a1b3fea3e5d2@104.18.166.203:443?type=ws&security
 vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@safe.zdshop.ir:2053?type=ws&security=tls&sni=frns-2.certhost.ir&host=frns-2.certhost.ir&path=%2F#%40moftconfig%20%E2%9A%A1944ms
 vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@ens.zdshop.ir:80?type=ws&host=smk46ws16en.global.ssl.fastly.net&path=%2Fed%3D2560#%40moftconfig%20%E2%9A%A13884ms
 vless://e91ff41b-eebf-485c-a477-67ad6667c09a@108.162.194.82:443?type=ws&security=tls&sni=hotchoclate.graphapp.ir&host=hotchoclate.graphapp.ir&path=%2Fv2rayroad&fp=chrome#%40moftconfig%20%E2%9A%A1575ms
-vless://6bd7b446-acd2-4c69-a943-38fa67488b45@95.217.246.168:37128?type=tcp&path=%2F#%40moftconfig%20%E2%9A%A1658ms
 vless://98b04958-9dfd-4a72-8cab-348e0c623660@blog.zanbori.ir:4220?type=ws&host=blog.zanborak-shop.ir&path=%2F#%40moftconfig%20%E2%9A%A11187ms
 vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?type=ws&security=tls&sni=Tet.mehspeedtest.com&path=%2F&fp=chrome#%40moftconfig%20%E2%9A%A1744ms
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.68.128.188:22224?type=ws&security=tls&sni=trojan.burgerip.co.uk&path=%2Ftelegram-channel-vlessconfig#%40moftconfig%20%E2%9A%A1647ms
