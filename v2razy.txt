@@ -1,9 +1,11 @@
-ss://YWVzLTI1Ni1nY206TXpSbFl6QTBaR1kwTmpjMlpqUTJZVFJpTVRnMllUa3pOak00T0dJMQ@kyiv02.npvnot.com:443#%5BHistory%5D%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%8F%B1799ms
-vless://a47c49ec-6eaa-44ce-9108-8427426a1123@104.27.66.214:8443?type=ws&security=tls&sni=ratatouille.adaspoloandco.com&host=ratatouille.adaspoloandco.com&path=%2Fadmin.php&fp=chrome#%5BHistory%5D%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%9C%85GeoOK%20%E2%8F%B14416ms
-vless://e8c61352-444f-4154-ba34-9d3141154a8d@141.101.115.71:8443?type=ws&security=tls&sni=maple.adaspoloandco.com&host=maple.adaspoloandco.com&path=%2Fuploader.php&fp=chrome#%5BHistory%5D%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%9C%85GeoOK%20%E2%8F%B17776ms
-vless://im-rootface@8.218.24.35:443?type=tcp&path=%2F#%5BHistory%5D%20%F0%9F%87%AD%F0%9F%87%B0%20%E2%9C%85GeoOK%20%E2%8F%B12956ms
-vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@104.19.208.184:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt&fp=chrome#%5BHistory%5D%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%9C%85GeoOK%20%E2%9A%A110KB/s%20%E2%8F%B18564ms
-vless://96e05c60-cfe5-4365-9c41-b76ec30b4381@141.101.115.71:8443?type=ws&security=tls&sni=chopin.adaspoloandco.com&host=chopin.adaspoloandco.com&path=%2Fdownload.php&fp=chrome#%5BHistory%5D%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%9C%85GeoOK%20%E2%9A%A127KB/s%20%E2%8F%B13231ms
+vless://a47c49ec-6eaa-44ce-9108-8427426a1123@104.27.66.214:8443?type=ws&security=tls&sni=ratatouille.adaspoloandco.com&host=ratatouille.adaspoloandco.com&path=%2Fadmin.php&fp=chrome#%5BHistory%5D%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%9C%85GeoOK%20%E2%8F%B16855ms
+vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@104.19.208.184:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt&fp=chrome#%5BHistory%5D%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%9C%85GeoOK%20%E2%8F%B14834ms
+trojan://telegram-id-privatevpns@13.36.249.118:22222?type=tcp&security=tls&path=%2F#%5BHistory%5D%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%8F%B1416ms
+ss://YWVzLTI1Ni1nY206TXpSbFl6QTBaR1kwTmpjMlpqUTJZVFJpTVRnMllUa3pOak00T0dJMQ@kyiv02.npvnot.com:443#%5BHistory%5D%20%F0%9F%87%BA%F0%9F%87%A6%20%E2%8F%B11120ms
+vless://im-rootface@8.218.24.35:443?type=tcp&path=%2F#%5BHistory%5D%20%F0%9F%87%AD%F0%9F%87%B0%20%E2%9C%85GeoOK%20%E2%8F%B12562ms
+vless://9522dafb-b180-42ce-9651-a138c676feaa@jizz.ideweb.ir:44000?type=tcp&path=%2F#%5BHistory%5D%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%8F%B11930ms
+vless://96e05c60-cfe5-4365-9c41-b76ec30b4381@141.101.115.71:8443?type=ws&security=tls&sni=chopin.adaspoloandco.com&host=chopin.adaspoloandco.com&path=%2Fdownload.php&fp=chrome#%5BHistory%5D%20%F0%9F%87%B5%F0%9F%87%B1%20%E2%9C%85GeoOK%20%E2%9A%A113KB/s%20%E2%8F%B14104ms
+vless://e8c61352-444f-4154-ba34-9d3141154a8d@141.101.115.71:8443?type=ws&security=tls&sni=maple.adaspoloandco.com&host=maple.adaspoloandco.com&path=%2Fuploader.php&fp=chrome#%5BHistory%5D%20%F0%9F%87%A8%F0%9F%87%A6%20%E2%9C%85GeoOK%20%E2%9A%A120KB/s%20%E2%8F%B17738ms
 vless://473b4ca4-b112-4bc5-a1f5-4e845662d446@94.183.231.80:443?type=tcp&path=%2F#%5BHistory%5D
 vless://bf116897-eca4-459c-9f97-4019fa0ace7f@104.19.64.105:8443?type=ws&security=tls&sni=focalin.adaspoloandco.com&host=focalin.adaspoloandco.com&path=%2FRizZrAcK&fp=chrome#%5BHistory%5D
 vless://bf116897-eca4-459c-9f97-4019fa0ace7f@162.159.253.41:8443?type=ws&security=tls&sni=focalin.adaspoloandco.com&host=focalin.adaspoloandco.com&path=%2FRizZrAcK&fp=chrome#%5BHistory%5D
@@ -85,7 +87,6 @@ vless://be5851ff-9af5-45ea-b874-a0a035714114@104.19.208.184:8443?type=ws&securit
 vless://3e40c799-dc8f-4155-a1bc-6a515f7cd0c2@185.143.233.68:443?type=ws&security=tls&sni=backend.parhamm2.ir&host=backend.parhamm2.ir&path=%2F&fp=random#%5BHistory%5D
 vless://e0021a91-e53a-4757-96fc-912c7c830721@de.connfull.org:8443?type=tcp&security=tls&path=%2F&fp=chrome#%5BHistory%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1dmxkc05NYlE4QjRjS0RLMHNST3dq@142.93.183.235:20683#%5BHistory%5D
-ss://YWVzLTI1Ni1nY206WVdabE5EUTRZVFJsTm1JNE5EVTVaR0U1WVRBM05qQTNabVl6TmpReg@kyiv02.npvnot.com:443#%5BHistory%5D
 vless://7eb3bfab-bf84-4fab-a58f-78fad9e52802@95.38.179.126:2220?type=ws&path=%2F#%5BHistory%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZU9TM0E0SGZ3VnQxSXRrMG4zSzNI@78.40.116.149:33292#%5BHistory%5D
 trojan://telegram-id-privatevpns@51.44.104.68:22222?type=tcp&security=tls&path=%2F#%5BHistory%5D
