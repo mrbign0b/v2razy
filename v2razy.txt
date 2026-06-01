@@ -1,4 +1,5 @@
-vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?type=tcp&path=%2F#%5BHistory%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%9C%85GeoOK%20%E2%9A%A153KB/s%20%E2%8F%B13438ms
+vless://5190d373-ff94-42da-a9d1-559d201dd77f@193.151.134.189:8008?type=tcp&path=%2F#%5BHistory%5D%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%8F%B11360ms
+vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?type=tcp&path=%2F#%5BHistory%5D
 vless://2d580b20-6228-4a88-b11d-78da48631efb@cd.land4k.com:443?type=ws&security=tls&sni=cdn-pro6.postshup.ir.&host=cdn-pro6.postshup.ir.&path=%2Fnews&fp=chrome#%5BHistory%5D
 vless://9181404f-cd0b-4969-a107-0171ddfd1061@cdn1.greewebservices.ir:2087?type=ws&security=tls&sni=trump.consolegamenet.ir&host=trump.consolegamenet.ir&path=%2Fpath&fp=chrome#%5BHistory%5D
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?type=tcp&security=tls&sni=cdn9-33.vk-cdnvideo.com&path=%2F&fp=chrome#%5BHistory%5D
@@ -31,7 +32,6 @@ vless://52ad04bc-eb90-4845-aae1-1f422522332f@141.101.115.71:8443?type=ws&securit
 vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?type=tcp&path=%2F#%5BHistory%5D
 vless://0b3e592c-4228-4409-8f90-c4e21863b51b@104.19.64.105:8443?type=ws&security=tls&sni=chopin.adaspoloandco.com&host=chopin.adaspoloandco.com&path=%2Fdownload.php&fp=chrome#%5BHistory%5D
 vless://e122cfd0-0197-46c7-b4a9-ba9891c9eff7@104.27.66.214:8443?type=ws&security=tls&sni=ratatouille.adaspoloandco.com&host=ratatouille.adaspoloandco.com&path=%2Fadmin.php&fp=chrome#%5BHistory%5D
-vless://5190d373-ff94-42da-a9d1-559d201dd77f@193.151.134.189:8008?type=tcp&path=%2F#%5BHistory%5D
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@162.159.253.41:2087?type=ws&security=tls&sni=rubifen.adaspoloandco.com&host=rubifen.adaspoloandco.com&path=%2FGOrbEh&fp=chrome#%5BHistory%5D
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.19.64.105:2087?type=ws&security=tls&sni=rubifen.adaspoloandco.com&host=rubifen.adaspoloandco.com&path=%2FGOrbEh&fp=chrome#%5BHistory%5D
 vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@173.245.59.191:443?type=ws&security=tls&sni=baguette.adaspoloandco.com&host=baguette.adaspoloandco.com&path=%2FGoorBah&fp=chrome#%5BHistory%5D
