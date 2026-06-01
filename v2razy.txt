@@ -1,3 +1,4 @@
+anytls://c870fe5a-0729-11f0-8cf9-f23c93136cb3@76842b4a-tb71c0-tgprfk-ddgs.losjan20.west.wctype.com:8300?security=tls&sni=76842b4a-tb71c0-tgprfk-ddgs.losjan20.west.wctype.com&insecure=1&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40MoftConfig%7C%20US212%7C2.8MB%2Fs%7CGPT%E2%81%BA-US%7CGM-US%7CCL-US%7CSP-US
 vless://5190d373-ff94-42da-a9d1-559d201dd77f@193.151.134.189:8008?type=tcp&path=%2F#%5BHistory%5D%20%E2%8F%B11570ms
 vless://280cf6f3-fb18-4155-98bf-c03d7719fc4a@95.38.234.52:35439?type=tcp&path=%2F#%5BHistory%5D
 vless://52ad04bc-eb90-4845-aae1-1f422522332f@173.245.59.191:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt&fp=chrome#%5BHistory%5D
