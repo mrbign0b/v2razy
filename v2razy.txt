@@ -1,7 +1,7 @@
-vless://2a9f4af9-d04d-4c34-8170-89f77dce717c@108.61.178.31:30345?type=tcp&path=%2F#%5BHistory%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%8F%B1284ms
-vless://71f9e26b-9012-4517-94f0-44029ab840a1@nl1.jetrovps.com:2053?type=tcp&path=%2F#%5BHistory%5D%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%9C%85GeoOK%20%E2%8F%B11097ms
-vless://931e8012-bf23-4c0d-9732-829ee23f6cac@95.38.234.52:35439?type=tcp&path=%2F#%5BHistory%5D%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%9A%A111KB/s%20%E2%8F%B1362ms
-vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?type=tcp&path=%2F#%5BHistory%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%9C%85GeoOK%20%E2%9A%A124KB/s%20%E2%8F%B1384ms
+vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?type=tcp&path=%2F#%5BHistory%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%9C%85GeoOK%20%E2%8F%B1538ms
+vless://2a9f4af9-d04d-4c34-8170-89f77dce717c@108.61.178.31:30345?type=tcp&path=%2F#%5BHistory%5D
+vless://71f9e26b-9012-4517-94f0-44029ab840a1@nl1.jetrovps.com:2053?type=tcp&path=%2F#%5BHistory%5D
+vless://931e8012-bf23-4c0d-9732-829ee23f6cac@95.38.234.52:35439?type=tcp&path=%2F#%5BHistory%5D
 vless://8857c29d-adfb-4d4c-98a9-1847280ec1a4@37.152.185.16:27156?type=tcp&path=%2F#%5BHistory%5D
 vless://e122cfd0-0197-46c7-b4a9-ba9891c9eff7@104.19.64.105:8443?type=ws&security=tls&sni=ratatouille.adaspoloandco.com&host=ratatouille.adaspoloandco.com&path=%2Fadmin.php&fp=chrome#%5BHistory%5D
 vless://0b3e592c-4228-4409-8f90-c4e21863b51b@162.159.253.41:8443?type=ws&security=tls&sni=chopin.adaspoloandco.com&host=chopin.adaspoloandco.com&path=%2Fdownload.php&fp=chrome#%5BHistory%5D
