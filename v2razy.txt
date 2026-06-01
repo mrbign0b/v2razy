@@ -1,6 +1,8 @@
-anytls://c870fe5a-0729-11f0-8cf9-f23c93136cb3@76842b4a-tb71c0-tgprfk-ddgs.losjan20.west.wctype.com:8300?security=tls&sni=76842b4a-tb71c0-tgprfk-ddgs.losjan20.west.wctype.com&insecure=1&allowInsecure=1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40MoftConfig%7C%20US212%7C2.8MB%2Fs%7CGPT%E2%81%BA-US%7CGM-US%7CCL-US%7CSP-US
-vless://5190d373-ff94-42da-a9d1-559d201dd77f@193.151.134.189:8008?type=tcp&path=%2F#%5BHistory%5D%20%E2%8F%B11570ms
-vless://280cf6f3-fb18-4155-98bf-c03d7719fc4a@95.38.234.52:35439?type=tcp&path=%2F#%5BHistory%5D
+vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?type=tcp&path=%2F#%5BHistory%5D%20%E2%8F%B17946ms
+vmess://eyJ2IjoiMiIsInBzIjoiW0hpc3RvcnldIFx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBcdTIzZjE3NDBtcyIsImFkZCI6InNwZWVkdGVzdC5vcmciLCJwb3J0IjoiODAiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsImFpZCI6IjAiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZGUyLnBpbmctZ2FtZS5pciIsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsInRscyI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiZGUyLnBpbmctZ2FtZS5pciIsImFscG4iOiIiLCJmcCI6IiJ9
+ss://YWVzLTI1Ni1nY206T0dFeU16UTNNalJpWW1VNU5UZzBNVGxpWm1NeFlqRTFaVGd4TnpFMA@188.121.102.28:10112#%5BHistory%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%9C%85GeoOK%20%E2%8F%B1202ms
+vless://280cf6f3-fb18-4155-98bf-c03d7719fc4a@95.38.234.52:35439?type=tcp&path=%2F#%5BHistory%5D%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%8F%B1393ms
+vless://5190d373-ff94-42da-a9d1-559d201dd77f@193.151.134.189:8008?type=tcp&path=%2F#%5BHistory%5D
 vless://52ad04bc-eb90-4845-aae1-1f422522332f@173.245.59.191:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt&fp=chrome#%5BHistory%5D
 vless://e6682a34-0875-41f9-88a3-6fe01abe09f8@172.67.74.10:443?type=ws&security=tls&sni=sertraline.adaspoloandco.com&host=sertraline.adaspoloandco.com&path=%2Fdownload.php&fp=chrome#%5BHistory%5D
 vless://e6682a34-0875-41f9-88a3-6fe01abe09f8@104.27.66.214:443?type=ws&security=tls&sni=sertraline.adaspoloandco.com&host=sertraline.adaspoloandco.com&path=%2Fdownload.php&fp=chrome#%5BHistory%5D
