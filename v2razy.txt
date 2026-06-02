@@ -1,4 +1,6 @@
-vless://5190d373-ff94-42da-a9d1-559d201dd77f@193.151.134.189:8008?type=tcp&path=%2F#%5BHistory%5D%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%9A%A121KB/s%20%E2%8F%B11186ms
+vless://bd9584ed-6585-41a1-a91b-7c8e40efe5d5@snapp.ir:2095?type=ws&host=rat.skycmd.org&path=%2Frat#%5BHistory%5D%20%E2%9C%85GeoOK%20%E2%8F%B14815ms
+vless://b146c1b7-feab-4b07-b0a8-bcb65b2289e4@varzesh3.com:2095?type=ws&host=rat.skycmd.org&path=%2Frat#%5BHistory%5D%20%E2%9C%85GeoOK%20%E2%9A%A18KB/s%20%E2%8F%B15120ms
+vless://5190d373-ff94-42da-a9d1-559d201dd77f@193.151.134.189:8008?type=tcp&path=%2F#%5BHistory%5D
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?type=tcp&path=%2F#%5BHistory%5D
 vless://2d580b20-6228-4a88-b11d-78da48631efb@cd.land4k.com:443?type=ws&security=tls&sni=cdn-pro6.postshup.ir.&host=cdn-pro6.postshup.ir.&path=%2Fnews&fp=chrome#%5BHistory%5D
 vless://9181404f-cd0b-4969-a107-0171ddfd1061@cdn1.greewebservices.ir:2087?type=ws&security=tls&sni=trump.consolegamenet.ir&host=trump.consolegamenet.ir&path=%2Fpath&fp=chrome#%5BHistory%5D
