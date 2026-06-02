@@ -1,4 +1,5 @@
-ss://YWVzLTI1Ni1nY206T1RCalpHUm1ORE5rWVRjNE16TTRZMkUyWVRJeVpEVmhNbVU0TUdJNQ@95.38.186.24:10110#%5BHistory%5D%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%8F%B13910ms
+vmess://eyJ2IjoiMiIsInBzIjoiW0hpc3RvcnldIFx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBcdTIzZjE3MjcybXMiLCJhZGQiOiJzMS5jb25uZWN0LmJsb3JveHkubmV0IiwicG9ydCI6IjEwNjAiLCJpZCI6IjMwYmVkZTc2LWI1NzYtNGVmNi1hMjllLWUyOGFhZDUxZWUzMiIsImFpZCI6IjAiLCJzY3kiOiJhZXMtMTI4LWdjbSIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+ss://YWVzLTI1Ni1nY206T1RCalpHUm1ORE5rWVRjNE16TTRZMkUyWVRJeVpEVmhNbVU0TUdJNQ@95.38.186.24:10110#%5BHistory%5D
 vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?type=tcp&path=%2F#%5BHistory%5D
 vless://bd9584ed-6585-41a1-a91b-7c8e40efe5d5@snapp.ir:2095?type=ws&host=rat.skycmd.org&path=%2Frat#%5BHistory%5D
 vless://b146c1b7-feab-4b07-b0a8-bcb65b2289e4@varzesh3.com:2095?type=ws&host=rat.skycmd.org&path=%2Frat#%5BHistory%5D
