@@ -1,5 +1,5 @@
-vless://5190d373-ff94-42da-a9d1-559d201dd77f@193.151.134.189:8008?type=tcp&path=%2F#%5BHistory%5D%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%9A%A121KB/s%20%E2%8F%B11399ms
-vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?type=tcp&path=%2F#%5BHistory%5D%20%F0%9F%87%AE%F0%9F%87%B1%20%E2%9C%85GeoOK%20%E2%9A%A134KB/s%20%E2%8F%B1274ms
+vless://5190d373-ff94-42da-a9d1-559d201dd77f@193.151.134.189:8008?type=tcp&path=%2F#%5BHistory%5D%20%F0%9F%87%B9%F0%9F%87%B7%20%E2%9A%A121KB/s%20%E2%8F%B11186ms
+vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?type=tcp&path=%2F#%5BHistory%5D
 vless://2d580b20-6228-4a88-b11d-78da48631efb@cd.land4k.com:443?type=ws&security=tls&sni=cdn-pro6.postshup.ir.&host=cdn-pro6.postshup.ir.&path=%2Fnews&fp=chrome#%5BHistory%5D
 vless://9181404f-cd0b-4969-a107-0171ddfd1061@cdn1.greewebservices.ir:2087?type=ws&security=tls&sni=trump.consolegamenet.ir&host=trump.consolegamenet.ir&path=%2Fpath&fp=chrome#%5BHistory%5D
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?type=tcp&security=tls&sni=cdn9-33.vk-cdnvideo.com&path=%2F&fp=chrome#%5BHistory%5D
