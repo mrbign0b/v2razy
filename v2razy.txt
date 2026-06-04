@@ -1,7 +1,8 @@
-vless://d3d59da0-31a4-45da-bf9e-373c6ab140db@62.60.251.131:45656?type=tcp&path=%2F#%F0%9F%91%91%20VIP%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%8F%B1692ms
-vless://d2cc114e-705d-4680-a6a9-751958660619@46.254.17.182:9001?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&path=%2F&fp=chrome&pbk=wIOabE8h8d0f8PvpY1-xkOOagFS_0WT_SAsWj1OYszI&sid=e91339df#%F0%9F%91%91%20VIP%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%9C%85GeoOK%20%E2%8F%B11442ms
-vless://d2cc114e-705d-4680-a6a9-751958660619@46.254.17.182:41934?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&path=%2F&fp=chrome&pbk=wIOabE8h8d0f8PvpY1-xkOOagFS_0WT_SAsWj1OYszI&sid=a3#%F0%9F%91%91%20VIP%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%8F%B11742ms
-ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@216.38.170.155:13223#%F0%9F%91%91%20VIP%20%E2%8F%B16265ms
+vless://2aea3581-48a7-4ca1-aa29-6fd662be5af1@g.mamadtella.com:40443?type=tcp&path=%2F#%F0%9F%91%91%20VIP%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%9C%85GeoOK%20%E2%8F%B13465ms
+vless://d3d59da0-31a4-45da-bf9e-373c6ab140db@62.60.251.131:45656?type=tcp&path=%2F#%F0%9F%91%91%20VIP
+vless://d2cc114e-705d-4680-a6a9-751958660619@46.254.17.182:9001?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&path=%2F&fp=chrome&pbk=wIOabE8h8d0f8PvpY1-xkOOagFS_0WT_SAsWj1OYszI&sid=e91339df#%F0%9F%91%91%20VIP
+vless://d2cc114e-705d-4680-a6a9-751958660619@46.254.17.182:41934?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&path=%2F&fp=chrome&pbk=wIOabE8h8d0f8PvpY1-xkOOagFS_0WT_SAsWj1OYszI&sid=a3#%F0%9F%91%91%20VIP
+ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@216.38.170.155:13223#%F0%9F%91%91%20VIP
 vless://63a16ebb-8687-42ac-972a-5914cafad1d5@109.248.168.88:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&path=%2F&fp=qq&pbk=Z4Tgh2rk4bfBE9ctuLz1_0DFDN3xmnMc-rf6tChgHms&sid=5639662657ddd18f#%F0%9F%91%91%20VIP
 vless://2be0bfae-0a97-4724-b993-2b12ddbc3c6e@107.161.175.252:443?type=tcp&path=%2F#%F0%9F%91%91%20VIP
 vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.229.144.48:8686?type=tcp&security=reality&sni=www.apple.com&path=%2F&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#%F0%9F%91%91%20VIP
