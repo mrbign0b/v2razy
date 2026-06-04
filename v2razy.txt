@@ -1,5 +1,9 @@
-vless://63a16ebb-8687-42ac-972a-5914cafad1d5@109.248.168.88:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&path=%2F&fp=qq&pbk=Z4Tgh2rk4bfBE9ctuLz1_0DFDN3xmnMc-rf6tChgHms&sid=5639662657ddd18f#%F0%9F%91%91%20VIP%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%9A%A16KB/s%20%E2%8F%B11254ms
-vless://2be0bfae-0a97-4724-b993-2b12ddbc3c6e@107.161.175.252:443?type=tcp&path=%2F#%F0%9F%91%91%20VIP%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%8F%B1269ms
+vless://d3d59da0-31a4-45da-bf9e-373c6ab140db@62.60.251.131:45656?type=tcp&path=%2F#%F0%9F%91%91%20VIP%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%8F%B1692ms
+vless://d2cc114e-705d-4680-a6a9-751958660619@46.254.17.182:9001?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&path=%2F&fp=chrome&pbk=wIOabE8h8d0f8PvpY1-xkOOagFS_0WT_SAsWj1OYszI&sid=e91339df#%F0%9F%91%91%20VIP%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%9C%85GeoOK%20%E2%8F%B11442ms
+vless://d2cc114e-705d-4680-a6a9-751958660619@46.254.17.182:41934?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&path=%2F&fp=chrome&pbk=wIOabE8h8d0f8PvpY1-xkOOagFS_0WT_SAsWj1OYszI&sid=a3#%F0%9F%91%91%20VIP%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%8F%B11742ms
+ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@216.38.170.155:13223#%F0%9F%91%91%20VIP%20%E2%8F%B16265ms
+vless://63a16ebb-8687-42ac-972a-5914cafad1d5@109.248.168.88:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&path=%2F&fp=qq&pbk=Z4Tgh2rk4bfBE9ctuLz1_0DFDN3xmnMc-rf6tChgHms&sid=5639662657ddd18f#%F0%9F%91%91%20VIP
+vless://2be0bfae-0a97-4724-b993-2b12ddbc3c6e@107.161.175.252:443?type=tcp&path=%2F#%F0%9F%91%91%20VIP
 vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.229.144.48:8686?type=tcp&security=reality&sni=www.apple.com&path=%2F&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f#%F0%9F%91%91%20VIP
 vless://63a16ebb-8687-42ac-972a-5914cafad1d5@146.185.211.107:8448?type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&path=%2F&fp=qq&pbk=1AaVqUPIiB24__LI0ntnhNU6QgZfHlYjukKZ-12hW04&sid=a3f9c2e17b6d4a8c#%F0%9F%91%91%20VIP
 vless://8f9cebd7-2737-454f-8706-384a817bf062@45.63.100.170:10852?type=tcp&path=%2F#%F0%9F%91%91%20VIP
@@ -41,7 +45,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3R20xc2RDU1JXQjQ2Q3JP@20.164.45.116:443#%F0%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTRjYjU3NS0xNWJkLTQ2NjQtYjk0ZC0yZTZhNmI0Y2NkYTg@109.120.138.95:28655#%F0%9F%91%91%20VIP
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WXlVaGZyWHhvUTk1b2lReExPTk5Xd3Z6dnZRb1F1WGZvSkRvYko4bXllaz06TWZEZlp2R2pkWktWZlNOOUoxajBxUkRFRldxNldvbFRJUW5YZVJkeWo2Yz0@47.254.123.246:10003#%F0%9F%91%91%20VIP
 ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@chengbai02.ascwt179.com:13223#%F0%9F%91%91%20VIP
-ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw@216.38.170.155:13223#%F0%9F%91%91%20VIP
 vless://3ed19513-f763-4bf3-a898-c51e08e3c333@45.84.156.115:443?type=tcp&path=%2F#%F0%9F%91%91%20VIP
 vless://c2b6a323-19ec-4e4f-a95c-8b0e99aa7660@109.120.138.95:443?type=tcp&path=%2F#%F0%9F%91%91%20VIP
 vless://956fc78c-566c-419b-b7c3-0eff86e8d24f@79.175.136.204:16100?type=tcp&path=%2F#%F0%9F%91%91%20VIP
