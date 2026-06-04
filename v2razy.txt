@@ -1,4 +1,5 @@
-vless://2aea3581-48a7-4ca1-aa29-6fd662be5af1@g.mamadtella.com:40443?type=tcp&path=%2F#%F0%9F%91%91%20VIP%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%9C%85GeoOK%20%E2%8F%B13465ms
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkYzUxIFZJUCBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgXHUyNzA1R2VvT0sgXHUyNmExMTJLQi9zIFx1MjNmMTcyMG1zIiwiYWRkIjoiMi4yNi4yNTAuNDUiLCJwb3J0IjoiNTgyNDgiLCJpZCI6Ijc5NjVlMGY1LWNjMTQtNGU2Ny1iZTQ4LWI3YTQxYjkxNmY5ZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IjIuMjYuMjUwLjQ1IiwicGF0aCI6Ii8iLCJ0bHMiOiJhdXRvIiwic25pIjoiMi4yNi4yNTAuNDUiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vless://2aea3581-48a7-4ca1-aa29-6fd662be5af1@g.mamadtella.com:40443?type=tcp&path=%2F#%F0%9F%91%91%20VIP
 vless://d3d59da0-31a4-45da-bf9e-373c6ab140db@62.60.251.131:45656?type=tcp&path=%2F#%F0%9F%91%91%20VIP
 vless://d2cc114e-705d-4680-a6a9-751958660619@46.254.17.182:9001?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&path=%2F&fp=chrome&pbk=wIOabE8h8d0f8PvpY1-xkOOagFS_0WT_SAsWj1OYszI&sid=e91339df#%F0%9F%91%91%20VIP
 vless://d2cc114e-705d-4680-a6a9-751958660619@46.254.17.182:41934?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&path=%2F&fp=chrome&pbk=wIOabE8h8d0f8PvpY1-xkOOagFS_0WT_SAsWj1OYszI&sid=a3#%F0%9F%91%91%20VIP
