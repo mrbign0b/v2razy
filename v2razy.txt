@@ -1,6 +1,11 @@
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?type=ws&path=%2Fhttp&fp=chrome#%F0%9F%91%91%20VIP%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%9A%A159KB/s%20%E2%8F%B1510ms
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@103.119.18.165:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.vk.ru&path=%2F&fp=chrome&pbk=vo6Xrwkla8OBS5O6lEinNvHXxW8DxCmb8HGHD86VzkU&sid=0e#%F0%9F%91%91%20VIP%20%F0%9F%87%AD%F0%9F%87%B0%20%E2%9C%85GeoOK%20%E2%9A%A141KB/s%20%E2%8F%B1581ms
-vless://dc372ceb-bcf6-4303-997a-8160adb82273@51.250.106.87:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdp.x5.ru&path=%2F&fp=safari&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%91%91%20VIP%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%9C%85GeoOK%20%E2%9A%A141KB/s%20%E2%8F%B1726ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#%F0%9F%91%91%20VIP%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%9C%85GeoOK%20%E2%9A%A149KB/s%20%E2%8F%B1334ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.23:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&path=%2F&fp=chrome&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#%F0%9F%91%91%20VIP%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%9C%85GeoOK%20%E2%9A%A136KB/s%20%E2%8F%B1662ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#%F0%9F%91%91%20VIP%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%9A%A131KB/s%20%E2%8F%B1310ms
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.21:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=jp.s3-cloud.org&path=%2F&fp=edge&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&sid=7a3f9e2b1c8d4f6a#%F0%9F%91%91%20VIP%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%9C%85GeoOK%20%E2%9A%A130KB/s%20%E2%8F%B1855ms
+vless://v2raydia@89.124.69.82:1310?type=ws&host=play.google.com&path=%2F%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia#%F0%9F%91%91%20VIP%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%9C%85GeoOK%20%E2%9A%A113KB/s%20%E2%8F%B11443ms
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?type=ws&path=%2Fhttp&fp=chrome#%F0%9F%91%91%20VIP
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@103.119.18.165:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.vk.ru&path=%2F&fp=chrome&pbk=vo6Xrwkla8OBS5O6lEinNvHXxW8DxCmb8HGHD86VzkU&sid=0e#%F0%9F%91%91%20VIP
+vless://dc372ceb-bcf6-4303-997a-8160adb82273@51.250.106.87:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdp.x5.ru&path=%2F&fp=safari&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%91%91%20VIP
 ss://YWVzLTI1Ni1nY206TTJSaE9HWTJNR0V6WkdKak1EaGxaRFExWlRReE5URTJaR0k0TmpoaQ@188.121.119.246:11110#%F0%9F%91%91%20VIP
 ss://YWVzLTI1Ni1nY206ZmVuZzNkQHNzMjAyNQ@47.239.0.60:8388#%F0%9F%91%91%20VIP
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206V1pLWCtrQ0wwZXZEb09JM09qMVEyNUlBeVlPemJGSU5OZlVFRjdBdlB5Yz06ZkZHdGFYcDlybXkzODlYOTZqZ2ZlMURCK3N3R0lEd2NRa3lWMDBCcVo3Yz0@82.115.16.8:42589#%F0%9F%91%91%20VIP
@@ -31,7 +36,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbDZzNXdQUVh6VzJ6QUxI@20.164.211.148:443#%F0%9F%91%91%20VIP
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#%F0%9F%91%91%20VIP
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RFQwbWk1OVY0YTlTZTlFaHlvbnl1cHRWZkllM29KcElyekQvZmE4VzE3VT06U0NmNmN1cVBuZWFOd0NPS3pZa09uRVRmaWgxUkNVYzZrUmlvMmhQeURuZz0@91.107.191.12:54471#%F0%9F%91%91%20VIP
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#%F0%9F%91%91%20VIP
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#%F0%9F%91%91%20VIP
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0@49.13.3.249:23997#%F0%9F%91%91%20VIP
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%91%91%20VIP
