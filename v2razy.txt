@@ -1,4 +1,4 @@
-vless://5df9efa9-ea6f-4148-9789-5f4bb35a10d9@79.175.167.44:2323?type=tcp&path=%2F#%F0%9F%91%91%20VIP%20%E2%9A%A117KB/s%20%E2%8F%B11124ms
+vless://5df9efa9-ea6f-4148-9789-5f4bb35a10d9@79.175.167.44:2323?type=tcp&path=%2F#%F0%9F%91%91%20VIP%20%F0%9F%87%B2%F0%9F%87%BE%20%E2%9C%85GeoOK%20%E2%9A%A118KB/s%20%E2%8F%B11667ms
 vless://524d9514-fb31-4c13-bdcf-76398d11ccf8@158.160.159.180:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&path=%2F&fp=qq&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%91%91%20VIP%20%E2%9A%A178KB/s%20%E2%8F%B1411ms
 vless://52ba5106-f408-4b25-b1b8-333903e76a27@sub.iranlink.pro:2052?type=tcp&path=%2F#%F0%9F%91%91%20VIP%20%E2%9A%A169KB/s%20%E2%8F%B1403ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#%F0%9F%91%91%20VIP%20%E2%9A%A159KB/s%20%E2%8F%B1352ms
