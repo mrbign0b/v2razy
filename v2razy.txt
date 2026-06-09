@@ -1,3 +1,4 @@
+vless://342cc065-f5dd-449d-8f27-02dcfd15130a@185.143.233.235:80?type=ws&host=ivh.ziroxcompany.ir&path=%2F#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%5BArvan%5D%20%F0%9F%9A%80%2032KB/s%20%E2%8F%B3%204694ms
 vless://5ff29d05-65b9-4afc-a447-5c507ebf20f2@199.34.230.177:2052?type=ws&host=uwu.blueknightnet.qzz.io&path=%2Fapi-v1#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%5BCF%5D%20%E2%8F%B3%201062ms
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@199.232.197.131:80?type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%5BFastly%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%8C%8D%20Open%20%F0%9F%9A%80%2070KB/s%20%E2%8F%B3%20805ms
 vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@66.225.252.93:80?type=ws&host=main.boobie.eu.cc&path=%2F#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%5BCF%5D%20%E2%8F%B3%20917ms
