@@ -1,3 +1,13 @@
+vless://1028a267-929a-45ca-a5d8-13dd180941d5@185.147.27.105:80?type=ws&path=%2F#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%9A%80%203.0MB/s%20%E2%8F%B3%20190ms
+vless://01bda09b-f79a-4e47-b903-acaae59ebfee@185.147.27.105:80?type=websocket#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%9A%80%202.9MB/s%20%E2%8F%B3%20158ms
+vless://20fc97f0-819c-4186-9004-33e93333f821@185.147.27.105:80?type=ws&path=%2F#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%9A%80%20629KB/s%20%E2%8F%B3%20186ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbi1pdnctU284T1VacjJUMW5tZjd3@vonipvip.samclothing.uno:1080#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%E2%8F%B3%20161ms
+vless://75bee37c-2b54-4ebc-820e-62d41d2086a5@195.209.88.125:443?type=ws&security=tls&sni=s22244.cdn.ngenix.net&path=%2Fapi%2Fv2%2Fauweb&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%8F%B3%20175ms
+vless://7fc295ae-7b73-48ff-a413-bf7cbaf94819@185.147.27.105:80?type=ws&path=%2F#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%8F%B3%20181ms
+vless://742882c9-29b0-4b74-a08d-d8f95ace8ccf@185.147.27.105:80?type=ws&path=%2F#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%8F%B3%20194ms
+vless://7d577d3b-71ff-4a12-99e5-b7662c92a9f1@185.147.27.105:80?type=websocket#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%8F%B3%20195ms
+vless://027266f2-bec4-4ef2-ba4f-0627e6032557@hentai-cdn.apruxdomain.xyz:80?type=ws&path=%2F#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%8F%B3%20597ms
+vless://1ac9f6f1-06ed-4cc6-af67-d79a96618cf8@bmw.1o0.net:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=bmw-cdn.1o0.net&fp=firefox&pbk=fttWZh0xD5Cw0R1F7py6eDD0Xe21JzmFeDqYF6Mn3jM&sid=0a6f5f685d215952#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%8F%B3%204130ms
 vless://094f8a75-3917-4190-81e1-a57f31162f98@51.250.16.150:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&fp=random&pbk=iRbc5G3wZbluYutzDvrJlc356yJsEnhV1T4tvE-tCnM&sid=27e53bbcab7593d7#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%9A%80%204.0MB/s%20%E2%8F%B3%20188ms
 vless://5d349e00-453c-49c6-9f60-324e5d4d2482@185.147.27.105:80?type=ws&path=%2F#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%8F%B3%20163ms
 vless://225f4a4b-5295-4d19-96f2-12326d279049@185.147.27.105:80?type=websocket#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%8F%B3%20168ms
@@ -47,7 +57,6 @@ vless://dde33b7e-b51d-478c-8f99-38e2e084baf7@195.209.88.125:443?type=ws&security
 vless://7cc2bdf0-5dfe-4a02-a1d6-10d09efc7c11@hentai-cdn.apruxdomain.xyz:80?type=ws&path=%2F#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%8F%B3%20190ms
 vless://758fc800-a86e-4d19-9bea-5d733878f719@hentai-cdn.apruxdomain.xyz:80?type=ws&path=%2F#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%8F%B3%20192ms
 vless://01bda09b-f79a-4e47-b903-acaae59ebfee@hentai-cdn.apruxdomain.xyz:80?type=ws&path=%2F&fp=firefox#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%8F%B3%20204ms
-vless://e3ebd5d5-7553-4f0f-99dd-a5d92029e941@185.147.27.105:80?type=ws&path=%2F#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%8F%B3%20210ms
 vless://7fc295ae-7b73-48ff-a413-bf7cbaf94819@hentai-cdn.apruxdomain.xyz:80?type=ws&path=%2F#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%8F%B3%20213ms
 vless://1ac9f6f1-06ed-4cc6-af67-d79a96618cf8@geg.xxee.ru:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=getgegin.xxee.ru&fp=firefox&pbk=fxYPLrSzBFwZ3IUuLyrv_OTtgHgbx8GL7HuD3walpwc&sid=5f75688e69eb611f#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%8F%B3%20218ms
 vless://ed8094c5-1232-4cbc-9c4b-d9a0684e388b@hentai-cdn.apruxdomain.xyz:80?type=ws&path=%2F&fp=firefox#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%8F%B3%20219ms
