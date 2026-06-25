@@ -1,3 +1,4 @@
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aUZ4bHRxc2NKVkxKZEh1blpYUENtYjRUb0hON0xoa29lWXdwUWNVL1Bibz0@193.151.128.97:443#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%F0%9F%8C%8D%20Open%20%E2%8F%B3%20233ms
 trojan://MiTiVPN@151.101.110.193:443?type=ws&security=tls&sni=ssl.fastly.com&host=cdn2-mitivpn.global.ssl.fastly.net&path=%2Fde&fp=chrome#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%5BFastly%5D%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%8F%B3%20110ms
 trojan://MiTiVPN@151.101.110.3:443?type=ws&security=tls&sni=ssl.fastly.com&host=cdn2-mitivpn.global.ssl.fastly.net&path=%2Fde&fp=chrome#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%5BFastly%5D%20%F0%9F%87%B8%F0%9F%87%AA%20%E2%8F%B3%20114ms
 trojan://MiTiVPN@151.101.245.242:443?type=ws&security=tls&sni=www.f6r.ir&host=www.f6r.ir&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%5BFastly%5D%20%F0%9F%87%AA%F0%9F%87%AA%20%E2%8F%B3%20115ms
