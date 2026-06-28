@@ -1,7 +1,11 @@
-ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6cXZ2aXB1b2l3M2lnNjlyZw@live.ravinoz.ir:3030#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%F0%9F%8C%8D%20Open%20%E2%8F%B3%20127ms
-vless://c919e592-5639-491e-a9b7-7a201175ae12@158.160.204.211:8441?type=raw&security=reality&flow=xtls-rprx-vision&sni=ya.ru&fp=chrome&pbk=Q5mtL2qHRAoPEVnl9GRezCHkTrNTnvW_FL3_HQhhKDo&sid=06011ef464e3313f#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%E2%8F%B3%20209ms
-vless://374b2429-b278-426b-81dc-0cddc24d5328@81.163.23.115:2097?type=grpc&security=reality&sni=gazeta-business.ru&fp=firefox&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=28a059440d3d5ba1&serviceName=grpc#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%8F%B3%20314ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MHRoT2JIQjJrbWJseFI2dk8zZVhqWjJOendtQVUzNg@87.107.163.55:1015#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%20%F0%9F%8C%8D%20Open%20%E2%8F%B3%20351ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2NmtoZ2Y1Nmo5YnI1ZTQ2@109.120.152.128:80#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%E2%8F%B3%20109ms
+vless://1ed471ea-7f4a-42e4-8d9c-903cac0cb27a@188.213.198.238:7080?type=raw#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%E2%8F%B3%20127ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0WTVqbktsZnlOVWo2aUpL@168.63.52.145:443#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%AE%F0%9F%87%AA%20%E2%8F%B3%20137ms
+trojan://SoftNetConnect@83.228.250.119:42549?type=raw&security=tls#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%E2%8F%B3%206879ms
+ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6cXZ2aXB1b2l3M2lnNjlyZw@live.ravinoz.ir:3030#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%A8%F0%9F%87%AD%20%F0%9F%8C%8D%20Open%20%E2%8F%B3%20127ms
+vless://c919e592-5639-491e-a9b7-7a201175ae12@158.160.204.211:8441?type=raw&security=reality&flow=xtls-rprx-vision&sni=ya.ru&fp=chrome&pbk=Q5mtL2qHRAoPEVnl9GRezCHkTrNTnvW_FL3_HQhhKDo&sid=06011ef464e3313f#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%8F%B3%20209ms
+vless://374b2429-b278-426b-81dc-0cddc24d5328@81.163.23.115:2097?type=grpc&security=reality&sni=gazeta-business.ru&fp=firefox&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=28a059440d3d5ba1&serviceName=grpc#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%8F%B3%20314ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MHRoT2JIQjJrbWJseFI2dk8zZVhqWjJOendtQVUzNg@87.107.163.55:1015#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%A6%F0%9F%87%AA%20%F0%9F%8C%8D%20Open%20%E2%8F%B3%20351ms
 vless://c87950b3-f132-450a-bec6-e9e91fc9d8bc@193.23.219.140:56453?type=raw#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%9A%80%201.8MB/s%20%E2%8F%B3%20125ms
 vless://c48534e2-7579-4a23-a83a-05d5021a48ec@185.178.208.176:443?type=ws&security=tls&sni=founders-blog.online&path=%2Fstream%2F615428%2Fsocket&fp=chrome&alpn=h3%2Ch2#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%8F%B3%20193ms
 vless://276733b9-25c8-47b0-b651-b18cd4909128@132.243.213.174:37037?type=raw#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%E2%8F%B3%20241ms
