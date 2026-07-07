@@ -1,13 +1,13 @@
-# top30 live monitor - updated 2026-07-07T19:31:10.528476+00:00
-# 4/30 alive
+# top30 live monitor - updated 2026-07-07T19:45:16.868573+00:00
+# 3/30 alive
 # dns=bypass-iran routing=bypass-iran phases=dns,gemini,sustained,yt
 # Columns: remark | delay | jitter | fail% | YT | GEM | DNS | score
 
-vless://43488128-319e-f480-64ea-0acdc712e2a8@139.84.236.5:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=www.alibaba.com&fp=chrome&pbk=UkoqOh9VtAhhMrlKY3wAmijgjCrLIKMZT-An0NjrHng&sid=8d17b7ebab7b99d7#%40Moftconfig%20%F0%9F%87%BF%F0%9F%87%A6%20ZA%20OK%201884ms%20J580.6%20275KB/s%20GEM%20NOLK%20S122.0
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@104.26.6.159:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt&fp=chrome&alpn=h2%2Chttp%2F1.1#%40Moftconfig%20%F0%9F%87%AB%F0%9F%87%AE%20OK%202793ms%20J1278.5%20915KB/s%20GEM%20NOLK%20S122.0
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.143:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20FI%20OK%204242ms%20J2313.0%20371KB/s%20GEM%20NOLK%20S122.0
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.187:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20FI%20OK%205247ms%20J1246.4%20F20%25%20551KB/s%20GEM%20NOLK%20S142.0
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@104.26.6.159:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt&fp=chrome&alpn=h2%2Chttp%2F1.1#%40Moftconfig%20%F0%9F%87%AB%F0%9F%87%AE%20FI%20OK%204562ms%20J2028.2%20733KB/s%20GEM%20NOLK%20S122.0
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.143:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20FI%20OK%202368ms%20J1311.4%20801KB/s%20GEM%20NOLK%20S122.0
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.187:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20FI%20OK%203594ms%20J1359.7%20837KB/s%20NOLK%20S142.0
 vless://f1f47653-d57b-5917-fa47-c80823a8b7f3@rvg-production-8249.up.railway.app:443?type=ws&security=tls&sni=rvg-production-8249.up.railway.app&host=rvg-production-8249.up.railway.app&path=%2Fws%2Ff1f47653-d57b-5917-fa47-c80823a8b7f3&fp=chrome&alpn=http%2F1.1#%40Moftconfig%20DEAD
+vless://43488128-319e-f480-64ea-0acdc712e2a8@139.84.236.5:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=www.alibaba.com&fp=chrome&pbk=UkoqOh9VtAhhMrlKY3wAmijgjCrLIKMZT-An0NjrHng&sid=8d17b7ebab7b99d7#%40Moftconfig%20DEAD
 vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@172.67.74.10:2087?type=ws&security=tls&sni=amphetamine.adaspoloandco.com&host=amphetamine.adaspoloandco.com&path=%2Fdownload.php&fp=chrome&alpn=h2%2Chttp%2F1.1#%40Moftconfig%20%F0%9F%87%AB%F0%9F%87%AE%20DEAD
 vless://@V2ConfigPro@188.114.99.250:2087?type=xhttp&security=tls&sni=rr.v2configpro.dpdns.org&host=rr.v2configpro.dpdns.org&path=%2F&fp=chrome#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20DEAD
 vless://05710728-8978-44f3-ada4-08856cffa219@2.26.63.144:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=musicboss.eu&fp=firefox&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&sid=197e9c7abe#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20DEAD
