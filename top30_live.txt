@@ -1,11 +1,11 @@
-# top30 live monitor - updated 2026-07-07T19:58:17.954231+00:00
+# top30 live monitor - updated 2026-07-07T20:10:27.788348+00:00
 # 3/30 alive
 # dns=bypass-iran routing=bypass-iran phases=dns,gemini,sustained,yt
 # Columns: remark | delay | jitter | fail% | YT | GEM | DNS | score
 
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@104.26.6.159:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt&fp=chrome&alpn=h2%2Chttp%2F1.1#%40Moftconfig%20%F0%9F%87%AB%F0%9F%87%AE%20FI%20OK%203555ms%20J2422.6%201.1MB/s%20GEM%20NOLK%20S115.0
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.143:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20FI%20OK%204867ms%20J1639.0%20607KB/s%20GEM%20NOLK%20S122.0
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.187:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20FI%20OK%204364ms%20J2223.5%20F20%25%20894KB/s%20GEM%20NOLK%20S142.0
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@104.26.6.159:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt&fp=chrome&alpn=h2%2Chttp%2F1.1#%40Moftconfig%20%F0%9F%87%AB%F0%9F%87%AE%20FI%20OK%203672ms%20J1753.7%201.1MB/s%20GEM%20NOLK%20S115.0
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.143:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20FI%20OK%202883ms%20J1769.3%20746KB/s%20GEM%20NOLK%20S122.0
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.187:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20FI%20OK%202932ms%20J1485.3%20541KB/s%20GEM%20NOLK%20S122.0
 vless://f1f47653-d57b-5917-fa47-c80823a8b7f3@rvg-production-8249.up.railway.app:443?type=ws&security=tls&sni=rvg-production-8249.up.railway.app&host=rvg-production-8249.up.railway.app&path=%2Fws%2Ff1f47653-d57b-5917-fa47-c80823a8b7f3&fp=chrome&alpn=http%2F1.1#%40Moftconfig%20DEAD
 vless://43488128-319e-f480-64ea-0acdc712e2a8@139.84.236.5:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=www.alibaba.com&fp=chrome&pbk=UkoqOh9VtAhhMrlKY3wAmijgjCrLIKMZT-An0NjrHng&sid=8d17b7ebab7b99d7#%40Moftconfig%20DEAD
 vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@172.67.74.10:2087?type=ws&security=tls&sni=amphetamine.adaspoloandco.com&host=amphetamine.adaspoloandco.com&path=%2Fdownload.php&fp=chrome&alpn=h2%2Chttp%2F1.1#%40Moftconfig%20%F0%9F%87%AB%F0%9F%87%AE%20DEAD
