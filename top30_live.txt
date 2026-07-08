@@ -1,14 +1,14 @@
-# top30 live monitor - updated 2026-07-08T15:13:01.076300+00:00
+# top30 live monitor - updated 2026-07-08T15:29:10.726377+00:00
 # 6/30 alive
 # dns=bypass-iran routing=bypass-iran phases=dns,gemini,sustained,yt
 # Columns: remark | delay | jitter | fail% | YT | GEM | DNS | score
 
-vless://53510d6b-47e0-43d0-bd47-6934c1b26bbb@germanyserver.nizeo.ir:8443?type=ws&security=tls&sni=germanyserver.nizeo.ir&path=%2F&fp=ios&alpn=h2%2Chttp%2F1.1#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20OK%20818ms%20J17.0%202.3MB/s%20NOLK%20S68.6
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.143:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20FI%20OK%201380ms%20J174.3%20GEM%20NOLK%20S97.4
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.187:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20FI%20OK%201347ms%20J456.0%202.4MB/s%20GEM%20NOLK%20S110.6
-vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@162.159.38.119:443?type=ws&security=tls&sni=amoosamiii.net&host=amoosamiii.net&path=%2Fpoiuyws%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&fp=chrome#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20OK%201157ms%20J297.9%202.2MB/s%20NOLK%20S114.8
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@104.26.6.159:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt&fp=chrome&alpn=h2%2Chttp%2F1.1#%40Moftconfig%20%F0%9F%87%AB%F0%9F%87%AE%20FI%20OK%202042ms%20J876.8%201.9MB/s%20GEM%20NOLK%20S115.0
-vless://43488128-319e-f480-64ea-0acdc712e2a8@139.84.236.5:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=www.alibaba.com&fp=chrome&pbk=UkoqOh9VtAhhMrlKY3wAmijgjCrLIKMZT-An0NjrHng&sid=8d17b7ebab7b99d7#%40Moftconfig%20%F0%9F%87%BF%F0%9F%87%A6%20ZA%20OK%201932ms%20J475.1%2073KB/s%20GEM%20NOLK%20S127.5
+vless://53510d6b-47e0-43d0-bd47-6934c1b26bbb@germanyserver.nizeo.ir:8443?type=ws&security=tls&sni=germanyserver.nizeo.ir&path=%2F&fp=ios&alpn=h2%2Chttp%2F1.1#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20OK%20907ms%20J139.5%201.8MB/s%20GEM%20NOLK%20S69.7
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.143:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20FI%20OK%201118ms%20J87.9%202.2MB/s%20GEM%20NOLK%20S73.8
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@162.159.38.119:443?type=ws&security=tls&sni=amoosamiii.net&host=amoosamiii.net&path=%2Fpoiuyws%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&fp=chrome#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20OK%201437ms%20J254.2%201.8MB/s%20NOLK%20S110.4
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@104.26.6.159:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt&fp=chrome&alpn=h2%2Chttp%2F1.1#%40Moftconfig%20%F0%9F%87%AB%F0%9F%87%AE%20FI%20OK%202843ms%20J1774.1%202.2MB/s%20GEM%20NOLK%20S115.0
+vless://43488128-319e-f480-64ea-0acdc712e2a8@139.84.236.5:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=www.alibaba.com&fp=chrome&pbk=UkoqOh9VtAhhMrlKY3wAmijgjCrLIKMZT-An0NjrHng&sid=8d17b7ebab7b99d7#%40Moftconfig%20%F0%9F%87%BF%F0%9F%87%A6%20ZA%20OK%203487ms%20J947.8%20GEM%20NOLK%20S130.0
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.187:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20FI%20OK%201624ms%20J1179.2%20485KB/s%20NOLK%20S142.0
 vless://5f508dfd-333f-4660-9729-d0cd5c6662d6@3.120.209.207:443?type=ws&security=tls&path=%2F&fp=chrome&alpn=http%2F1.1#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20DEAD
 vless://f1f47653-d57b-5917-fa47-c80823a8b7f3@rvg-production-8249.up.railway.app:443?type=ws&security=tls&sni=rvg-production-8249.up.railway.app&host=rvg-production-8249.up.railway.app&path=%2Fws%2Ff1f47653-d57b-5917-fa47-c80823a8b7f3&fp=chrome&alpn=http%2F1.1#%40Moftconfig%20DEAD
 vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@172.67.74.10:2087?type=ws&security=tls&sni=amphetamine.adaspoloandco.com&host=amphetamine.adaspoloandco.com&path=%2Fdownload.php&fp=chrome&alpn=h2%2Chttp%2F1.1#%40Moftconfig%20%F0%9F%87%AB%F0%9F%87%AE%20DEAD
