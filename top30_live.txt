@@ -1,14 +1,14 @@
-# top30 live monitor - updated 2026-07-07T23:15:26.385694+00:00
+# top30 live monitor - updated 2026-07-08T09:32:50.309555+00:00
 # 6/30 alive
 # dns=bypass-iran routing=bypass-iran phases=dns,gemini,sustained,yt
 # Columns: remark | delay | jitter | fail% | YT | GEM | DNS | score
 
-vless://5f508dfd-333f-4660-9729-d0cd5c6662d6@3.120.209.207:443?type=ws&security=tls&path=%2F&fp=chrome&alpn=http%2F1.1#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20OK%20624ms%20J33.9%20966KB/s%20GEM%20NOLK%20S37.9
-vless://43488128-319e-f480-64ea-0acdc712e2a8@139.84.236.5:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=www.alibaba.com&fp=chrome&pbk=UkoqOh9VtAhhMrlKY3wAmijgjCrLIKMZT-An0NjrHng&sid=8d17b7ebab7b99d7#%40Moftconfig%20%F0%9F%87%BF%F0%9F%87%A6%20ZA%20OK%201367ms%20J35.7%201.6MB/s%20GEM%20NOLK%20S68.6
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.187:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20FI%20OK%201124ms%20J161.2%201.3MB/s%20GEM%20NOLK%20S81.1
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@104.26.6.159:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt&fp=chrome&alpn=h2%2Chttp%2F1.1#%40Moftconfig%20%F0%9F%87%AB%F0%9F%87%AE%20FI%20OK%201207ms%20J352.7%201.2MB/s%20GEM%20NOLK%20S100.3
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.143:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20FI%20OK%201227ms%20J590.7%201.1MB/s%20GEM%20NOLK%20S115.0
-vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@173.245.59.191:8443?type=ws&security=tls&sni=maple.adaspoloandco.com&host=maple.adaspoloandco.com&path=%2Fuploader.php&fp=chrome&alpn=h2%2Chttp%2F1.1#%40Moftconfig%20%F0%9F%87%A8%F0%9F%87%A6%20CA%20OK%202948ms%20J1588.0%20F20%25%201.2MB/s%20GEM%20NOLK%20S135.0
+vless://5f508dfd-333f-4660-9729-d0cd5c6662d6@3.120.209.207:443?type=ws&security=tls&path=%2F&fp=chrome&alpn=http%2F1.1#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20OK%20608ms%20J27.4%201011KB/s%20GEM%20NOLK%20S35.6
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.143:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20FI%20OK%20937ms%20J58.4%201.1MB/s%20GEM%20NOLK%20S64.6
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.187:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20FI%20OK%20876ms%20J59.5%20386KB/s%20GEM%20NOLK%20S65.6
+vless://43488128-319e-f480-64ea-0acdc712e2a8@139.84.236.5:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=www.alibaba.com&fp=chrome&pbk=UkoqOh9VtAhhMrlKY3wAmijgjCrLIKMZT-An0NjrHng&sid=8d17b7ebab7b99d7#%40Moftconfig%20%F0%9F%87%BF%F0%9F%87%A6%20ZA%20OK%201379ms%20J24.3%20316KB/s%20GEM%20NOLK%20S74.4
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@104.26.6.159:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt&fp=chrome&alpn=h2%2Chttp%2F1.1#%40Moftconfig%20%F0%9F%87%AB%F0%9F%87%AE%20FI%20OK%201081ms%20J202.2%201.2MB/s%20GEM%20NOLK%20S85.2
+vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@173.245.59.191:8443?type=ws&security=tls&sni=maple.adaspoloandco.com&host=maple.adaspoloandco.com&path=%2Fuploader.php&fp=chrome&alpn=h2%2Chttp%2F1.1#%40Moftconfig%20%F0%9F%87%A8%F0%9F%87%A6%20CA%20OK%202484ms%20J970.3%20F20%25%201.2MB/s%20NOLK%20S155.0
 vless://f1f47653-d57b-5917-fa47-c80823a8b7f3@rvg-production-8249.up.railway.app:443?type=ws&security=tls&sni=rvg-production-8249.up.railway.app&host=rvg-production-8249.up.railway.app&path=%2Fws%2Ff1f47653-d57b-5917-fa47-c80823a8b7f3&fp=chrome&alpn=http%2F1.1#%40Moftconfig%20DEAD
 vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@172.67.74.10:2087?type=ws&security=tls&sni=amphetamine.adaspoloandco.com&host=amphetamine.adaspoloandco.com&path=%2Fdownload.php&fp=chrome&alpn=h2%2Chttp%2F1.1#%40Moftconfig%20%F0%9F%87%AB%F0%9F%87%AE%20DEAD
 vless://@V2ConfigPro@188.114.99.250:2087?type=xhttp&security=tls&sni=rr.v2configpro.dpdns.org&host=rr.v2configpro.dpdns.org&path=%2F&fp=chrome#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20DEAD
