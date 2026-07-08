@@ -1,10 +1,9 @@
-# top30 live monitor - updated 2026-07-08T11:35:55.181013+00:00
-# 2/30 alive
+# top30 live monitor - updated 2026-07-08T11:46:52.950959+00:00
+# 1/30 alive
 # dns=bypass-iran routing=bypass-iran phases=dns,gemini,sustained,yt
 # Columns: remark | delay | jitter | fail% | YT | GEM | DNS | score
 
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.187:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20FI%20OK%203353ms%20J887.2%20GEM%20NOLK%20S130.0
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.143:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20FI%20OK%201860ms%20J455.0%201.8MB/s%20NOLK%20S130.5
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.143:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20OK%203093ms%20J1423.1%202.8MB/s%20NOLK%20S135.0
 vless://5f508dfd-333f-4660-9729-d0cd5c6662d6@3.120.209.207:443?type=ws&security=tls&path=%2F&fp=chrome&alpn=http%2F1.1#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20DEAD
 vless://f1f47653-d57b-5917-fa47-c80823a8b7f3@rvg-production-8249.up.railway.app:443?type=ws&security=tls&sni=rvg-production-8249.up.railway.app&host=rvg-production-8249.up.railway.app&path=%2Fws%2Ff1f47653-d57b-5917-fa47-c80823a8b7f3&fp=chrome&alpn=http%2F1.1#%40Moftconfig%20DEAD
 vless://43488128-319e-f480-64ea-0acdc712e2a8@139.84.236.5:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=www.alibaba.com&fp=chrome&pbk=UkoqOh9VtAhhMrlKY3wAmijgjCrLIKMZT-An0NjrHng&sid=8d17b7ebab7b99d7#%40Moftconfig%20DEAD
@@ -21,6 +20,7 @@ vless://497631c4-a1a4-03e8-a86a-f42873473bb6@66.90.92.50:8443?type=raw&security=
 vless://497631c4-a1a4-03e8-a86a-f42873473bb6@185.147.26.158:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&fp=edge&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%40Moftconfig%20%F0%9F%87%B7%F0%9F%87%BA%20DEAD
 vless://adc47bbf-b219-42b1-9a5b-9c5b8437a779@92.53.74.129:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=firefox&pbk=WjuwZbmCjN8TmT4wZL6zTevQr3mnOATafLpQi1ofzCs&sid=de7c7bd7#%40Moftconfig%20%F0%9F%87%AB%F0%9F%87%B7%20DEAD
 vless://497631c4-a1a4-45ff-a86a-f42873473bb6@89.105.212.139:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=nl.quattro-tech.ru&fp=edge&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%40Moftconfig%20%F0%9F%87%B3%F0%9F%87%B1%20DEAD
+vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.187:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=%2FRoBeRt#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20DEAD
 vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.27.66.214:2087?type=ws&security=tls&sni=amphetamine.adaspoloandco.com&host=amphetamine.adaspoloandco.com&path=%2Fdownload.php&fp=chrome&alpn=h2%2Chttp%2F1.1#%40Moftconfig%20%F0%9F%87%AB%F0%9F%87%AE%20DEAD
 vless://53510d6b-47e0-43d0-bd47-6934c1b26bbb@germanyserver.nizeo.ir:8443?type=ws&security=tls&sni=germanyserver.nizeo.ir&path=%2F&fp=ios&alpn=h2%2Chttp%2F1.1#%40Moftconfig%20%F0%9F%87%A9%F0%9F%87%AA%20DEAD
 vless://0d43ad56-1f5c-412d-a490-6e266efe4cdf@104.17.73.206:8443?type=ws&security=tls&sni=free-server.techsonic.me&host=free-server.techsonic.me&path=%2Ffree-server.techsonic.me&fp=chrome&alpn=h2%2Chttp%2F1.1#%40Moftconfig%20%F0%9F%87%B8%F0%9F%87%AC%20DEAD
