@@ -1,7 +1,10 @@
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@81.85.78.78:2200?type=ws&path=%2Fv1#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%8F%B3%20153ms
+socks://Og@45.94.213.189:1081#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%E2%8F%B3%20168ms
+vless://d4aad26f-70b6-4411-8517-17f7b4281886@130.17.2.48:2200?type=ws&path=%2Fv1#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%8F%B3%206695ms
 vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@130.17.2.28:2200?type=ws&host=rzd.ru&path=%2Fv1#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%8F%B3%20172ms
 vless://d4aad26f-70b6-4411-8517-17f7b4281886@168.222.140.233:2200?type=ws&path=%2Fv1#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%8C%8D%20Open%20%E2%8F%B3%20300ms
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206dVhTZ1cybTRzYmZvWWNrVGJGaUduYVZuUDF5Z0lVTGkxMkxQUXZVWk5qTT06Rk5Xekk0T3dQVE5nQUZaVVVVRmp4MTltNVlmTG8zcU5YdDA3dENRM2xadz0@65.109.219.124:18269#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%E2%8F%B3%20310ms
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@130.17.2.49:2200?type=ws&path=%2Fv1#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%8F%B3%202678ms
+vless://d4aad26f-70b6-4411-8517-17f7b4281886@130.17.2.49:2200?type=ws&path=%2Fv1#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%8F%B3%202678ms
 vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@81.85.78.193:2200?type=ws&host=rzd.ru&path=%2Fv1#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%8F%B3%207639ms
 vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?type=ws&path=%2Fv1#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%8F%B3%207962ms
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.124.225.132:22222?type=raw#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%9A%80%207.4MB/s%20%E2%8F%B3%2077ms
@@ -42,7 +45,6 @@ vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?type=raw&security
 vless://0b7a91b4-3a46-4152-a09e-67cfba3b5a5a@201.51.1.162:40443?type=raw&security=reality&flow=xtls-rprx-vision&sni=deepl.com&fp=random&pbk=3kFPRhnvODE81XecHw1X7eOwD9Fs1sr8_OCYM2ET7EQ&sid=2fe7#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%8F%B3%20245ms
 vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@162.159.38.119:443?type=ws&security=tls&sni=gioub.moonleafbox-kilo.info&host=gioub.moonleafbox-kilo.info&path=%2Fsea%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&fp=chrome#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%5BCF%5D%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%9A%80%204.6MB/s%20%E2%8F%B3%20255ms
 trojan://4PZV9xYUGS3OgZR92y9PrQ@5.23.55.128:2053?type=raw&security=tls&sni=vac-service.ru&fp=chrome#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%B7%F0%9F%87%BA%20%E2%8F%B3%20274ms
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206dVhTZ1cybTRzYmZvWWNrVGJGaUduYVZuUDF5Z0lVTGkxMkxQUXZVWk5qTT06ZDZMa2ptMTZsMko2aFhtYVJ0THpHRHlPZ2U2bEs3ZU5SdWdHaUM3R05Gdz0@65.109.219.124:18269#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%8F%B3%20288ms
 vless://358f44f0-2686-46c8-9cc6-ec52abd66df4@65.109.219.124:10485?type=raw#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%E2%8F%B3%20341ms
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@176.109.85.48:14443?type=ws&security=tls&sni=media.kinodrozd.com&path=%2F&fp=chrome#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%8F%B3%20434ms
 vless://b85c8be2-3109-4b8a-aa82-f0d8fe06f5ae@anydesk.com:8880?type=ws&host=young-dust-b8d9.31-8ba.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&fp=chrome&alpn=http%2F1.1#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%E2%8F%B3%20534ms
@@ -265,7 +267,6 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.95.89:22224?type=raw#%F0%9F%9
 vless://808a0627-05e5-47b3-8d27-edd65020ef09@37.142.205.77:20443?type=raw&security=reality&flow=xtls-rprx-vision&sni=%3A%2F%2Fmicrosoft.com&fp=chrome&pbk=p8q3yhwdryc9YfL-xSO78M03SIF5LrizXc_7R9ARYQ8&sid=183d612c#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%AE%F0%9F%87%B1%20%F0%9F%9A%80%201.7MB/s%20%E2%8F%B3%20896ms
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.57.236.62:22223?type=raw#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%8F%B3%20939ms
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.110.9:22222?type=raw#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%AB%F0%9F%87%B7%20%E2%8F%B3%201201ms
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?type=ws&host=live.ok.ru&path=%2Fv1#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%8F%B3%201218ms
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.102.150.4:22223?type=raw#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%8F%B3%201437ms
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.102.150.4:22224?type=raw#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%8F%B3%201629ms
 vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@172.67.74.10:443?type=ws&security=tls&sni=baguette.adaspoloandco.com&host=baguette.adaspoloandco.com&path=%2FGoorBah&fp=chrome#%F0%9F%92%8E%20Premium%20%5Bmci%5D%20%5BCF%5D%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%9A%80%201.5MB/s%20%E2%8F%B3%20235ms
