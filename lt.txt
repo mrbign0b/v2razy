@@ -1,0 +1,1 @@
+vless://d8fd2b9c-2ae9-433d-8f5d-30bfb1f23275@62.152.56.73:443?type=raw&security=reality&encryption=none&sni=wl-12.nodes.ac&fp=qq&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&sid=cf43c0c197cd464a&flow=xtls-rprx-vision&headerType=none#126-%F0%9F%87%B1%F0%9F%87%B9%20LT%20reality%20%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
