@@ -1,0 +1,1 @@
+vless://ff7390de-ce93-4d7d-b08b-bef8f71a85cf@104.16.107.139:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&host=tiny-lake-c7f3.16-1af.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none#494-%F0%9F%87%A8%F0%9F%87%A6%20CA%20ws%20%E2%9C%82%EF%B8%8F%40GheychiAmoozesh
