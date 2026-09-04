@@ -1,1 +1,1 @@
-vless://cf80b5fc-c445-4373-87e6-f8a22ad10d81@it.monkora.org:443?security=reality&type=tcp&sni=it.monkora.org&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&encryption=none#%F0%9F%87%AE%F0%9F%87%B9%20%7C%20%40WhiteDNS%20%7C%20IT107%7C35.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-IT
+ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ@91.201.65.122:9059#%F0%9F%87%AE%F0%9F%87%B9160949%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
