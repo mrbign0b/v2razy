@@ -1,0 +1,1 @@
+vless://812b1aeb-c6f7-43cb-8d8b-981711fea21a@172.65.90.52:8880?encryption=none&security=none&type=ws&host=dark-cake-4743.198-46c.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net#518.%20%F0%9F%87%B5%F0%9F%87%B1%20Poland
